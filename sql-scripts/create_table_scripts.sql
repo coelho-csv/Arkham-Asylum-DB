@@ -1,4 +1,4 @@
--- Cria as tabelas do banco(v1.0)
+-- Cria as tabelas do banco
 
 -- Tabela de pacientes:
 CREATE TABLE patients (
