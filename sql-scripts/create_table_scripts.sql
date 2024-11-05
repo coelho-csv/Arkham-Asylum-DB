@@ -27,7 +27,7 @@ CREATE TABLE staff (
 -- Tabela de treatments:
 CREATE TABLE treatments (
   treatments_id SERIAL PRIMARY KEY,
-  patients_id INT REFERENCES patients(patient_id) ON DELETE CASCADE,
+  patient_id INT REFERENCES patients(patient_id) ON DELETE CASCADE,
   staff_id INT REFERENCES staff(staff_id) ON DELETE CASCADE,
   start_date DATE,
   end_date DATE,
