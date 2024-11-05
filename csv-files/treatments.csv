@@ -1,0 +1,2970 @@
+patient_id,staff_id,start_date,end_date,treatment_type,outcome
+1,83,2020-11-02,2022-03-27,Cognitive Behavioral Therapy,Improving
+1,53,2023-01-24,2023-05-11,Psychosurgery,Deteriorating
+1,28,2023-01-03,2023-10-23,Aversion Therapy,Deteriorating
+1,23,2024-01-06,2024-08-17,Isolation Therapy,Improving
+2,24,2021-07-11,2022-05-19,Psychosurgery,Deteriorating
+2,20,2020-02-03,2021-02-10,Heavy Medication,Deteriorating
+2,92,2024-05-02,2024-10-16,Psychosurgery,Unchanged
+3,94,2021-12-21,2024-08-19,Isolation Therapy,Unpredictable
+3,16,2022-06-25,2022-11-30,Heavy Medication,Deteriorating
+3,26,2023-11-10,2024-01-13,Psychosurgery,Unchanged
+4,84,2020-05-23,2021-06-23,Electroconvulsive Therapy,Unchanged
+4,83,2024-07-14,2024-09-28,Electroconvulsive Therapy,Deteriorating
+4,58,2021-07-15,2021-09-06,Electroconvulsive Therapy,Unchanged
+5,15,2023-11-20,2024-10-08,Isolation Therapy,Deteriorating
+5,42,2023-01-03,2024-10-14,Electroconvulsive Therapy,Improving
+5,23,2022-05-26,2023-08-23,Cognitive Behavioral Therapy,Unpredictable
+5,9,2021-11-29,2024-06-02,Aversion Therapy,Improving
+6,86,2020-08-16,2022-07-16,Psychosurgery,Unpredictable
+6,38,2020-07-20,2023-11-24,Aversion Therapy,Improving
+6,65,2021-09-29,2022-07-26,Cognitive Behavioral Therapy,Deteriorating
+6,69,2020-05-07,2022-01-26,Aversion Therapy,Deteriorating
+6,17,2023-07-28,2023-08-22,Aversion Therapy,Improving
+7,36,2023-04-02,2023-11-30,Psychosurgery,Improving
+7,14,2020-01-06,2023-07-30,Heavy Medication,Unchanged
+7,83,2020-03-04,2022-03-06,Isolation Therapy,Unpredictable
+7,55,2020-08-28,2022-04-16,Cognitive Behavioral Therapy,Improving
+7,29,2023-12-11,2024-07-25,Psychosurgery,Unchanged
+8,2,2021-08-13,2021-11-18,Isolation Therapy,Unpredictable
+8,60,2024-07-11,2024-09-11,Aversion Therapy,Improving
+8,32,2020-09-17,2024-02-04,Heavy Medication,Unchanged
+8,7,2023-04-14,2024-08-26,Psychosurgery,Improving
+9,55,2020-12-07,2022-11-05,Psychosurgery,Improving
+9,79,2024-06-14,2024-07-13,Cognitive Behavioral Therapy,Unchanged
+9,77,2021-09-08,2021-09-16,Cognitive Behavioral Therapy,Deteriorating
+9,19,2024-06-10,2024-10-26,Electroconvulsive Therapy,Deteriorating
+10,43,2020-01-25,2022-12-23,Isolation Therapy,Deteriorating
+11,1,2020-02-01,2022-06-30,Electroconvulsive Therapy,Unpredictable
+11,21,2022-05-13,2022-07-03,Cognitive Behavioral Therapy,Deteriorating
+11,88,2022-01-26,2023-10-27,Electroconvulsive Therapy,Deteriorating
+11,60,2023-02-22,2023-12-09,Aversion Therapy,Improving
+11,41,2020-06-25,2023-12-24,Isolation Therapy,Improving
+12,11,2021-11-27,2021-12-01,Psychosurgery,Deteriorating
+12,75,2023-09-24,2023-12-11,Electroconvulsive Therapy,Unpredictable
+13,43,2024-02-24,2024-07-11,Isolation Therapy,Deteriorating
+14,90,2021-08-17,2024-02-11,Psychosurgery,Unchanged
+14,64,2022-02-16,2023-09-27,Heavy Medication,Deteriorating
+14,42,2020-03-15,2021-02-21,Electroconvulsive Therapy,Deteriorating
+14,53,2023-04-30,2024-08-25,Aversion Therapy,Unchanged
+15,100,2020-11-04,2021-02-27,Heavy Medication,Deteriorating
+15,30,2022-09-10,2024-05-17,Heavy Medication,Unchanged
+16,47,2024-09-11,2024-10-20,Heavy Medication,Improving
+16,76,2024-01-09,2024-05-19,Psychosurgery,Unpredictable
+17,46,2020-09-08,2023-08-06,Psychosurgery,Improving
+18,33,2022-08-19,2024-09-11,Heavy Medication,Unchanged
+18,70,2024-03-18,2024-07-29,Cognitive Behavioral Therapy,Deteriorating
+19,42,2024-07-30,2024-08-01,Isolation Therapy,Unpredictable
+19,40,2020-01-04,2023-04-17,Aversion Therapy,Unpredictable
+19,80,2022-02-03,2022-08-07,Isolation Therapy,Unchanged
+20,67,2021-10-11,2024-10-10,Psychosurgery,Improving
+21,35,2021-10-01,2022-06-27,Electroconvulsive Therapy,Improving
+21,97,2023-12-19,2024-05-01,Cognitive Behavioral Therapy,Unchanged
+21,51,2020-05-24,2020-12-31,Cognitive Behavioral Therapy,Unpredictable
+21,56,2019-12-27,2021-07-11,Isolation Therapy,Improving
+21,47,2021-07-16,2023-05-06,Isolation Therapy,Unpredictable
+22,51,2023-03-15,2023-07-25,Cognitive Behavioral Therapy,Deteriorating
+23,46,2020-08-26,2024-03-08,Electroconvulsive Therapy,Improving
+23,27,2021-11-05,2024-02-29,Cognitive Behavioral Therapy,Unchanged
+23,86,2022-08-01,2023-04-21,Cognitive Behavioral Therapy,Improving
+23,50,2022-01-16,2024-01-09,Isolation Therapy,Deteriorating
+23,77,2023-08-12,2024-06-16,Heavy Medication,Unpredictable
+24,23,2022-03-18,2023-03-10,Psychosurgery,Unchanged
+24,53,2020-02-01,2021-08-21,Heavy Medication,Improving
+25,3,2021-12-06,2022-01-03,Cognitive Behavioral Therapy,Deteriorating
+25,19,2023-05-13,2024-02-10,Psychosurgery,Unchanged
+25,10,2024-01-11,2024-08-18,Isolation Therapy,Deteriorating
+26,49,2020-07-19,2022-06-15,Aversion Therapy,Unchanged
+26,29,2021-01-12,2024-09-21,Aversion Therapy,Unpredictable
+26,54,2021-04-20,2023-07-02,Cognitive Behavioral Therapy,Unchanged
+26,36,2021-04-11,2024-02-06,Isolation Therapy,Unpredictable
+27,7,2024-10-17,2024-10-17,Psychosurgery,Improving
+27,53,2021-06-05,2023-05-05,Cognitive Behavioral Therapy,Unchanged
+27,69,2019-11-13,2020-07-24,Electroconvulsive Therapy,Deteriorating
+27,27,2020-01-31,2024-04-28,Isolation Therapy,Deteriorating
+27,80,2019-12-25,2020-10-29,Psychosurgery,Unpredictable
+28,29,2023-02-01,2023-05-21,Electroconvulsive Therapy,Deteriorating
+28,54,2022-03-07,2022-11-03,Heavy Medication,Unchanged
+29,94,2022-09-20,2023-07-15,Heavy Medication,Deteriorating
+29,92,2020-04-27,2020-05-01,Heavy Medication,Unchanged
+30,65,2023-04-29,2024-01-20,Aversion Therapy,Deteriorating
+30,91,2024-10-27,2024-10-28,Aversion Therapy,Unpredictable
+30,96,2024-02-01,2024-04-19,Isolation Therapy,Unchanged
+30,87,2024-03-15,2024-09-11,Psychosurgery,Deteriorating
+30,84,2020-12-17,2023-09-28,Aversion Therapy,Unpredictable
+31,9,2023-01-12,2023-02-10,Heavy Medication,Deteriorating
+31,57,2024-04-11,2024-06-06,Heavy Medication,Deteriorating
+31,71,2021-07-16,2024-03-13,Psychosurgery,Unchanged
+32,82,2020-03-29,2024-02-18,Cognitive Behavioral Therapy,Deteriorating
+32,83,2022-12-07,2024-08-11,Psychosurgery,Deteriorating
+32,57,2022-07-08,2022-12-06,Aversion Therapy,Improving
+32,9,2022-08-20,2023-08-23,Isolation Therapy,Improving
+33,85,2022-11-07,2024-08-23,Aversion Therapy,Unchanged
+34,37,2022-12-21,2023-04-06,Electroconvulsive Therapy,Improving
+35,37,2023-07-07,2024-09-21,Aversion Therapy,Improving
+35,48,2023-11-15,2024-04-18,Isolation Therapy,Unchanged
+36,12,2021-12-01,2022-09-13,Electroconvulsive Therapy,Unpredictable
+36,88,2022-02-25,2022-06-23,Cognitive Behavioral Therapy,Deteriorating
+36,29,2021-05-27,2024-10-16,Cognitive Behavioral Therapy,Unchanged
+36,4,2020-02-06,2022-01-28,Heavy Medication,Unpredictable
+36,78,2023-07-19,2024-04-17,Electroconvulsive Therapy,Deteriorating
+37,67,2023-01-13,2023-11-20,Psychosurgery,Unpredictable
+37,84,2020-05-28,2024-02-11,Aversion Therapy,Unchanged
+37,45,2023-01-25,2023-07-04,Heavy Medication,Unpredictable
+38,69,2021-12-08,2023-03-30,Electroconvulsive Therapy,Unpredictable
+38,6,2022-06-25,2024-09-07,Heavy Medication,Unpredictable
+38,64,2024-10-29,2024-11-02,Psychosurgery,Unchanged
+38,87,2023-04-25,2023-09-14,Electroconvulsive Therapy,Improving
+38,39,2020-02-26,2021-02-10,Psychosurgery,Improving
+39,10,2024-07-16,2024-08-01,Heavy Medication,Deteriorating
+39,80,2021-01-12,2022-08-14,Aversion Therapy,Unchanged
+39,79,2020-09-10,2023-03-05,Heavy Medication,Deteriorating
+40,34,2019-11-13,2023-07-23,Isolation Therapy,Improving
+40,87,2020-10-24,2021-07-28,Heavy Medication,Unpredictable
+41,73,2019-11-15,2020-07-03,Aversion Therapy,Unpredictable
+41,14,2021-12-08,2023-11-07,Electroconvulsive Therapy,Improving
+41,27,2021-05-16,2024-09-15,Heavy Medication,Improving
+41,48,2020-04-22,2021-11-01,Isolation Therapy,Improving
+41,94,2022-10-18,2024-02-20,Aversion Therapy,Unchanged
+42,65,2020-02-20,2022-07-04,Cognitive Behavioral Therapy,Unpredictable
+42,4,2021-02-12,2024-06-07,Cognitive Behavioral Therapy,Unpredictable
+43,13,2024-07-26,2024-08-26,Psychosurgery,Deteriorating
+43,50,2022-12-11,2024-08-20,Heavy Medication,Deteriorating
+44,4,2023-12-24,2024-01-04,Heavy Medication,Improving
+45,95,2021-08-20,2022-05-22,Electroconvulsive Therapy,Deteriorating
+45,49,2021-06-29,2023-10-28,Heavy Medication,Deteriorating
+46,83,2024-02-09,2024-09-26,Cognitive Behavioral Therapy,Deteriorating
+46,32,2020-05-16,2023-03-03,Heavy Medication,Unpredictable
+47,22,2020-04-03,2024-09-04,Isolation Therapy,Unpredictable
+48,99,2023-07-06,2023-11-09,Electroconvulsive Therapy,Unchanged
+49,63,2022-08-11,2024-06-03,Aversion Therapy,Unpredictable
+49,60,2024-03-07,2024-03-23,Isolation Therapy,Unpredictable
+50,5,2022-03-10,2024-03-06,Isolation Therapy,Unchanged
+51,67,2023-04-14,2024-08-30,Electroconvulsive Therapy,Deteriorating
+52,90,2023-02-09,2024-01-16,Electroconvulsive Therapy,Deteriorating
+52,87,2022-05-31,2022-08-12,Cognitive Behavioral Therapy,Deteriorating
+52,64,2021-09-16,2023-03-09,Aversion Therapy,Unpredictable
+52,100,2024-05-07,2024-11-01,Heavy Medication,Deteriorating
+52,32,2021-03-03,2023-06-09,Electroconvulsive Therapy,Unchanged
+53,38,2021-09-12,2023-07-22,Heavy Medication,Unchanged
+53,53,2019-12-23,2024-03-06,Aversion Therapy,Unpredictable
+53,79,2023-09-24,2024-10-02,Isolation Therapy,Deteriorating
+53,59,2021-08-02,2021-12-15,Isolation Therapy,Deteriorating
+53,73,2022-09-24,2023-09-04,Heavy Medication,Improving
+54,86,2021-06-24,2022-04-14,Electroconvulsive Therapy,Deteriorating
+55,45,2023-11-21,2024-06-05,Psychosurgery,Unchanged
+55,34,2024-01-12,2024-03-18,Cognitive Behavioral Therapy,Unchanged
+55,3,2020-11-05,2024-06-08,Psychosurgery,Unpredictable
+55,28,2023-06-20,2024-08-21,Psychosurgery,Unpredictable
+56,67,2022-11-25,2023-09-05,Isolation Therapy,Improving
+56,50,2021-11-07,2023-07-11,Psychosurgery,Unpredictable
+56,88,2022-11-24,2024-10-23,Heavy Medication,Deteriorating
+56,62,2023-04-15,2024-06-29,Heavy Medication,Unchanged
+56,73,2022-03-04,2022-06-12,Isolation Therapy,Improving
+57,43,2021-04-01,2021-07-18,Cognitive Behavioral Therapy,Deteriorating
+57,63,2021-06-30,2021-07-21,Cognitive Behavioral Therapy,Deteriorating
+58,100,2021-09-30,2024-09-05,Heavy Medication,Unpredictable
+58,59,2021-06-25,2023-12-02,Psychosurgery,Unpredictable
+58,65,2021-12-25,2024-05-10,Aversion Therapy,Deteriorating
+58,73,2022-05-28,2024-04-28,Electroconvulsive Therapy,Deteriorating
+59,92,2022-04-23,2023-03-10,Aversion Therapy,Deteriorating
+59,63,2020-08-05,2023-12-24,Cognitive Behavioral Therapy,Deteriorating
+59,22,2020-01-16,2021-07-08,Heavy Medication,Deteriorating
+59,47,2022-11-10,2024-06-05,Heavy Medication,Improving
+60,54,2023-01-24,2023-07-30,Electroconvulsive Therapy,Improving
+60,84,2021-08-07,2022-09-17,Electroconvulsive Therapy,Unchanged
+60,21,2020-12-22,2022-04-24,Isolation Therapy,Improving
+60,77,2024-03-20,2024-07-17,Cognitive Behavioral Therapy,Deteriorating
+60,60,2021-12-19,2022-08-15,Heavy Medication,Improving
+61,45,2022-01-11,2023-09-10,Aversion Therapy,Deteriorating
+62,48,2020-10-30,2024-10-01,Psychosurgery,Improving
+62,38,2021-05-08,2021-07-22,Isolation Therapy,Improving
+62,19,2021-04-14,2024-05-22,Psychosurgery,Unpredictable
+62,45,2022-10-28,2023-04-17,Isolation Therapy,Deteriorating
+62,45,2023-01-01,2024-02-28,Aversion Therapy,Unpredictable
+63,22,2022-12-23,2023-05-30,Heavy Medication,Unchanged
+64,56,2022-11-07,2024-07-16,Electroconvulsive Therapy,Unchanged
+64,68,2021-03-25,2023-04-06,Isolation Therapy,Unchanged
+64,15,2024-07-11,2024-09-17,Psychosurgery,Deteriorating
+65,76,2021-10-03,2021-11-15,Psychosurgery,Unchanged
+65,88,2023-04-24,2024-03-10,Aversion Therapy,Improving
+65,95,2024-07-19,2024-10-14,Isolation Therapy,Unpredictable
+65,11,2024-03-27,2024-08-14,Heavy Medication,Unpredictable
+65,100,2022-09-28,2024-01-11,Cognitive Behavioral Therapy,Improving
+66,39,2022-03-01,2023-09-06,Psychosurgery,Unchanged
+66,58,2022-01-20,2024-04-15,Psychosurgery,Unpredictable
+66,18,2023-03-18,2024-11-03,Heavy Medication,Unpredictable
+67,81,2024-07-20,2024-09-21,Isolation Therapy,Unchanged
+67,89,2021-01-03,2023-04-26,Psychosurgery,Improving
+67,84,2020-01-10,2021-09-07,Heavy Medication,Deteriorating
+68,47,2024-02-12,2024-08-25,Heavy Medication,Improving
+68,84,2021-01-20,2021-12-30,Aversion Therapy,Unpredictable
+68,99,2020-05-20,2023-05-28,Cognitive Behavioral Therapy,Unpredictable
+68,4,2023-08-02,2023-11-20,Psychosurgery,Unchanged
+68,80,2021-03-25,2024-06-07,Cognitive Behavioral Therapy,Unpredictable
+69,18,2020-12-30,2022-10-11,Cognitive Behavioral Therapy,Deteriorating
+69,94,2023-06-20,2024-07-31,Electroconvulsive Therapy,Unchanged
+69,70,2020-11-14,2023-08-01,Isolation Therapy,Unpredictable
+69,39,2024-01-08,2024-01-30,Heavy Medication,Improving
+70,68,2023-03-07,2023-05-03,Aversion Therapy,Unpredictable
+71,95,2022-01-30,2024-07-16,Aversion Therapy,Unchanged
+71,90,2020-03-13,2021-06-13,Electroconvulsive Therapy,Unpredictable
+71,31,2023-03-18,2024-10-25,Psychosurgery,Deteriorating
+71,47,2020-02-06,2023-08-02,Cognitive Behavioral Therapy,Unpredictable
+71,99,2022-10-08,2023-05-13,Heavy Medication,Deteriorating
+72,27,2023-08-24,2024-09-01,Electroconvulsive Therapy,Deteriorating
+72,72,2022-02-15,2022-03-29,Heavy Medication,Unpredictable
+73,67,2022-04-10,2024-06-29,Electroconvulsive Therapy,Deteriorating
+74,47,2022-11-03,2023-06-02,Isolation Therapy,Improving
+75,87,2024-01-01,2024-02-03,Electroconvulsive Therapy,Unpredictable
+75,18,2023-07-01,2024-05-28,Heavy Medication,Unchanged
+76,100,2021-09-28,2024-05-12,Psychosurgery,Deteriorating
+76,72,2020-06-18,2023-02-21,Isolation Therapy,Deteriorating
+77,96,2020-09-08,2024-05-29,Isolation Therapy,Improving
+77,14,2024-01-14,2024-02-13,Isolation Therapy,Improving
+77,61,2023-06-08,2024-10-31,Electroconvulsive Therapy,Unpredictable
+78,55,2023-12-30,2024-06-23,Electroconvulsive Therapy,Improving
+79,69,2023-08-06,2024-09-02,Aversion Therapy,Deteriorating
+79,62,2023-05-11,2023-07-17,Isolation Therapy,Deteriorating
+80,6,2023-05-26,2024-05-21,Heavy Medication,Deteriorating
+80,25,2024-01-28,2024-02-18,Electroconvulsive Therapy,Unchanged
+80,16,2024-04-26,2024-11-03,Electroconvulsive Therapy,Improving
+81,16,2023-01-15,2024-03-17,Cognitive Behavioral Therapy,Improving
+82,53,2023-03-19,2024-07-13,Aversion Therapy,Unpredictable
+82,89,2020-01-10,2020-04-29,Psychosurgery,Unpredictable
+83,50,2020-02-28,2020-08-22,Cognitive Behavioral Therapy,Deteriorating
+84,52,2022-09-11,2023-11-29,Psychosurgery,Unchanged
+84,85,2021-01-05,2024-05-09,Heavy Medication,Improving
+85,49,2023-10-27,2024-06-13,Cognitive Behavioral Therapy,Improving
+85,78,2024-09-14,2024-10-21,Heavy Medication,Deteriorating
+86,10,2019-12-25,2024-07-29,Electroconvulsive Therapy,Unchanged
+86,91,2023-11-27,2024-04-07,Heavy Medication,Improving
+87,98,2023-10-14,2024-08-18,Psychosurgery,Unchanged
+87,60,2024-01-20,2024-04-21,Cognitive Behavioral Therapy,Unchanged
+87,32,2020-03-14,2023-02-22,Heavy Medication,Unchanged
+88,74,2023-11-05,2024-04-24,Psychosurgery,Unpredictable
+88,42,2019-11-06,2023-11-30,Isolation Therapy,Unchanged
+88,36,2023-02-01,2023-07-03,Isolation Therapy,Improving
+89,82,2023-09-12,2023-12-16,Psychosurgery,Unpredictable
+89,98,2024-05-23,2024-07-08,Aversion Therapy,Unpredictable
+90,33,2021-09-17,2023-06-23,Psychosurgery,Unchanged
+90,97,2020-08-31,2022-05-26,Electroconvulsive Therapy,Unchanged
+90,59,2024-04-09,2024-09-10,Isolation Therapy,Improving
+90,66,2021-03-13,2021-10-18,Heavy Medication,Improving
+90,10,2023-05-14,2024-02-15,Electroconvulsive Therapy,Improving
+91,8,2022-08-16,2024-04-05,Cognitive Behavioral Therapy,Improving
+91,78,2023-07-15,2024-09-25,Heavy Medication,Improving
+92,19,2022-11-29,2023-02-19,Psychosurgery,Deteriorating
+92,40,2024-01-10,2024-07-12,Cognitive Behavioral Therapy,Improving
+92,51,2021-06-24,2022-07-18,Psychosurgery,Unpredictable
+92,81,2020-05-09,2021-01-16,Heavy Medication,Unchanged
+93,100,2024-02-17,2024-06-26,Electroconvulsive Therapy,Deteriorating
+93,43,2022-03-19,2023-12-25,Cognitive Behavioral Therapy,Unchanged
+94,40,2022-11-21,2024-03-26,Aversion Therapy,Improving
+94,51,2021-02-21,2023-10-08,Heavy Medication,Unchanged
+94,78,2021-04-04,2024-07-13,Electroconvulsive Therapy,Unchanged
+95,38,2021-01-18,2022-09-16,Isolation Therapy,Unpredictable
+95,53,2020-12-26,2021-11-05,Cognitive Behavioral Therapy,Improving
+96,24,2020-04-30,2023-01-26,Isolation Therapy,Unchanged
+96,8,2020-11-28,2022-05-15,Cognitive Behavioral Therapy,Unpredictable
+96,48,2022-06-10,2023-08-24,Isolation Therapy,Unpredictable
+96,99,2021-04-09,2022-05-23,Heavy Medication,Improving
+96,74,2020-08-29,2024-07-17,Aversion Therapy,Unpredictable
+97,55,2023-08-13,2024-10-27,Aversion Therapy,Deteriorating
+97,97,2024-05-22,2024-10-24,Electroconvulsive Therapy,Unchanged
+97,77,2022-06-23,2024-07-28,Electroconvulsive Therapy,Unpredictable
+98,54,2023-08-31,2023-11-21,Aversion Therapy,Unchanged
+98,50,2022-11-08,2023-12-20,Aversion Therapy,Improving
+98,68,2023-11-05,2024-09-22,Cognitive Behavioral Therapy,Deteriorating
+98,71,2021-01-18,2022-10-06,Isolation Therapy,Deteriorating
+99,89,2024-05-31,2024-10-23,Electroconvulsive Therapy,Deteriorating
+99,40,2020-03-20,2022-10-13,Heavy Medication,Deteriorating
+99,12,2021-06-21,2021-10-18,Cognitive Behavioral Therapy,Unchanged
+99,13,2022-03-17,2023-02-24,Heavy Medication,Improving
+99,79,2023-04-19,2024-03-27,Cognitive Behavioral Therapy,Unpredictable
+100,79,2021-07-14,2024-08-31,Electroconvulsive Therapy,Unpredictable
+100,16,2021-06-19,2022-10-11,Aversion Therapy,Improving
+100,45,2024-04-01,2024-04-26,Psychosurgery,Unchanged
+100,49,2023-04-27,2024-08-29,Psychosurgery,Unchanged
+100,1,2020-04-02,2021-05-19,Psychosurgery,Unpredictable
+101,47,2020-06-08,2021-06-09,Cognitive Behavioral Therapy,Unpredictable
+101,23,2024-07-17,2024-10-12,Psychosurgery,Deteriorating
+101,44,2022-11-23,2024-07-10,Psychosurgery,Unpredictable
+101,57,2022-07-17,2023-07-29,Electroconvulsive Therapy,Deteriorating
+102,2,2020-01-26,2023-02-21,Aversion Therapy,Unpredictable
+102,26,2022-01-01,2024-04-18,Aversion Therapy,Improving
+102,56,2021-07-19,2023-07-18,Aversion Therapy,Improving
+103,7,2023-08-06,2024-05-24,Aversion Therapy,Deteriorating
+103,22,2022-07-26,2023-10-18,Psychosurgery,Unchanged
+103,90,2020-03-11,2023-02-09,Cognitive Behavioral Therapy,Deteriorating
+103,69,2021-08-10,2022-01-22,Isolation Therapy,Unpredictable
+104,1,2022-03-25,2023-10-30,Electroconvulsive Therapy,Unchanged
+104,87,2022-04-30,2023-08-01,Electroconvulsive Therapy,Deteriorating
+104,39,2021-05-29,2024-06-30,Electroconvulsive Therapy,Unpredictable
+105,75,2022-03-10,2023-11-01,Heavy Medication,Deteriorating
+105,61,2021-07-02,2022-06-25,Isolation Therapy,Unpredictable
+106,8,2021-05-24,2024-02-07,Heavy Medication,Unchanged
+106,100,2023-06-26,2024-09-17,Electroconvulsive Therapy,Unchanged
+106,69,2023-08-31,2024-05-17,Psychosurgery,Improving
+106,50,2020-04-16,2021-09-19,Heavy Medication,Improving
+106,12,2021-03-21,2021-05-10,Cognitive Behavioral Therapy,Improving
+107,73,2022-06-22,2023-01-07,Cognitive Behavioral Therapy,Unpredictable
+107,13,2021-11-15,2023-11-04,Cognitive Behavioral Therapy,Unpredictable
+107,34,2024-02-07,2024-04-22,Isolation Therapy,Improving
+108,13,2021-11-21,2022-01-14,Electroconvulsive Therapy,Deteriorating
+108,4,2020-08-02,2023-07-04,Psychosurgery,Improving
+108,61,2022-05-19,2023-03-27,Cognitive Behavioral Therapy,Deteriorating
+108,3,2020-04-23,2022-10-23,Cognitive Behavioral Therapy,Deteriorating
+108,72,2022-12-19,2024-07-09,Heavy Medication,Unpredictable
+109,53,2022-03-02,2022-10-28,Aversion Therapy,Improving
+109,86,2023-08-15,2023-11-17,Psychosurgery,Improving
+109,84,2022-11-05,2023-04-11,Aversion Therapy,Improving
+109,18,2023-06-02,2024-05-28,Isolation Therapy,Deteriorating
+109,95,2022-08-06,2023-11-22,Aversion Therapy,Improving
+110,20,2024-09-22,2024-10-03,Cognitive Behavioral Therapy,Unchanged
+110,19,2021-05-16,2022-02-17,Electroconvulsive Therapy,Deteriorating
+110,1,2021-01-09,2023-05-10,Psychosurgery,Improving
+110,67,2020-09-28,2024-05-04,Cognitive Behavioral Therapy,Unchanged
+110,93,2024-09-21,2024-11-03,Psychosurgery,Deteriorating
+111,76,2022-01-01,2023-06-19,Aversion Therapy,Unchanged
+111,73,2024-07-19,2024-10-06,Aversion Therapy,Unchanged
+111,63,2023-06-14,2024-05-18,Cognitive Behavioral Therapy,Unpredictable
+111,1,2024-04-05,2024-08-30,Isolation Therapy,Unchanged
+112,54,2021-03-17,2023-05-12,Heavy Medication,Unpredictable
+112,12,2021-01-11,2024-06-12,Aversion Therapy,Deteriorating
+112,9,2022-04-09,2022-12-13,Electroconvulsive Therapy,Improving
+112,97,2022-03-29,2024-04-05,Aversion Therapy,Deteriorating
+113,68,2020-10-07,2020-10-09,Electroconvulsive Therapy,Deteriorating
+114,99,2021-09-21,2023-03-05,Isolation Therapy,Improving
+115,8,2023-02-09,2023-04-08,Aversion Therapy,Improving
+115,10,2021-08-31,2021-10-09,Cognitive Behavioral Therapy,Improving
+115,64,2024-06-09,2024-10-15,Heavy Medication,Unchanged
+115,69,2022-09-27,2023-02-23,Aversion Therapy,Unchanged
+116,76,2023-04-19,2024-09-06,Isolation Therapy,Deteriorating
+117,17,2021-07-21,2023-10-16,Isolation Therapy,Deteriorating
+117,32,2022-02-26,2023-07-05,Electroconvulsive Therapy,Deteriorating
+117,78,2024-01-27,2024-01-30,Heavy Medication,Unpredictable
+117,57,2022-02-10,2022-11-19,Aversion Therapy,Unpredictable
+117,5,2024-08-17,2024-09-21,Aversion Therapy,Deteriorating
+118,22,2022-05-11,2023-12-09,Psychosurgery,Unchanged
+119,92,2022-10-11,2024-04-17,Heavy Medication,Unpredictable
+119,78,2023-09-22,2024-06-28,Heavy Medication,Unchanged
+119,42,2023-12-17,2024-07-24,Aversion Therapy,Unpredictable
+119,16,2023-01-07,2023-03-24,Psychosurgery,Improving
+120,22,2024-03-11,2024-09-23,Cognitive Behavioral Therapy,Improving
+120,77,2023-12-02,2024-10-07,Electroconvulsive Therapy,Deteriorating
+121,26,2022-09-25,2024-07-28,Heavy Medication,Improving
+121,96,2022-04-16,2022-06-16,Isolation Therapy,Deteriorating
+121,17,2020-03-08,2022-01-31,Electroconvulsive Therapy,Unchanged
+122,76,2021-08-25,2024-09-07,Electroconvulsive Therapy,Improving
+122,55,2020-09-03,2020-11-02,Electroconvulsive Therapy,Unchanged
+122,29,2022-08-16,2024-05-16,Heavy Medication,Unpredictable
+123,32,2021-11-30,2023-02-18,Aversion Therapy,Improving
+123,15,2023-05-22,2024-03-07,Aversion Therapy,Deteriorating
+124,28,2024-02-20,2024-05-19,Isolation Therapy,Unpredictable
+124,40,2020-03-27,2021-01-14,Isolation Therapy,Deteriorating
+124,36,2022-11-06,2024-03-16,Aversion Therapy,Unpredictable
+125,69,2020-07-10,2023-03-10,Heavy Medication,Deteriorating
+125,5,2022-02-15,2022-03-14,Heavy Medication,Deteriorating
+126,5,2021-10-30,2023-03-27,Psychosurgery,Unchanged
+126,19,2023-02-27,2024-01-08,Heavy Medication,Unpredictable
+127,65,2024-06-23,2024-09-09,Heavy Medication,Deteriorating
+128,7,2022-07-26,2023-12-03,Psychosurgery,Unchanged
+128,21,2024-01-29,2024-03-03,Electroconvulsive Therapy,Unchanged
+128,42,2024-06-29,2024-09-08,Cognitive Behavioral Therapy,Unchanged
+129,48,2024-04-27,2024-08-29,Cognitive Behavioral Therapy,Deteriorating
+129,2,2020-09-06,2023-12-27,Isolation Therapy,Unchanged
+130,28,2021-02-12,2023-07-28,Cognitive Behavioral Therapy,Improving
+130,26,2021-09-12,2021-10-06,Heavy Medication,Deteriorating
+130,93,2022-04-28,2024-02-17,Cognitive Behavioral Therapy,Unchanged
+130,49,2024-05-02,2024-07-31,Aversion Therapy,Improving
+130,46,2020-08-13,2023-01-13,Aversion Therapy,Improving
+131,13,2021-08-13,2022-12-06,Heavy Medication,Improving
+131,34,2022-05-14,2024-03-24,Isolation Therapy,Unpredictable
+131,82,2024-02-13,2024-08-19,Cognitive Behavioral Therapy,Unpredictable
+131,60,2022-04-26,2024-09-08,Electroconvulsive Therapy,Deteriorating
+131,17,2024-01-19,2024-07-06,Aversion Therapy,Unchanged
+132,26,2024-04-22,2024-08-13,Psychosurgery,Deteriorating
+133,6,2020-08-08,2022-03-01,Isolation Therapy,Unchanged
+134,75,2020-11-26,2021-11-16,Isolation Therapy,Deteriorating
+134,61,2023-09-16,2024-06-20,Isolation Therapy,Deteriorating
+134,5,2022-10-30,2024-05-08,Heavy Medication,Unpredictable
+134,96,2023-01-03,2023-02-14,Psychosurgery,Improving
+134,75,2023-08-29,2023-12-22,Heavy Medication,Deteriorating
+135,57,2022-05-30,2023-10-22,Psychosurgery,Deteriorating
+135,8,2023-07-21,2024-10-21,Heavy Medication,Deteriorating
+135,59,2024-01-29,2024-02-06,Psychosurgery,Improving
+136,40,2020-05-04,2020-11-30,Cognitive Behavioral Therapy,Unchanged
+136,36,2020-12-18,2023-07-21,Heavy Medication,Improving
+136,82,2022-08-13,2024-10-30,Electroconvulsive Therapy,Unpredictable
+136,24,2021-04-03,2021-07-29,Heavy Medication,Deteriorating
+137,55,2023-10-27,2024-05-27,Cognitive Behavioral Therapy,Unpredictable
+138,43,2022-12-05,2024-06-10,Isolation Therapy,Improving
+138,48,2024-08-18,2024-11-01,Heavy Medication,Unchanged
+138,16,2021-10-26,2024-02-19,Cognitive Behavioral Therapy,Deteriorating
+138,56,2024-07-31,2024-10-21,Heavy Medication,Unchanged
+139,8,2021-01-03,2021-11-10,Psychosurgery,Unchanged
+140,16,2019-12-03,2022-11-19,Cognitive Behavioral Therapy,Unchanged
+140,18,2024-07-14,2024-09-25,Electroconvulsive Therapy,Unchanged
+141,45,2023-01-11,2024-09-08,Isolation Therapy,Deteriorating
+141,11,2024-10-15,2024-10-29,Heavy Medication,Unpredictable
+141,49,2024-07-25,2024-09-20,Psychosurgery,Unchanged
+141,11,2023-10-17,2024-05-06,Psychosurgery,Improving
+142,16,2021-04-15,2023-12-22,Cognitive Behavioral Therapy,Unpredictable
+143,98,2022-04-23,2024-11-01,Aversion Therapy,Deteriorating
+143,87,2023-11-15,2024-10-01,Heavy Medication,Improving
+143,76,2020-06-21,2023-01-27,Aversion Therapy,Unpredictable
+143,79,2020-06-15,2022-09-14,Cognitive Behavioral Therapy,Unpredictable
+143,42,2021-06-03,2022-02-03,Cognitive Behavioral Therapy,Deteriorating
+144,6,2020-10-19,2024-05-09,Aversion Therapy,Unpredictable
+144,35,2023-04-24,2024-06-04,Heavy Medication,Unchanged
+144,28,2023-05-06,2024-05-02,Electroconvulsive Therapy,Unchanged
+145,83,2022-09-17,2024-03-20,Heavy Medication,Improving
+145,12,2023-03-25,2023-12-13,Isolation Therapy,Improving
+145,22,2022-02-18,2024-03-15,Aversion Therapy,Deteriorating
+145,75,2021-11-30,2023-04-29,Cognitive Behavioral Therapy,Deteriorating
+145,71,2020-11-22,2021-01-03,Electroconvulsive Therapy,Improving
+146,75,2020-03-02,2021-05-31,Aversion Therapy,Deteriorating
+147,98,2020-02-05,2020-05-22,Psychosurgery,Improving
+147,13,2022-10-06,2023-12-14,Aversion Therapy,Improving
+148,30,2022-04-02,2024-03-16,Electroconvulsive Therapy,Improving
+148,67,2021-05-12,2021-10-14,Psychosurgery,Unchanged
+148,36,2019-12-12,2021-06-01,Electroconvulsive Therapy,Unpredictable
+148,89,2024-01-26,2024-08-25,Electroconvulsive Therapy,Unchanged
+149,50,2023-10-16,2024-02-02,Aversion Therapy,Unpredictable
+149,35,2022-12-19,2024-09-20,Psychosurgery,Unchanged
+149,98,2024-04-28,2024-09-20,Electroconvulsive Therapy,Unchanged
+149,88,2021-05-09,2021-09-12,Heavy Medication,Unpredictable
+149,20,2023-04-20,2024-08-28,Isolation Therapy,Improving
+150,50,2022-06-10,2022-06-25,Cognitive Behavioral Therapy,Unpredictable
+151,28,2019-11-08,2023-09-21,Cognitive Behavioral Therapy,Unchanged
+151,79,2022-08-22,2023-05-28,Isolation Therapy,Deteriorating
+151,77,2022-02-22,2023-07-25,Psychosurgery,Unchanged
+151,4,2020-05-22,2023-04-24,Cognitive Behavioral Therapy,Improving
+152,34,2022-06-14,2024-10-18,Cognitive Behavioral Therapy,Improving
+152,84,2022-02-13,2023-03-26,Psychosurgery,Unpredictable
+152,80,2023-07-09,2024-01-20,Heavy Medication,Unpredictable
+153,51,2023-04-29,2023-06-04,Isolation Therapy,Unchanged
+153,14,2020-09-05,2024-01-24,Heavy Medication,Deteriorating
+153,34,2023-07-08,2024-07-25,Aversion Therapy,Unpredictable
+154,2,2020-09-16,2024-04-05,Electroconvulsive Therapy,Unchanged
+154,29,2022-02-24,2023-11-11,Cognitive Behavioral Therapy,Deteriorating
+154,99,2021-11-08,2024-07-17,Heavy Medication,Unchanged
+154,67,2022-02-22,2022-10-21,Heavy Medication,Unchanged
+154,75,2024-06-19,2024-08-22,Heavy Medication,Unpredictable
+155,3,2021-04-25,2022-06-15,Heavy Medication,Unchanged
+155,4,2022-01-11,2023-05-11,Aversion Therapy,Deteriorating
+156,45,2020-02-15,2023-08-04,Psychosurgery,Improving
+156,3,2021-12-03,2024-04-10,Aversion Therapy,Improving
+156,81,2020-01-31,2022-10-10,Aversion Therapy,Deteriorating
+157,98,2022-07-06,2023-08-12,Isolation Therapy,Unpredictable
+157,55,2023-02-18,2023-11-24,Heavy Medication,Deteriorating
+157,97,2022-08-22,2024-07-18,Aversion Therapy,Deteriorating
+158,85,2024-07-10,2024-10-28,Heavy Medication,Unpredictable
+158,44,2023-10-20,2023-11-22,Aversion Therapy,Deteriorating
+159,87,2024-09-18,2024-09-20,Isolation Therapy,Deteriorating
+159,88,2024-07-29,2024-08-01,Heavy Medication,Unpredictable
+159,68,2020-07-23,2020-10-18,Psychosurgery,Unchanged
+159,20,2021-10-10,2024-09-25,Heavy Medication,Deteriorating
+159,50,2024-01-30,2024-02-27,Electroconvulsive Therapy,Deteriorating
+160,45,2020-11-08,2022-10-15,Cognitive Behavioral Therapy,Deteriorating
+160,38,2022-08-19,2024-01-18,Cognitive Behavioral Therapy,Deteriorating
+160,71,2021-09-14,2023-07-05,Electroconvulsive Therapy,Improving
+160,63,2022-10-29,2023-12-22,Electroconvulsive Therapy,Unchanged
+161,82,2023-07-24,2024-01-13,Electroconvulsive Therapy,Unpredictable
+161,54,2023-02-28,2024-01-29,Heavy Medication,Deteriorating
+161,1,2021-09-27,2022-12-09,Heavy Medication,Deteriorating
+161,16,2022-07-07,2022-12-27,Isolation Therapy,Unchanged
+161,65,2023-10-21,2024-01-06,Psychosurgery,Unpredictable
+162,22,2020-09-20,2021-07-19,Heavy Medication,Improving
+162,15,2020-09-19,2024-03-03,Electroconvulsive Therapy,Deteriorating
+162,42,2020-08-02,2020-12-08,Aversion Therapy,Deteriorating
+163,100,2024-05-31,2024-07-05,Isolation Therapy,Deteriorating
+163,6,2023-01-24,2023-09-22,Isolation Therapy,Unpredictable
+163,23,2024-04-16,2024-09-07,Heavy Medication,Unpredictable
+163,39,2021-12-20,2022-06-26,Heavy Medication,Unpredictable
+163,72,2023-10-14,2024-01-29,Electroconvulsive Therapy,Improving
+164,6,2023-08-10,2024-04-27,Aversion Therapy,Unchanged
+164,63,2022-01-21,2022-07-21,Isolation Therapy,Deteriorating
+164,97,2019-12-22,2022-08-29,Heavy Medication,Deteriorating
+164,14,2022-01-25,2024-08-30,Electroconvulsive Therapy,Unchanged
+164,89,2023-09-09,2024-08-14,Electroconvulsive Therapy,Unpredictable
+165,37,2023-03-19,2023-08-12,Heavy Medication,Deteriorating
+165,16,2021-02-16,2021-12-22,Aversion Therapy,Unchanged
+165,43,2022-10-17,2024-05-11,Heavy Medication,Improving
+165,66,2022-05-11,2024-05-22,Electroconvulsive Therapy,Improving
+166,7,2023-02-07,2024-04-09,Heavy Medication,Unchanged
+166,54,2021-06-21,2024-03-10,Psychosurgery,Unpredictable
+166,51,2022-12-18,2024-11-02,Cognitive Behavioral Therapy,Unpredictable
+167,37,2023-12-19,2024-11-03,Electroconvulsive Therapy,Unchanged
+167,34,2022-12-04,2024-10-31,Aversion Therapy,Improving
+167,18,2020-09-22,2024-01-14,Isolation Therapy,Unchanged
+167,87,2020-08-30,2024-10-02,Electroconvulsive Therapy,Improving
+167,62,2024-10-16,2024-10-31,Psychosurgery,Deteriorating
+168,94,2020-04-27,2023-10-27,Electroconvulsive Therapy,Improving
+169,29,2023-10-15,2024-04-03,Aversion Therapy,Improving
+169,60,2024-10-15,2024-10-20,Heavy Medication,Deteriorating
+170,32,2020-03-18,2023-07-15,Aversion Therapy,Improving
+170,32,2022-07-12,2023-11-18,Psychosurgery,Unchanged
+171,76,2021-07-25,2022-08-02,Cognitive Behavioral Therapy,Unchanged
+171,11,2024-10-04,2024-10-14,Isolation Therapy,Unpredictable
+172,56,2021-01-08,2024-02-27,Cognitive Behavioral Therapy,Unchanged
+173,74,2021-03-16,2024-02-23,Cognitive Behavioral Therapy,Improving
+173,57,2024-07-24,2024-09-17,Psychosurgery,Deteriorating
+173,40,2022-12-24,2023-07-16,Heavy Medication,Improving
+173,2,2020-11-27,2021-09-27,Psychosurgery,Deteriorating
+174,19,2023-07-04,2024-08-26,Cognitive Behavioral Therapy,Unpredictable
+175,54,2021-02-11,2021-11-08,Isolation Therapy,Unchanged
+175,57,2024-10-27,2024-10-28,Heavy Medication,Unpredictable
+176,54,2021-01-22,2024-10-02,Cognitive Behavioral Therapy,Unpredictable
+176,90,2021-03-27,2022-11-09,Isolation Therapy,Unchanged
+176,54,2020-05-06,2022-09-15,Isolation Therapy,Deteriorating
+176,50,2023-12-03,2024-08-01,Psychosurgery,Unpredictable
+177,71,2023-03-23,2024-04-19,Electroconvulsive Therapy,Unchanged
+177,64,2022-07-05,2024-05-25,Cognitive Behavioral Therapy,Unchanged
+177,6,2023-08-01,2023-08-19,Aversion Therapy,Improving
+177,60,2023-06-07,2023-11-16,Aversion Therapy,Unpredictable
+178,68,2022-06-02,2024-06-30,Cognitive Behavioral Therapy,Unchanged
+178,17,2020-06-23,2024-01-11,Aversion Therapy,Unpredictable
+179,85,2021-01-10,2023-09-01,Cognitive Behavioral Therapy,Deteriorating
+179,94,2023-07-18,2023-11-06,Heavy Medication,Improving
+180,6,2024-01-14,2024-09-27,Cognitive Behavioral Therapy,Unpredictable
+180,95,2020-06-10,2021-05-14,Psychosurgery,Deteriorating
+180,78,2024-07-19,2024-08-09,Isolation Therapy,Unpredictable
+181,79,2023-08-05,2024-10-20,Isolation Therapy,Improving
+181,62,2023-01-06,2024-07-15,Aversion Therapy,Unchanged
+181,61,2021-04-17,2021-12-06,Cognitive Behavioral Therapy,Unchanged
+182,31,2022-12-15,2023-12-01,Isolation Therapy,Improving
+182,89,2022-12-26,2023-07-06,Heavy Medication,Unpredictable
+182,75,2022-07-02,2023-11-12,Cognitive Behavioral Therapy,Unchanged
+183,36,2024-03-16,2024-07-28,Cognitive Behavioral Therapy,Unchanged
+183,36,2022-01-11,2022-05-10,Isolation Therapy,Deteriorating
+184,38,2020-06-04,2022-06-19,Isolation Therapy,Unpredictable
+184,50,2023-04-08,2023-10-02,Cognitive Behavioral Therapy,Unchanged
+184,21,2022-08-06,2023-07-22,Electroconvulsive Therapy,Improving
+185,64,2023-05-15,2024-03-29,Psychosurgery,Improving
+185,7,2022-06-05,2023-12-24,Isolation Therapy,Unpredictable
+185,95,2023-08-20,2024-04-25,Aversion Therapy,Deteriorating
+185,58,2020-12-12,2021-08-18,Electroconvulsive Therapy,Unpredictable
+186,86,2023-12-29,2024-08-27,Psychosurgery,Unpredictable
+186,76,2020-03-28,2020-06-19,Heavy Medication,Deteriorating
+186,10,2023-06-16,2023-10-10,Isolation Therapy,Improving
+186,1,2020-03-02,2024-01-20,Isolation Therapy,Unpredictable
+186,13,2019-11-14,2023-10-29,Psychosurgery,Unpredictable
+187,8,2022-10-27,2024-05-26,Electroconvulsive Therapy,Unchanged
+187,44,2021-06-23,2022-10-22,Heavy Medication,Unchanged
+187,54,2021-12-11,2022-08-30,Aversion Therapy,Unpredictable
+187,69,2024-09-09,2024-09-25,Cognitive Behavioral Therapy,Improving
+187,28,2024-08-02,2024-08-13,Electroconvulsive Therapy,Deteriorating
+188,100,2023-07-02,2024-03-28,Aversion Therapy,Unpredictable
+188,93,2024-04-29,2024-10-26,Cognitive Behavioral Therapy,Unchanged
+188,5,2024-05-25,2024-06-14,Electroconvulsive Therapy,Improving
+189,62,2023-06-22,2023-07-14,Aversion Therapy,Improving
+189,67,2023-04-04,2023-12-15,Heavy Medication,Unpredictable
+189,60,2023-09-27,2023-10-23,Isolation Therapy,Unchanged
+189,36,2024-03-18,2024-09-11,Isolation Therapy,Deteriorating
+189,82,2022-05-23,2024-07-25,Cognitive Behavioral Therapy,Unpredictable
+190,93,2022-03-19,2023-07-02,Heavy Medication,Unchanged
+190,92,2022-12-29,2024-05-31,Heavy Medication,Improving
+191,80,2022-02-25,2022-07-29,Psychosurgery,Deteriorating
+191,92,2023-04-19,2023-04-21,Heavy Medication,Improving
+191,53,2023-11-30,2024-03-20,Isolation Therapy,Unchanged
+192,20,2019-11-06,2024-10-03,Electroconvulsive Therapy,Unchanged
+192,49,2020-12-18,2021-12-17,Isolation Therapy,Deteriorating
+193,77,2020-12-19,2022-06-07,Psychosurgery,Improving
+193,100,2020-05-08,2022-11-10,Cognitive Behavioral Therapy,Improving
+193,36,2020-07-07,2021-11-26,Aversion Therapy,Deteriorating
+193,85,2023-07-29,2024-03-13,Cognitive Behavioral Therapy,Improving
+193,100,2022-10-05,2024-02-24,Isolation Therapy,Deteriorating
+194,19,2023-11-13,2024-07-09,Electroconvulsive Therapy,Unpredictable
+194,91,2023-04-23,2023-11-14,Psychosurgery,Unpredictable
+194,54,2023-01-10,2024-02-17,Aversion Therapy,Unpredictable
+194,69,2019-11-15,2020-04-16,Electroconvulsive Therapy,Deteriorating
+194,85,2020-11-27,2021-04-14,Aversion Therapy,Improving
+195,29,2020-12-11,2022-08-27,Electroconvulsive Therapy,Deteriorating
+195,46,2024-09-13,2024-10-23,Psychosurgery,Deteriorating
+195,82,2020-11-10,2024-10-31,Electroconvulsive Therapy,Improving
+195,22,2024-05-20,2024-06-19,Aversion Therapy,Improving
+196,64,2022-09-28,2024-01-10,Cognitive Behavioral Therapy,Unchanged
+196,35,2020-03-13,2023-01-01,Psychosurgery,Unpredictable
+196,44,2022-10-28,2022-12-03,Heavy Medication,Unpredictable
+196,99,2021-01-04,2021-07-27,Aversion Therapy,Improving
+197,38,2024-07-02,2024-10-17,Cognitive Behavioral Therapy,Improving
+197,17,2021-06-24,2023-06-27,Cognitive Behavioral Therapy,Unpredictable
+197,18,2021-03-25,2022-06-04,Psychosurgery,Unpredictable
+198,44,2020-11-21,2022-12-15,Psychosurgery,Deteriorating
+198,65,2021-10-24,2022-11-09,Heavy Medication,Deteriorating
+198,58,2024-10-05,2024-10-09,Heavy Medication,Unchanged
+199,32,2021-02-05,2022-05-09,Isolation Therapy,Deteriorating
+199,71,2020-06-09,2021-10-31,Isolation Therapy,Improving
+199,75,2019-11-13,2024-05-03,Isolation Therapy,Unchanged
+199,24,2024-02-01,2024-08-04,Isolation Therapy,Unchanged
+200,98,2024-03-16,2024-10-24,Heavy Medication,Unpredictable
+200,5,2021-09-20,2021-11-29,Electroconvulsive Therapy,Improving
+201,5,2024-04-23,2024-08-19,Electroconvulsive Therapy,Unpredictable
+201,95,2020-06-12,2022-02-09,Psychosurgery,Improving
+201,87,2022-11-11,2023-02-18,Heavy Medication,Unpredictable
+201,21,2022-07-23,2022-12-20,Aversion Therapy,Improving
+201,78,2020-04-04,2022-03-23,Aversion Therapy,Unchanged
+202,70,2023-08-21,2024-01-25,Heavy Medication,Improving
+202,19,2020-10-02,2022-08-20,Isolation Therapy,Unpredictable
+202,93,2022-07-24,2022-09-03,Psychosurgery,Improving
+203,6,2024-01-04,2024-06-30,Psychosurgery,Deteriorating
+204,5,2023-06-21,2024-10-19,Cognitive Behavioral Therapy,Deteriorating
+205,62,2023-03-29,2024-08-23,Psychosurgery,Improving
+205,36,2019-12-10,2024-07-17,Isolation Therapy,Unchanged
+205,9,2023-08-19,2024-05-02,Electroconvulsive Therapy,Improving
+205,94,2022-01-19,2022-09-16,Electroconvulsive Therapy,Improving
+206,50,2020-02-11,2020-03-01,Isolation Therapy,Improving
+206,41,2023-02-26,2024-10-12,Heavy Medication,Unchanged
+206,49,2020-11-25,2021-03-02,Aversion Therapy,Deteriorating
+206,78,2020-09-21,2021-10-20,Psychosurgery,Unpredictable
+207,89,2024-03-28,2024-07-17,Cognitive Behavioral Therapy,Unchanged
+207,84,2023-05-21,2024-01-15,Psychosurgery,Unchanged
+207,53,2024-07-23,2024-10-25,Heavy Medication,Unchanged
+207,85,2021-06-24,2023-12-13,Isolation Therapy,Deteriorating
+207,2,2020-07-29,2022-02-22,Cognitive Behavioral Therapy,Deteriorating
+208,62,2022-10-07,2023-08-20,Cognitive Behavioral Therapy,Unpredictable
+209,26,2021-02-20,2022-01-13,Electroconvulsive Therapy,Deteriorating
+209,89,2020-12-24,2022-11-08,Heavy Medication,Deteriorating
+209,28,2020-01-12,2020-07-06,Aversion Therapy,Deteriorating
+209,59,2021-09-05,2022-01-12,Psychosurgery,Improving
+209,3,2020-02-10,2023-05-08,Cognitive Behavioral Therapy,Deteriorating
+210,81,2024-10-28,2024-10-29,Electroconvulsive Therapy,Deteriorating
+210,3,2022-07-01,2024-10-15,Isolation Therapy,Unpredictable
+210,9,2023-05-25,2024-07-06,Aversion Therapy,Improving
+210,25,2022-12-27,2024-02-06,Isolation Therapy,Improving
+211,57,2021-01-20,2024-02-02,Electroconvulsive Therapy,Unpredictable
+211,38,2022-07-13,2022-12-16,Aversion Therapy,Unchanged
+211,52,2020-02-26,2022-01-31,Cognitive Behavioral Therapy,Deteriorating
+211,7,2022-09-08,2023-11-28,Isolation Therapy,Improving
+211,86,2024-05-26,2024-08-17,Electroconvulsive Therapy,Improving
+212,100,2021-08-29,2021-12-13,Aversion Therapy,Unchanged
+212,62,2021-10-04,2023-06-10,Cognitive Behavioral Therapy,Unchanged
+212,95,2024-03-03,2024-07-15,Isolation Therapy,Unchanged
+213,87,2023-07-20,2023-11-18,Electroconvulsive Therapy,Unpredictable
+213,27,2020-05-18,2020-12-30,Electroconvulsive Therapy,Improving
+213,60,2022-06-23,2023-05-11,Psychosurgery,Unpredictable
+213,54,2019-11-05,2022-09-13,Psychosurgery,Unchanged
+213,95,2020-10-04,2024-04-25,Psychosurgery,Unpredictable
+214,56,2024-01-31,2024-08-11,Heavy Medication,Deteriorating
+214,22,2024-07-04,2024-07-21,Electroconvulsive Therapy,Deteriorating
+214,96,2024-03-23,2024-10-28,Cognitive Behavioral Therapy,Unpredictable
+214,44,2024-07-30,2024-10-06,Psychosurgery,Improving
+215,15,2023-06-07,2024-04-16,Cognitive Behavioral Therapy,Unpredictable
+215,49,2023-08-18,2024-09-08,Heavy Medication,Unchanged
+215,12,2022-01-08,2022-03-06,Cognitive Behavioral Therapy,Unpredictable
+215,5,2020-09-02,2021-08-29,Cognitive Behavioral Therapy,Unchanged
+216,15,2021-12-13,2024-08-12,Psychosurgery,Deteriorating
+216,42,2023-02-17,2024-01-02,Electroconvulsive Therapy,Deteriorating
+216,64,2023-06-27,2024-07-07,Psychosurgery,Improving
+216,69,2024-10-20,2024-10-25,Isolation Therapy,Deteriorating
+217,83,2022-11-09,2024-05-19,Isolation Therapy,Unpredictable
+217,25,2020-06-14,2021-08-20,Cognitive Behavioral Therapy,Deteriorating
+217,80,2019-12-17,2020-12-25,Heavy Medication,Unchanged
+218,5,2021-05-17,2023-04-13,Heavy Medication,Unpredictable
+219,82,2020-08-15,2023-10-02,Heavy Medication,Improving
+219,96,2024-02-07,2024-03-19,Heavy Medication,Improving
+219,90,2021-06-07,2021-07-18,Electroconvulsive Therapy,Deteriorating
+219,75,2021-04-30,2022-02-05,Heavy Medication,Improving
+219,41,2021-01-09,2022-03-17,Heavy Medication,Deteriorating
+220,79,2022-05-09,2023-12-31,Aversion Therapy,Unpredictable
+220,36,2021-11-22,2023-11-13,Electroconvulsive Therapy,Improving
+221,100,2020-11-02,2024-01-28,Aversion Therapy,Deteriorating
+221,19,2020-06-24,2023-05-26,Isolation Therapy,Unchanged
+221,94,2024-02-13,2024-09-21,Electroconvulsive Therapy,Unchanged
+222,54,2021-12-13,2023-07-06,Heavy Medication,Unpredictable
+222,1,2022-04-20,2024-09-06,Heavy Medication,Deteriorating
+222,54,2023-05-29,2023-12-28,Electroconvulsive Therapy,Unpredictable
+223,86,2024-06-10,2024-10-17,Isolation Therapy,Unchanged
+223,11,2020-01-11,2022-09-11,Psychosurgery,Unchanged
+224,95,2021-08-04,2023-09-25,Psychosurgery,Deteriorating
+225,60,2021-11-20,2024-04-24,Heavy Medication,Improving
+226,29,2021-03-27,2022-07-03,Cognitive Behavioral Therapy,Unchanged
+226,14,2024-07-02,2024-07-02,Psychosurgery,Improving
+226,51,2020-10-15,2021-01-30,Psychosurgery,Deteriorating
+226,44,2023-12-14,2024-07-31,Aversion Therapy,Deteriorating
+227,82,2022-09-17,2022-11-03,Heavy Medication,Unpredictable
+227,16,2021-08-17,2022-09-21,Psychosurgery,Unchanged
+228,87,2021-06-24,2021-10-08,Isolation Therapy,Deteriorating
+228,26,2023-01-04,2023-08-01,Cognitive Behavioral Therapy,Improving
+228,68,2022-09-05,2024-07-30,Aversion Therapy,Unchanged
+228,70,2021-06-08,2022-09-16,Psychosurgery,Improving
+229,4,2022-03-20,2022-04-16,Heavy Medication,Improving
+229,38,2020-03-02,2021-08-26,Electroconvulsive Therapy,Unpredictable
+229,98,2022-11-23,2024-09-03,Cognitive Behavioral Therapy,Unchanged
+229,84,2024-08-24,2024-09-03,Heavy Medication,Deteriorating
+230,18,2023-10-07,2023-10-30,Aversion Therapy,Unpredictable
+230,57,2023-05-13,2024-07-15,Cognitive Behavioral Therapy,Unchanged
+230,34,2020-01-22,2023-04-27,Aversion Therapy,Improving
+231,77,2021-07-16,2023-09-04,Aversion Therapy,Unchanged
+231,70,2022-12-22,2024-03-10,Heavy Medication,Deteriorating
+232,21,2024-01-10,2024-09-23,Aversion Therapy,Deteriorating
+232,83,2020-05-31,2020-07-03,Isolation Therapy,Unpredictable
+232,27,2020-07-04,2022-01-15,Heavy Medication,Unchanged
+233,86,2020-09-16,2021-10-01,Cognitive Behavioral Therapy,Improving
+233,54,2021-08-19,2022-11-25,Heavy Medication,Unpredictable
+233,81,2023-03-21,2023-08-30,Electroconvulsive Therapy,Improving
+233,28,2022-04-07,2024-01-08,Electroconvulsive Therapy,Unchanged
+233,97,2023-09-02,2024-04-07,Isolation Therapy,Improving
+234,85,2023-04-23,2023-07-23,Heavy Medication,Improving
+234,14,2021-03-06,2021-11-23,Heavy Medication,Deteriorating
+234,42,2024-02-10,2024-09-27,Isolation Therapy,Improving
+234,83,2024-07-28,2024-10-09,Electroconvulsive Therapy,Unchanged
+234,63,2023-01-29,2024-05-09,Isolation Therapy,Deteriorating
+235,10,2024-03-24,2024-05-26,Isolation Therapy,Unchanged
+235,60,2021-12-23,2024-09-16,Isolation Therapy,Improving
+235,1,2024-02-01,2024-06-12,Isolation Therapy,Deteriorating
+235,22,2021-05-13,2023-07-06,Isolation Therapy,Unpredictable
+236,76,2024-05-10,2024-06-14,Psychosurgery,Unpredictable
+236,17,2022-08-13,2024-01-21,Aversion Therapy,Improving
+236,37,2021-08-20,2023-04-07,Electroconvulsive Therapy,Improving
+237,45,2022-09-02,2023-01-09,Cognitive Behavioral Therapy,Improving
+237,68,2021-06-29,2022-11-24,Electroconvulsive Therapy,Unchanged
+237,88,2024-02-24,2024-10-13,Electroconvulsive Therapy,Unpredictable
+237,90,2024-07-19,2024-09-21,Psychosurgery,Unpredictable
+237,19,2020-05-25,2023-02-02,Isolation Therapy,Unchanged
+238,90,2021-01-09,2023-09-07,Aversion Therapy,Unchanged
+238,18,2024-10-06,2024-10-12,Aversion Therapy,Unchanged
+238,60,2022-07-13,2022-09-09,Heavy Medication,Unchanged
+239,82,2021-12-23,2024-07-07,Cognitive Behavioral Therapy,Improving
+240,20,2021-12-18,2023-11-02,Psychosurgery,Unpredictable
+241,17,2024-08-25,2024-10-16,Isolation Therapy,Improving
+241,54,2024-02-16,2024-02-22,Psychosurgery,Unpredictable
+242,4,2020-11-06,2023-10-07,Cognitive Behavioral Therapy,Deteriorating
+242,100,2022-07-10,2023-05-27,Heavy Medication,Unpredictable
+242,11,2019-12-13,2022-07-29,Electroconvulsive Therapy,Improving
+242,4,2021-04-10,2022-05-29,Isolation Therapy,Unpredictable
+242,29,2020-11-10,2024-06-16,Electroconvulsive Therapy,Improving
+243,29,2021-12-17,2024-05-01,Psychosurgery,Unchanged
+243,87,2023-09-05,2024-03-18,Heavy Medication,Deteriorating
+243,93,2024-04-29,2024-09-06,Aversion Therapy,Deteriorating
+243,45,2021-08-12,2022-02-25,Electroconvulsive Therapy,Deteriorating
+243,90,2020-07-26,2021-08-20,Heavy Medication,Improving
+244,80,2020-01-27,2023-07-02,Cognitive Behavioral Therapy,Improving
+244,24,2020-03-30,2021-03-07,Aversion Therapy,Deteriorating
+244,67,2021-06-16,2022-10-12,Cognitive Behavioral Therapy,Unpredictable
+244,66,2020-03-03,2021-07-21,Isolation Therapy,Improving
+245,3,2024-03-21,2024-05-01,Psychosurgery,Unpredictable
+246,32,2024-10-20,2024-10-24,Cognitive Behavioral Therapy,Improving
+246,31,2024-07-22,2024-10-11,Aversion Therapy,Deteriorating
+246,55,2024-08-01,2024-10-13,Electroconvulsive Therapy,Deteriorating
+247,98,2023-03-29,2024-04-02,Isolation Therapy,Unpredictable
+248,22,2020-03-10,2022-06-17,Cognitive Behavioral Therapy,Unchanged
+248,59,2022-10-13,2022-12-04,Heavy Medication,Improving
+248,8,2023-12-03,2024-04-02,Aversion Therapy,Unpredictable
+248,84,2023-03-14,2024-01-05,Electroconvulsive Therapy,Unpredictable
+248,51,2023-07-26,2024-10-27,Isolation Therapy,Improving
+249,81,2022-08-15,2022-09-22,Heavy Medication,Improving
+249,16,2024-10-24,2024-10-31,Electroconvulsive Therapy,Deteriorating
+249,100,2022-09-19,2024-05-01,Psychosurgery,Deteriorating
+249,88,2020-12-09,2023-07-16,Cognitive Behavioral Therapy,Unchanged
+250,100,2020-10-14,2021-07-17,Psychosurgery,Deteriorating
+251,23,2021-12-10,2023-06-27,Psychosurgery,Unchanged
+251,83,2020-11-02,2024-03-06,Cognitive Behavioral Therapy,Improving
+251,52,2022-06-23,2023-12-15,Isolation Therapy,Unpredictable
+251,49,2022-04-09,2022-09-11,Cognitive Behavioral Therapy,Unpredictable
+252,44,2022-06-04,2024-10-29,Cognitive Behavioral Therapy,Unchanged
+253,3,2021-05-15,2023-01-16,Aversion Therapy,Improving
+253,62,2022-04-27,2022-11-04,Electroconvulsive Therapy,Deteriorating
+253,13,2024-04-22,2024-10-25,Cognitive Behavioral Therapy,Deteriorating
+253,74,2022-02-27,2022-07-28,Psychosurgery,Unchanged
+253,32,2021-01-16,2024-02-06,Psychosurgery,Unchanged
+254,8,2024-10-29,2024-10-29,Heavy Medication,Unpredictable
+254,5,2022-05-10,2024-07-17,Aversion Therapy,Improving
+255,9,2023-12-16,2024-09-14,Electroconvulsive Therapy,Unpredictable
+256,39,2020-06-17,2021-07-31,Heavy Medication,Deteriorating
+256,7,2023-02-16,2023-08-18,Isolation Therapy,Improving
+256,33,2021-07-20,2023-12-12,Psychosurgery,Unpredictable
+257,93,2020-09-11,2022-12-03,Cognitive Behavioral Therapy,Unpredictable
+257,40,2020-10-22,2021-06-23,Heavy Medication,Unchanged
+257,59,2022-09-03,2024-10-16,Aversion Therapy,Unpredictable
+257,75,2023-10-31,2024-06-18,Cognitive Behavioral Therapy,Deteriorating
+257,90,2020-10-27,2023-06-07,Electroconvulsive Therapy,Unpredictable
+258,38,2022-03-29,2023-05-02,Cognitive Behavioral Therapy,Improving
+258,27,2019-12-13,2021-01-22,Psychosurgery,Improving
+259,89,2020-09-19,2021-07-19,Heavy Medication,Deteriorating
+259,42,2023-03-13,2024-07-25,Isolation Therapy,Deteriorating
+260,2,2022-08-11,2023-01-11,Psychosurgery,Improving
+260,44,2021-11-15,2024-07-28,Psychosurgery,Improving
+260,22,2023-01-14,2024-03-03,Cognitive Behavioral Therapy,Improving
+261,2,2019-11-21,2021-11-06,Psychosurgery,Improving
+261,8,2024-02-15,2024-06-22,Heavy Medication,Unpredictable
+261,71,2023-11-26,2024-10-02,Isolation Therapy,Unchanged
+262,34,2021-02-09,2023-02-28,Electroconvulsive Therapy,Unpredictable
+263,46,2022-04-03,2022-04-11,Cognitive Behavioral Therapy,Deteriorating
+263,23,2023-04-27,2024-03-12,Isolation Therapy,Unchanged
+263,20,2020-06-18,2022-12-22,Heavy Medication,Unchanged
+264,36,2019-11-15,2021-09-15,Electroconvulsive Therapy,Deteriorating
+265,73,2023-08-25,2024-04-11,Heavy Medication,Unchanged
+266,92,2020-10-26,2022-12-02,Psychosurgery,Improving
+266,55,2022-07-21,2023-11-26,Psychosurgery,Unpredictable
+267,41,2023-11-03,2024-09-30,Psychosurgery,Unchanged
+268,51,2022-06-22,2024-05-25,Psychosurgery,Unpredictable
+268,44,2024-05-19,2024-06-15,Aversion Therapy,Unpredictable
+269,89,2022-10-29,2024-07-25,Isolation Therapy,Improving
+269,54,2023-11-17,2024-06-15,Psychosurgery,Deteriorating
+269,67,2024-01-07,2024-09-05,Aversion Therapy,Deteriorating
+270,39,2022-08-19,2024-03-24,Heavy Medication,Unpredictable
+270,77,2023-06-05,2024-06-16,Psychosurgery,Unpredictable
+270,58,2022-01-02,2022-05-28,Psychosurgery,Deteriorating
+270,39,2024-06-03,2024-10-22,Psychosurgery,Unchanged
+270,36,2022-12-17,2023-03-23,Isolation Therapy,Unchanged
+271,16,2020-06-14,2024-08-06,Cognitive Behavioral Therapy,Deteriorating
+271,6,2021-12-14,2023-12-24,Isolation Therapy,Unchanged
+272,97,2023-06-21,2024-09-29,Electroconvulsive Therapy,Improving
+272,78,2022-11-27,2024-03-25,Electroconvulsive Therapy,Unpredictable
+272,35,2021-06-09,2024-08-26,Cognitive Behavioral Therapy,Deteriorating
+273,96,2023-07-23,2024-08-25,Heavy Medication,Improving
+273,27,2023-10-09,2023-10-28,Cognitive Behavioral Therapy,Unpredictable
+273,78,2020-03-15,2023-03-02,Electroconvulsive Therapy,Improving
+273,81,2021-02-14,2022-07-04,Electroconvulsive Therapy,Unpredictable
+273,98,2020-11-17,2022-12-16,Cognitive Behavioral Therapy,Improving
+274,62,2020-10-16,2022-05-07,Electroconvulsive Therapy,Unpredictable
+274,10,2023-10-10,2024-03-18,Aversion Therapy,Improving
+274,97,2020-03-09,2021-01-04,Psychosurgery,Improving
+275,25,2023-07-27,2024-05-20,Heavy Medication,Unpredictable
+276,76,2021-07-14,2024-09-09,Aversion Therapy,Deteriorating
+276,54,2022-09-22,2023-10-28,Psychosurgery,Improving
+276,44,2022-05-01,2023-06-09,Isolation Therapy,Unpredictable
+276,27,2020-01-15,2022-09-21,Electroconvulsive Therapy,Unchanged
+276,56,2020-05-16,2021-10-15,Cognitive Behavioral Therapy,Unpredictable
+277,47,2021-06-09,2022-01-04,Psychosurgery,Improving
+277,50,2021-10-01,2024-09-09,Cognitive Behavioral Therapy,Deteriorating
+277,64,2024-09-24,2024-09-29,Cognitive Behavioral Therapy,Unpredictable
+277,55,2022-01-18,2024-09-07,Cognitive Behavioral Therapy,Unpredictable
+277,93,2020-06-10,2021-09-21,Cognitive Behavioral Therapy,Unchanged
+278,73,2019-11-23,2023-08-26,Cognitive Behavioral Therapy,Unpredictable
+279,5,2022-02-08,2024-01-01,Heavy Medication,Unchanged
+279,71,2022-03-19,2024-06-23,Aversion Therapy,Unpredictable
+279,73,2021-07-19,2024-07-20,Electroconvulsive Therapy,Unpredictable
+279,60,2020-09-04,2020-09-10,Aversion Therapy,Unchanged
+280,79,2020-05-16,2023-05-18,Electroconvulsive Therapy,Deteriorating
+281,12,2023-11-28,2024-10-03,Heavy Medication,Unpredictable
+281,16,2020-05-13,2023-12-23,Heavy Medication,Improving
+281,19,2023-01-25,2023-02-23,Electroconvulsive Therapy,Unchanged
+281,41,2023-11-13,2024-05-14,Electroconvulsive Therapy,Deteriorating
+282,44,2022-10-06,2024-09-28,Isolation Therapy,Improving
+282,29,2020-12-26,2022-07-30,Cognitive Behavioral Therapy,Unpredictable
+282,42,2020-12-18,2023-12-10,Cognitive Behavioral Therapy,Unchanged
+283,68,2021-02-13,2024-04-10,Electroconvulsive Therapy,Deteriorating
+283,16,2020-07-02,2021-07-22,Isolation Therapy,Deteriorating
+283,46,2024-09-04,2024-10-13,Aversion Therapy,Unpredictable
+283,21,2024-07-09,2024-08-30,Heavy Medication,Unchanged
+284,2,2023-09-03,2024-08-10,Heavy Medication,Improving
+284,8,2023-09-16,2024-04-01,Isolation Therapy,Unchanged
+284,94,2021-01-13,2024-05-01,Heavy Medication,Unchanged
+284,69,2024-01-17,2024-01-19,Electroconvulsive Therapy,Unpredictable
+285,58,2022-09-04,2024-03-23,Electroconvulsive Therapy,Unpredictable
+285,80,2021-03-26,2024-02-28,Isolation Therapy,Improving
+285,13,2024-11-03,2024-11-03,Psychosurgery,Deteriorating
+286,80,2024-11-03,2024-11-03,Isolation Therapy,Unchanged
+286,22,2024-01-20,2024-08-10,Electroconvulsive Therapy,Deteriorating
+287,50,2022-10-07,2023-11-28,Heavy Medication,Deteriorating
+287,43,2020-07-10,2020-08-10,Electroconvulsive Therapy,Improving
+288,61,2020-09-04,2023-05-12,Heavy Medication,Unchanged
+288,45,2023-09-27,2024-06-06,Isolation Therapy,Deteriorating
+288,84,2022-03-25,2023-12-21,Heavy Medication,Deteriorating
+289,82,2023-02-01,2024-10-30,Psychosurgery,Unpredictable
+289,71,2020-08-10,2022-05-29,Psychosurgery,Deteriorating
+290,84,2021-10-06,2024-10-18,Isolation Therapy,Unchanged
+290,62,2022-08-28,2024-01-16,Cognitive Behavioral Therapy,Unchanged
+291,77,2021-03-09,2022-10-28,Psychosurgery,Unchanged
+291,43,2022-12-21,2024-03-18,Isolation Therapy,Unchanged
+291,89,2021-10-05,2022-04-02,Aversion Therapy,Unchanged
+291,71,2020-07-31,2024-03-13,Electroconvulsive Therapy,Unchanged
+291,41,2023-03-07,2024-01-04,Electroconvulsive Therapy,Unpredictable
+292,51,2024-09-22,2024-10-09,Electroconvulsive Therapy,Unpredictable
+292,2,2022-07-26,2022-10-13,Psychosurgery,Improving
+293,3,2021-09-14,2021-10-10,Isolation Therapy,Unchanged
+293,99,2023-11-16,2023-12-21,Aversion Therapy,Unchanged
+293,52,2019-12-31,2022-11-01,Cognitive Behavioral Therapy,Improving
+293,69,2022-04-05,2024-04-08,Isolation Therapy,Unpredictable
+293,3,2020-03-11,2023-06-23,Isolation Therapy,Unchanged
+294,1,2022-08-15,2024-04-26,Heavy Medication,Unpredictable
+294,95,2020-07-13,2021-01-02,Isolation Therapy,Deteriorating
+294,56,2024-08-30,2024-10-14,Isolation Therapy,Improving
+294,65,2022-05-18,2023-10-24,Aversion Therapy,Improving
+294,82,2022-04-20,2024-06-20,Heavy Medication,Unpredictable
+295,99,2020-05-23,2023-02-01,Heavy Medication,Unchanged
+295,37,2022-03-24,2023-06-13,Cognitive Behavioral Therapy,Unchanged
+295,14,2024-04-19,2024-09-28,Psychosurgery,Unpredictable
+295,86,2021-05-13,2024-05-13,Psychosurgery,Improving
+295,78,2021-01-28,2024-10-27,Isolation Therapy,Deteriorating
+296,71,2024-08-20,2024-08-24,Cognitive Behavioral Therapy,Deteriorating
+296,15,2023-01-21,2024-04-04,Electroconvulsive Therapy,Unchanged
+296,61,2022-01-12,2023-11-30,Psychosurgery,Deteriorating
+297,69,2020-04-29,2021-06-21,Aversion Therapy,Unchanged
+297,34,2024-02-26,2024-03-18,Aversion Therapy,Unchanged
+298,26,2021-02-01,2023-03-11,Psychosurgery,Deteriorating
+298,82,2024-03-01,2024-07-19,Psychosurgery,Unpredictable
+298,46,2022-11-17,2023-09-24,Aversion Therapy,Improving
+298,48,2024-04-04,2024-06-20,Aversion Therapy,Unchanged
+299,71,2021-04-17,2022-06-04,Cognitive Behavioral Therapy,Deteriorating
+300,30,2020-07-09,2022-10-31,Electroconvulsive Therapy,Unchanged
+301,97,2022-04-12,2024-03-30,Cognitive Behavioral Therapy,Unchanged
+301,85,2023-06-07,2023-11-08,Isolation Therapy,Unchanged
+301,54,2024-06-25,2024-09-28,Heavy Medication,Improving
+302,96,2022-05-12,2022-12-23,Heavy Medication,Improving
+302,81,2023-03-24,2024-11-01,Heavy Medication,Deteriorating
+302,66,2020-07-23,2024-10-24,Heavy Medication,Improving
+302,74,2023-08-31,2023-09-12,Electroconvulsive Therapy,Unpredictable
+302,94,2021-12-20,2022-10-09,Psychosurgery,Unchanged
+303,12,2022-10-18,2023-11-02,Psychosurgery,Unpredictable
+303,87,2020-01-05,2021-04-02,Isolation Therapy,Unchanged
+303,32,2020-12-01,2021-02-18,Cognitive Behavioral Therapy,Deteriorating
+303,2,2021-01-15,2023-10-13,Heavy Medication,Deteriorating
+303,98,2022-07-23,2024-05-17,Electroconvulsive Therapy,Improving
+304,89,2020-10-26,2023-06-23,Isolation Therapy,Improving
+304,78,2022-06-26,2022-07-19,Psychosurgery,Improving
+304,76,2023-02-22,2023-05-27,Cognitive Behavioral Therapy,Unpredictable
+305,89,2020-03-20,2022-11-29,Heavy Medication,Improving
+305,59,2022-09-12,2023-01-11,Cognitive Behavioral Therapy,Unchanged
+305,35,2021-12-01,2023-08-31,Isolation Therapy,Unchanged
+305,6,2023-11-10,2024-01-09,Heavy Medication,Unpredictable
+306,23,2023-04-06,2023-12-04,Heavy Medication,Deteriorating
+307,31,2022-06-25,2023-05-30,Isolation Therapy,Deteriorating
+307,34,2023-05-18,2024-06-15,Heavy Medication,Deteriorating
+307,68,2024-04-13,2024-04-17,Heavy Medication,Deteriorating
+307,74,2020-07-31,2024-07-27,Heavy Medication,Improving
+307,22,2022-11-23,2023-05-14,Heavy Medication,Unchanged
+308,23,2023-07-05,2024-04-22,Cognitive Behavioral Therapy,Improving
+308,20,2020-03-06,2022-06-17,Isolation Therapy,Deteriorating
+308,81,2019-11-27,2022-11-28,Heavy Medication,Improving
+309,39,2019-12-29,2021-07-16,Electroconvulsive Therapy,Unpredictable
+309,61,2020-12-24,2021-06-02,Heavy Medication,Unpredictable
+309,37,2021-02-16,2024-10-22,Cognitive Behavioral Therapy,Deteriorating
+310,28,2020-06-15,2024-01-02,Electroconvulsive Therapy,Unchanged
+310,65,2024-10-10,2024-10-22,Isolation Therapy,Unchanged
+310,48,2023-05-29,2023-11-01,Psychosurgery,Deteriorating
+310,12,2020-03-10,2023-03-26,Heavy Medication,Unchanged
+311,49,2022-09-12,2023-04-05,Aversion Therapy,Unchanged
+312,16,2022-11-03,2022-11-28,Psychosurgery,Deteriorating
+312,59,2024-02-09,2024-03-22,Psychosurgery,Deteriorating
+313,49,2020-04-30,2020-06-19,Isolation Therapy,Unpredictable
+313,93,2022-05-10,2023-02-20,Heavy Medication,Improving
+313,88,2019-12-10,2021-06-19,Cognitive Behavioral Therapy,Deteriorating
+313,4,2022-02-15,2024-01-08,Heavy Medication,Deteriorating
+313,55,2020-06-27,2024-10-19,Isolation Therapy,Unpredictable
+314,64,2019-11-05,2020-11-11,Electroconvulsive Therapy,Deteriorating
+314,20,2023-03-14,2023-09-30,Heavy Medication,Improving
+314,81,2020-09-10,2022-06-23,Heavy Medication,Improving
+315,32,2023-12-03,2023-12-11,Electroconvulsive Therapy,Deteriorating
+315,48,2020-11-13,2021-05-19,Isolation Therapy,Deteriorating
+316,90,2019-11-28,2022-07-22,Isolation Therapy,Deteriorating
+316,4,2020-07-19,2022-12-18,Electroconvulsive Therapy,Unpredictable
+316,27,2022-02-22,2023-11-06,Psychosurgery,Unchanged
+316,73,2022-09-02,2022-10-14,Electroconvulsive Therapy,Unpredictable
+316,70,2021-07-05,2024-06-25,Electroconvulsive Therapy,Deteriorating
+317,19,2021-08-18,2023-01-25,Aversion Therapy,Improving
+317,54,2020-07-14,2023-07-15,Heavy Medication,Unchanged
+318,44,2024-06-13,2024-08-02,Heavy Medication,Deteriorating
+318,56,2020-04-07,2022-08-06,Aversion Therapy,Improving
+319,3,2022-05-09,2023-03-27,Electroconvulsive Therapy,Deteriorating
+319,78,2023-10-13,2024-02-24,Aversion Therapy,Deteriorating
+319,19,2021-01-16,2022-06-26,Isolation Therapy,Unpredictable
+319,32,2022-07-02,2023-01-11,Isolation Therapy,Unpredictable
+320,37,2024-02-22,2024-10-29,Psychosurgery,Improving
+321,88,2023-12-26,2024-03-18,Cognitive Behavioral Therapy,Unchanged
+321,17,2023-12-05,2024-09-02,Heavy Medication,Unchanged
+322,69,2022-09-28,2023-07-19,Isolation Therapy,Deteriorating
+323,5,2023-01-16,2023-08-01,Isolation Therapy,Unchanged
+324,11,2024-09-13,2024-09-24,Cognitive Behavioral Therapy,Improving
+325,54,2021-12-01,2022-04-19,Psychosurgery,Unchanged
+326,79,2024-10-31,2024-11-03,Isolation Therapy,Unpredictable
+327,53,2019-12-26,2024-08-02,Cognitive Behavioral Therapy,Unpredictable
+327,71,2021-03-28,2023-08-13,Aversion Therapy,Improving
+327,61,2021-05-16,2022-10-14,Isolation Therapy,Unchanged
+327,5,2021-11-28,2024-10-24,Aversion Therapy,Improving
+328,49,2021-09-26,2024-08-12,Electroconvulsive Therapy,Deteriorating
+328,62,2023-09-01,2024-02-10,Isolation Therapy,Improving
+328,94,2023-09-12,2024-03-10,Psychosurgery,Deteriorating
+329,30,2020-09-30,2022-08-24,Isolation Therapy,Unpredictable
+329,3,2021-11-09,2022-07-28,Heavy Medication,Unchanged
+329,10,2020-07-20,2023-02-14,Aversion Therapy,Unchanged
+329,28,2022-07-04,2023-01-15,Isolation Therapy,Improving
+329,16,2022-02-25,2023-04-02,Cognitive Behavioral Therapy,Unpredictable
+330,65,2022-10-18,2024-02-09,Aversion Therapy,Deteriorating
+330,76,2019-12-15,2020-02-04,Psychosurgery,Improving
+331,36,2022-01-20,2023-04-01,Aversion Therapy,Deteriorating
+331,14,2022-10-26,2023-03-28,Electroconvulsive Therapy,Unpredictable
+332,61,2023-04-19,2023-04-26,Electroconvulsive Therapy,Improving
+332,62,2023-07-19,2024-10-03,Aversion Therapy,Deteriorating
+332,76,2024-10-28,2024-10-28,Isolation Therapy,Deteriorating
+333,82,2020-10-06,2021-08-26,Electroconvulsive Therapy,Unchanged
+333,49,2023-12-23,2024-02-03,Heavy Medication,Deteriorating
+333,31,2023-07-28,2023-12-19,Psychosurgery,Deteriorating
+334,27,2023-12-31,2024-09-24,Electroconvulsive Therapy,Unchanged
+334,34,2021-09-21,2023-02-21,Isolation Therapy,Improving
+334,49,2022-04-14,2024-02-23,Cognitive Behavioral Therapy,Unchanged
+335,67,2022-06-11,2022-09-03,Aversion Therapy,Unpredictable
+336,47,2019-12-02,2023-03-02,Electroconvulsive Therapy,Improving
+337,61,2021-09-05,2022-05-25,Isolation Therapy,Unchanged
+337,36,2024-05-02,2024-05-25,Electroconvulsive Therapy,Deteriorating
+337,35,2022-08-13,2022-11-07,Psychosurgery,Unpredictable
+337,42,2023-08-02,2024-06-25,Heavy Medication,Unchanged
+338,20,2023-09-25,2024-02-12,Cognitive Behavioral Therapy,Unpredictable
+338,22,2022-06-21,2024-08-25,Electroconvulsive Therapy,Unpredictable
+338,45,2021-03-20,2023-05-10,Heavy Medication,Deteriorating
+338,53,2019-12-14,2024-05-24,Isolation Therapy,Improving
+339,28,2023-11-11,2024-10-06,Cognitive Behavioral Therapy,Unpredictable
+340,87,2022-12-02,2024-03-01,Psychosurgery,Deteriorating
+340,21,2020-11-23,2022-01-05,Heavy Medication,Unchanged
+340,82,2019-11-05,2020-06-12,Electroconvulsive Therapy,Unchanged
+340,36,2020-09-12,2021-09-22,Aversion Therapy,Deteriorating
+341,82,2022-11-01,2023-01-20,Heavy Medication,Deteriorating
+341,72,2024-04-16,2024-08-13,Psychosurgery,Improving
+341,50,2020-01-12,2020-08-30,Heavy Medication,Unpredictable
+341,28,2020-11-07,2021-08-20,Cognitive Behavioral Therapy,Unpredictable
+342,42,2021-12-07,2024-04-25,Electroconvulsive Therapy,Unchanged
+342,11,2023-10-12,2024-04-29,Isolation Therapy,Deteriorating
+342,4,2024-05-22,2024-06-18,Isolation Therapy,Unpredictable
+342,99,2023-01-25,2024-10-08,Isolation Therapy,Unpredictable
+342,55,2023-04-25,2023-05-23,Isolation Therapy,Unchanged
+343,46,2023-09-11,2023-11-26,Cognitive Behavioral Therapy,Unpredictable
+344,19,2020-05-27,2023-08-02,Heavy Medication,Improving
+344,59,2023-11-03,2024-04-17,Heavy Medication,Improving
+344,5,2024-03-31,2024-06-10,Isolation Therapy,Unpredictable
+344,59,2022-05-25,2024-07-29,Isolation Therapy,Improving
+344,61,2024-09-10,2024-10-12,Cognitive Behavioral Therapy,Improving
+345,88,2022-08-26,2024-09-02,Heavy Medication,Unchanged
+345,88,2024-07-15,2024-10-04,Heavy Medication,Unchanged
+346,18,2024-08-25,2024-09-22,Psychosurgery,Unchanged
+346,99,2023-05-10,2023-10-09,Psychosurgery,Unpredictable
+346,46,2023-09-26,2024-03-22,Heavy Medication,Improving
+346,98,2020-06-24,2021-08-04,Heavy Medication,Unpredictable
+346,70,2021-08-12,2023-08-23,Electroconvulsive Therapy,Deteriorating
+347,50,2023-03-28,2023-11-20,Isolation Therapy,Unchanged
+347,46,2020-07-02,2024-07-24,Isolation Therapy,Unchanged
+348,62,2021-10-06,2024-04-15,Psychosurgery,Deteriorating
+349,13,2023-01-10,2023-03-10,Aversion Therapy,Unpredictable
+349,46,2022-10-14,2024-07-12,Heavy Medication,Unchanged
+349,74,2021-02-13,2022-06-05,Psychosurgery,Improving
+349,35,2021-05-13,2022-04-21,Cognitive Behavioral Therapy,Unpredictable
+350,72,2020-10-03,2023-11-03,Psychosurgery,Improving
+350,45,2022-07-04,2024-09-12,Psychosurgery,Deteriorating
+351,18,2021-03-07,2023-07-22,Isolation Therapy,Unchanged
+351,72,2023-06-01,2024-07-15,Psychosurgery,Unchanged
+351,81,2022-02-27,2023-02-24,Aversion Therapy,Deteriorating
+351,46,2023-07-24,2024-05-24,Aversion Therapy,Unchanged
+351,94,2022-09-26,2022-11-18,Heavy Medication,Unchanged
+352,24,2020-02-05,2020-06-25,Heavy Medication,Deteriorating
+352,68,2019-11-15,2021-05-20,Electroconvulsive Therapy,Deteriorating
+352,9,2023-03-17,2023-08-01,Psychosurgery,Improving
+352,67,2022-01-01,2024-03-08,Electroconvulsive Therapy,Improving
+353,64,2021-11-13,2024-01-12,Cognitive Behavioral Therapy,Unchanged
+353,52,2021-05-14,2024-03-15,Aversion Therapy,Improving
+354,75,2022-11-07,2024-04-17,Aversion Therapy,Unpredictable
+354,74,2024-02-06,2024-09-19,Isolation Therapy,Unpredictable
+355,92,2024-10-19,2024-10-29,Isolation Therapy,Improving
+355,49,2024-01-08,2024-05-18,Isolation Therapy,Unpredictable
+355,78,2023-01-18,2023-09-21,Heavy Medication,Unchanged
+355,12,2020-05-15,2024-10-19,Aversion Therapy,Deteriorating
+355,68,2020-10-21,2023-10-08,Aversion Therapy,Unchanged
+356,17,2023-01-10,2023-07-14,Aversion Therapy,Deteriorating
+356,17,2022-01-15,2023-08-11,Isolation Therapy,Deteriorating
+356,27,2020-01-05,2020-05-20,Isolation Therapy,Unchanged
+356,70,2024-08-01,2024-09-17,Psychosurgery,Unpredictable
+357,46,2020-05-02,2023-04-24,Aversion Therapy,Deteriorating
+357,74,2021-04-26,2022-12-29,Aversion Therapy,Deteriorating
+357,81,2022-11-12,2023-12-15,Cognitive Behavioral Therapy,Unpredictable
+357,28,2019-12-23,2020-04-20,Electroconvulsive Therapy,Deteriorating
+358,91,2024-07-17,2024-09-08,Heavy Medication,Unchanged
+359,84,2019-12-02,2023-11-25,Electroconvulsive Therapy,Deteriorating
+359,69,2022-12-06,2023-02-23,Electroconvulsive Therapy,Improving
+360,90,2022-04-21,2022-09-15,Psychosurgery,Unpredictable
+360,77,2020-01-28,2020-07-23,Aversion Therapy,Deteriorating
+360,11,2024-07-08,2024-07-15,Electroconvulsive Therapy,Deteriorating
+361,54,2024-02-03,2024-05-02,Cognitive Behavioral Therapy,Unchanged
+361,41,2023-08-07,2024-05-15,Electroconvulsive Therapy,Unchanged
+362,31,2022-06-19,2024-02-24,Isolation Therapy,Unpredictable
+363,19,2024-07-26,2024-11-03,Cognitive Behavioral Therapy,Unchanged
+363,13,2020-03-10,2023-07-19,Heavy Medication,Improving
+363,63,2020-01-07,2024-09-09,Electroconvulsive Therapy,Unpredictable
+363,42,2022-05-12,2023-12-07,Aversion Therapy,Unpredictable
+363,36,2021-01-07,2021-04-16,Electroconvulsive Therapy,Unpredictable
+364,20,2021-05-23,2022-06-06,Isolation Therapy,Deteriorating
+364,17,2021-05-14,2021-11-26,Psychosurgery,Improving
+364,63,2021-10-13,2023-08-12,Cognitive Behavioral Therapy,Improving
+364,59,2023-11-24,2024-07-12,Isolation Therapy,Unchanged
+364,53,2021-12-16,2024-02-26,Electroconvulsive Therapy,Deteriorating
+365,73,2024-09-20,2024-09-21,Heavy Medication,Improving
+365,83,2024-01-10,2024-05-06,Cognitive Behavioral Therapy,Unchanged
+365,16,2021-03-07,2022-11-17,Heavy Medication,Unchanged
+366,87,2024-07-21,2024-07-31,Psychosurgery,Unchanged
+367,87,2024-06-02,2024-11-01,Cognitive Behavioral Therapy,Deteriorating
+368,57,2024-10-14,2024-10-24,Psychosurgery,Improving
+368,52,2020-08-12,2021-08-12,Heavy Medication,Unchanged
+368,28,2022-10-11,2024-05-27,Isolation Therapy,Unchanged
+368,68,2020-10-28,2023-05-26,Heavy Medication,Improving
+369,35,2021-11-23,2022-07-08,Psychosurgery,Unchanged
+369,11,2020-12-23,2024-04-11,Psychosurgery,Deteriorating
+369,64,2023-02-25,2024-04-27,Aversion Therapy,Unchanged
+369,45,2021-08-17,2023-09-21,Cognitive Behavioral Therapy,Improving
+369,85,2021-11-05,2022-08-15,Heavy Medication,Improving
+370,35,2020-04-26,2022-08-17,Cognitive Behavioral Therapy,Improving
+370,100,2024-10-24,2024-11-03,Electroconvulsive Therapy,Deteriorating
+370,73,2024-02-21,2024-04-16,Aversion Therapy,Unpredictable
+371,56,2022-12-11,2023-04-15,Cognitive Behavioral Therapy,Unchanged
+372,22,2024-04-09,2024-04-13,Isolation Therapy,Improving
+372,24,2021-03-16,2023-11-25,Cognitive Behavioral Therapy,Deteriorating
+372,41,2020-02-21,2022-02-16,Electroconvulsive Therapy,Improving
+372,14,2022-01-01,2024-04-10,Psychosurgery,Improving
+372,4,2021-01-24,2024-01-13,Isolation Therapy,Unpredictable
+373,86,2023-04-26,2023-11-27,Psychosurgery,Unchanged
+374,49,2022-03-20,2023-09-12,Heavy Medication,Improving
+374,34,2022-06-14,2024-04-29,Isolation Therapy,Unchanged
+375,49,2022-07-05,2022-08-10,Aversion Therapy,Unchanged
+375,60,2024-05-17,2024-06-30,Heavy Medication,Deteriorating
+375,30,2024-07-24,2024-08-13,Psychosurgery,Improving
+376,81,2020-10-28,2021-10-08,Psychosurgery,Unchanged
+376,69,2023-09-02,2024-09-08,Isolation Therapy,Improving
+376,15,2019-12-24,2020-02-16,Aversion Therapy,Improving
+376,49,2022-06-07,2024-08-08,Cognitive Behavioral Therapy,Unchanged
+376,61,2023-09-04,2023-11-15,Cognitive Behavioral Therapy,Unpredictable
+377,20,2020-11-10,2021-12-29,Electroconvulsive Therapy,Unchanged
+377,100,2020-08-12,2022-06-08,Electroconvulsive Therapy,Deteriorating
+377,87,2020-10-03,2021-08-07,Heavy Medication,Deteriorating
+378,100,2021-01-14,2023-12-17,Electroconvulsive Therapy,Unpredictable
+378,42,2022-07-16,2022-09-15,Electroconvulsive Therapy,Unpredictable
+379,100,2023-08-27,2023-12-30,Cognitive Behavioral Therapy,Unchanged
+379,85,2020-06-10,2022-02-08,Electroconvulsive Therapy,Unchanged
+379,81,2021-03-28,2023-05-26,Psychosurgery,Unchanged
+379,26,2022-03-02,2022-05-11,Electroconvulsive Therapy,Improving
+380,86,2022-01-05,2022-11-14,Aversion Therapy,Improving
+380,67,2024-03-23,2024-09-04,Isolation Therapy,Deteriorating
+380,10,2021-09-05,2024-10-10,Aversion Therapy,Unpredictable
+381,9,2021-07-27,2024-06-02,Cognitive Behavioral Therapy,Improving
+381,98,2022-08-19,2022-10-18,Cognitive Behavioral Therapy,Unpredictable
+381,42,2021-01-01,2023-09-19,Electroconvulsive Therapy,Deteriorating
+381,46,2023-07-11,2024-03-23,Aversion Therapy,Unpredictable
+381,38,2020-06-22,2022-02-13,Heavy Medication,Improving
+382,4,2020-09-09,2022-03-22,Heavy Medication,Unchanged
+383,1,2024-10-21,2024-11-03,Electroconvulsive Therapy,Unchanged
+383,95,2023-06-22,2024-03-19,Heavy Medication,Unchanged
+384,29,2023-07-13,2024-08-07,Cognitive Behavioral Therapy,Unpredictable
+385,43,2021-07-20,2023-05-29,Heavy Medication,Deteriorating
+385,83,2020-05-17,2023-10-27,Electroconvulsive Therapy,Unpredictable
+385,35,2022-04-26,2022-05-02,Cognitive Behavioral Therapy,Improving
+385,52,2020-12-22,2022-08-11,Electroconvulsive Therapy,Improving
+386,16,2021-03-30,2022-07-21,Cognitive Behavioral Therapy,Improving
+386,10,2022-01-08,2024-10-02,Electroconvulsive Therapy,Deteriorating
+386,80,2020-04-22,2024-09-30,Psychosurgery,Deteriorating
+386,3,2021-07-11,2022-12-25,Isolation Therapy,Improving
+386,70,2021-08-25,2023-01-02,Cognitive Behavioral Therapy,Improving
+387,92,2023-10-26,2024-04-12,Aversion Therapy,Deteriorating
+387,19,2023-08-25,2024-08-21,Heavy Medication,Unpredictable
+387,29,2021-10-09,2023-01-19,Heavy Medication,Deteriorating
+387,31,2023-03-23,2024-05-07,Cognitive Behavioral Therapy,Unpredictable
+388,90,2024-06-10,2024-07-25,Cognitive Behavioral Therapy,Unpredictable
+389,86,2022-09-19,2022-11-12,Isolation Therapy,Improving
+389,76,2020-11-08,2021-11-12,Aversion Therapy,Unpredictable
+389,10,2024-04-01,2024-09-16,Heavy Medication,Deteriorating
+390,58,2020-12-04,2022-05-03,Electroconvulsive Therapy,Unpredictable
+390,49,2024-09-17,2024-09-23,Isolation Therapy,Unpredictable
+390,3,2021-08-09,2023-05-17,Heavy Medication,Unchanged
+390,52,2023-08-16,2024-10-02,Psychosurgery,Deteriorating
+390,14,2023-03-08,2023-07-22,Psychosurgery,Improving
+391,60,2024-08-17,2024-09-04,Electroconvulsive Therapy,Unchanged
+392,56,2020-06-24,2020-10-26,Aversion Therapy,Unpredictable
+392,10,2020-08-29,2022-09-25,Psychosurgery,Unchanged
+392,38,2021-01-20,2023-11-19,Psychosurgery,Improving
+392,46,2020-11-18,2022-08-23,Electroconvulsive Therapy,Deteriorating
+393,50,2024-04-21,2024-10-01,Cognitive Behavioral Therapy,Improving
+393,45,2023-01-14,2023-06-01,Psychosurgery,Unpredictable
+393,17,2019-11-13,2021-11-10,Isolation Therapy,Deteriorating
+394,56,2020-02-23,2022-09-23,Aversion Therapy,Unchanged
+394,25,2021-01-27,2021-08-26,Isolation Therapy,Unchanged
+394,76,2022-02-08,2023-04-20,Psychosurgery,Unpredictable
+394,52,2021-09-16,2022-12-24,Heavy Medication,Unpredictable
+394,98,2020-02-15,2024-09-26,Aversion Therapy,Improving
+395,35,2023-08-01,2023-09-08,Isolation Therapy,Unchanged
+396,40,2021-08-22,2022-06-23,Cognitive Behavioral Therapy,Unchanged
+397,54,2020-07-23,2023-02-18,Electroconvulsive Therapy,Deteriorating
+397,4,2021-12-20,2023-03-27,Psychosurgery,Unpredictable
+398,95,2022-01-25,2022-07-31,Aversion Therapy,Deteriorating
+399,37,2021-01-29,2023-08-17,Heavy Medication,Unchanged
+399,1,2019-12-24,2024-10-26,Cognitive Behavioral Therapy,Improving
+400,26,2022-12-06,2024-08-02,Isolation Therapy,Unchanged
+401,96,2024-02-25,2024-05-28,Psychosurgery,Unchanged
+401,65,2023-07-08,2023-12-20,Isolation Therapy,Unchanged
+402,19,2019-12-07,2022-08-08,Psychosurgery,Deteriorating
+402,58,2021-04-10,2021-10-19,Electroconvulsive Therapy,Improving
+402,88,2022-12-27,2023-02-09,Isolation Therapy,Improving
+402,38,2022-06-10,2024-09-27,Isolation Therapy,Improving
+402,58,2023-12-28,2024-03-01,Electroconvulsive Therapy,Improving
+403,79,2021-11-14,2024-08-15,Cognitive Behavioral Therapy,Unchanged
+403,81,2024-08-23,2024-10-01,Heavy Medication,Deteriorating
+403,73,2021-08-05,2023-10-12,Electroconvulsive Therapy,Deteriorating
+404,48,2022-05-14,2024-03-18,Psychosurgery,Unpredictable
+404,51,2024-07-18,2024-09-16,Psychosurgery,Deteriorating
+405,92,2021-05-31,2023-05-15,Electroconvulsive Therapy,Unchanged
+405,46,2021-07-24,2022-12-04,Psychosurgery,Improving
+406,63,2021-09-07,2023-10-15,Aversion Therapy,Unchanged
+406,18,2024-06-16,2024-07-25,Electroconvulsive Therapy,Unchanged
+406,85,2023-02-26,2023-12-16,Psychosurgery,Deteriorating
+407,97,2022-02-07,2022-11-06,Electroconvulsive Therapy,Deteriorating
+407,60,2020-05-01,2023-06-03,Electroconvulsive Therapy,Unchanged
+407,67,2021-09-06,2023-09-14,Aversion Therapy,Deteriorating
+407,48,2023-04-12,2023-05-12,Heavy Medication,Improving
+408,3,2024-05-08,2024-06-19,Heavy Medication,Deteriorating
+408,97,2020-11-30,2021-04-18,Cognitive Behavioral Therapy,Unpredictable
+408,19,2024-08-06,2024-10-19,Psychosurgery,Deteriorating
+408,29,2020-11-01,2024-05-14,Heavy Medication,Unchanged
+408,69,2023-07-05,2023-09-19,Psychosurgery,Improving
+409,15,2021-09-13,2024-08-05,Heavy Medication,Unpredictable
+410,5,2021-12-28,2023-01-22,Electroconvulsive Therapy,Improving
+410,27,2021-12-19,2022-11-10,Isolation Therapy,Improving
+410,3,2023-09-01,2024-06-24,Psychosurgery,Improving
+411,53,2021-10-31,2021-11-06,Electroconvulsive Therapy,Unchanged
+412,53,2020-09-12,2024-03-21,Cognitive Behavioral Therapy,Improving
+412,13,2023-12-28,2024-10-09,Electroconvulsive Therapy,Unchanged
+412,93,2020-08-13,2021-02-17,Cognitive Behavioral Therapy,Deteriorating
+412,70,2023-04-30,2024-03-10,Electroconvulsive Therapy,Unpredictable
+413,23,2020-06-04,2022-11-01,Isolation Therapy,Unchanged
+414,21,2022-11-30,2023-03-11,Isolation Therapy,Unchanged
+414,99,2022-01-15,2022-03-24,Aversion Therapy,Deteriorating
+414,82,2024-05-14,2024-11-03,Isolation Therapy,Deteriorating
+414,36,2020-06-03,2021-10-09,Psychosurgery,Unpredictable
+415,17,2022-05-19,2024-04-14,Electroconvulsive Therapy,Improving
+416,79,2020-07-05,2024-07-04,Cognitive Behavioral Therapy,Unchanged
+416,12,2020-08-22,2022-09-14,Electroconvulsive Therapy,Improving
+416,85,2022-12-08,2024-01-12,Isolation Therapy,Deteriorating
+417,13,2020-02-08,2022-03-26,Psychosurgery,Improving
+418,98,2020-10-09,2022-04-02,Heavy Medication,Deteriorating
+418,85,2023-03-10,2024-01-24,Heavy Medication,Improving
+418,74,2019-11-15,2022-04-01,Heavy Medication,Unchanged
+419,25,2020-03-22,2021-03-13,Psychosurgery,Deteriorating
+420,84,2024-01-18,2024-03-12,Heavy Medication,Unpredictable
+420,69,2023-05-13,2023-08-21,Electroconvulsive Therapy,Improving
+421,21,2022-06-08,2023-06-11,Cognitive Behavioral Therapy,Improving
+421,21,2020-04-20,2021-09-25,Isolation Therapy,Unchanged
+422,78,2024-08-15,2024-09-17,Psychosurgery,Improving
+422,12,2020-06-29,2024-02-07,Psychosurgery,Improving
+423,8,2020-05-17,2022-05-17,Aversion Therapy,Deteriorating
+423,71,2024-09-10,2024-09-21,Cognitive Behavioral Therapy,Unpredictable
+423,35,2020-11-08,2024-06-01,Aversion Therapy,Deteriorating
+423,4,2022-01-13,2024-03-24,Cognitive Behavioral Therapy,Unchanged
+424,23,2024-07-27,2024-10-01,Aversion Therapy,Unchanged
+424,43,2022-07-31,2023-11-22,Electroconvulsive Therapy,Deteriorating
+424,25,2022-10-12,2024-10-19,Electroconvulsive Therapy,Unchanged
+425,54,2023-10-03,2024-09-20,Electroconvulsive Therapy,Improving
+425,83,2021-05-02,2022-06-13,Aversion Therapy,Improving
+425,74,2020-07-20,2020-08-18,Aversion Therapy,Improving
+426,78,2021-10-20,2023-04-01,Electroconvulsive Therapy,Unpredictable
+426,91,2020-03-24,2020-05-28,Cognitive Behavioral Therapy,Deteriorating
+426,54,2023-06-12,2023-08-22,Psychosurgery,Unpredictable
+426,72,2020-05-22,2020-12-11,Aversion Therapy,Unpredictable
+426,83,2023-08-23,2024-07-26,Heavy Medication,Deteriorating
+427,14,2024-03-18,2024-06-07,Aversion Therapy,Improving
+427,83,2023-10-15,2023-12-18,Isolation Therapy,Unpredictable
+427,22,2019-12-06,2019-12-06,Electroconvulsive Therapy,Unchanged
+427,99,2020-09-22,2022-07-22,Cognitive Behavioral Therapy,Deteriorating
+428,26,2023-01-16,2023-06-06,Cognitive Behavioral Therapy,Deteriorating
+428,37,2024-01-16,2024-03-17,Isolation Therapy,Unpredictable
+428,1,2024-09-28,2024-10-17,Psychosurgery,Unpredictable
+429,65,2022-12-16,2024-06-10,Electroconvulsive Therapy,Unpredictable
+429,34,2021-06-29,2021-12-15,Electroconvulsive Therapy,Improving
+429,15,2020-07-15,2022-02-20,Cognitive Behavioral Therapy,Improving
+429,30,2023-08-01,2023-11-13,Heavy Medication,Improving
+430,73,2019-11-11,2019-11-12,Heavy Medication,Improving
+430,66,2020-04-23,2021-10-03,Psychosurgery,Deteriorating
+430,63,2022-01-30,2024-03-09,Isolation Therapy,Improving
+431,89,2023-02-21,2024-05-12,Psychosurgery,Unpredictable
+432,4,2023-06-17,2023-10-29,Psychosurgery,Unpredictable
+432,37,2022-05-30,2023-11-30,Cognitive Behavioral Therapy,Deteriorating
+432,54,2021-12-22,2024-05-04,Aversion Therapy,Unpredictable
+432,14,2023-05-02,2024-04-21,Isolation Therapy,Improving
+432,44,2022-08-27,2023-05-09,Aversion Therapy,Improving
+433,20,2020-02-19,2020-06-09,Aversion Therapy,Unchanged
+433,29,2024-02-21,2024-09-09,Cognitive Behavioral Therapy,Improving
+433,55,2023-04-07,2023-12-31,Aversion Therapy,Improving
+433,93,2020-01-19,2021-06-09,Cognitive Behavioral Therapy,Unpredictable
+433,70,2021-05-12,2022-04-27,Isolation Therapy,Unchanged
+434,97,2022-07-15,2023-09-06,Heavy Medication,Deteriorating
+434,26,2020-07-30,2023-06-04,Electroconvulsive Therapy,Improving
+434,91,2022-12-29,2024-09-06,Cognitive Behavioral Therapy,Unchanged
+434,40,2020-09-06,2022-03-21,Psychosurgery,Improving
+434,93,2021-01-28,2022-04-05,Electroconvulsive Therapy,Unpredictable
+435,4,2022-03-12,2022-12-14,Heavy Medication,Deteriorating
+435,53,2023-02-08,2023-04-05,Electroconvulsive Therapy,Unchanged
+436,49,2022-04-02,2023-04-08,Psychosurgery,Deteriorating
+436,43,2024-01-02,2024-07-18,Aversion Therapy,Unchanged
+436,2,2021-07-01,2024-02-11,Isolation Therapy,Deteriorating
+437,74,2022-04-04,2022-06-28,Heavy Medication,Improving
+437,94,2021-11-17,2023-09-05,Cognitive Behavioral Therapy,Unchanged
+437,14,2024-08-19,2024-10-09,Isolation Therapy,Unchanged
+437,40,2020-05-11,2024-01-05,Isolation Therapy,Deteriorating
+438,20,2021-07-19,2021-12-12,Electroconvulsive Therapy,Unpredictable
+438,17,2024-08-13,2024-08-28,Heavy Medication,Improving
+439,60,2022-11-14,2024-06-07,Psychosurgery,Unpredictable
+440,4,2020-02-09,2022-06-15,Cognitive Behavioral Therapy,Improving
+440,46,2020-10-11,2021-04-25,Heavy Medication,Unchanged
+440,81,2023-06-10,2024-03-29,Electroconvulsive Therapy,Improving
+441,31,2020-12-15,2022-02-28,Aversion Therapy,Deteriorating
+441,61,2023-09-07,2023-12-10,Psychosurgery,Deteriorating
+441,63,2024-10-05,2024-10-31,Isolation Therapy,Unchanged
+441,93,2020-03-29,2022-11-19,Cognitive Behavioral Therapy,Deteriorating
+442,97,2020-10-14,2021-08-25,Electroconvulsive Therapy,Deteriorating
+442,63,2021-09-01,2022-05-02,Isolation Therapy,Unpredictable
+442,61,2024-03-22,2024-08-05,Isolation Therapy,Unpredictable
+443,9,2021-09-20,2023-03-11,Psychosurgery,Unpredictable
+443,52,2024-09-21,2024-10-01,Aversion Therapy,Deteriorating
+443,68,2022-05-17,2023-12-04,Cognitive Behavioral Therapy,Unpredictable
+444,37,2020-01-11,2022-05-02,Cognitive Behavioral Therapy,Deteriorating
+444,91,2022-01-19,2023-03-21,Aversion Therapy,Unpredictable
+444,15,2023-05-06,2023-08-09,Psychosurgery,Deteriorating
+444,30,2021-04-13,2024-01-31,Aversion Therapy,Deteriorating
+444,86,2022-10-21,2023-03-24,Psychosurgery,Unpredictable
+445,29,2021-05-28,2024-10-12,Isolation Therapy,Deteriorating
+445,23,2020-12-02,2021-11-11,Aversion Therapy,Unchanged
+445,27,2024-06-06,2024-06-28,Cognitive Behavioral Therapy,Unpredictable
+445,23,2024-06-22,2024-07-04,Isolation Therapy,Unchanged
+445,67,2021-12-09,2022-05-24,Psychosurgery,Deteriorating
+446,12,2023-06-27,2023-08-13,Isolation Therapy,Unpredictable
+446,67,2022-10-11,2023-02-04,Aversion Therapy,Unchanged
+446,23,2024-05-14,2024-10-03,Isolation Therapy,Improving
+447,60,2023-05-06,2024-08-18,Electroconvulsive Therapy,Unpredictable
+447,8,2020-01-23,2021-10-08,Aversion Therapy,Deteriorating
+447,97,2023-05-14,2023-09-23,Electroconvulsive Therapy,Deteriorating
+447,17,2022-04-25,2022-08-02,Electroconvulsive Therapy,Improving
+447,1,2022-02-02,2023-03-04,Isolation Therapy,Unchanged
+448,67,2024-05-24,2024-06-27,Electroconvulsive Therapy,Unchanged
+448,42,2023-04-07,2024-04-20,Isolation Therapy,Unpredictable
+449,29,2023-12-24,2024-09-19,Cognitive Behavioral Therapy,Unchanged
+449,46,2023-10-31,2024-01-07,Cognitive Behavioral Therapy,Unchanged
+449,54,2024-02-27,2024-10-14,Aversion Therapy,Deteriorating
+450,12,2024-04-29,2024-09-24,Electroconvulsive Therapy,Improving
+451,40,2020-02-15,2020-07-15,Isolation Therapy,Unchanged
+451,21,2020-11-13,2022-08-04,Electroconvulsive Therapy,Improving
+451,46,2024-02-02,2024-07-16,Aversion Therapy,Improving
+451,78,2020-01-26,2024-09-25,Isolation Therapy,Unchanged
+452,52,2023-09-30,2023-11-09,Aversion Therapy,Improving
+452,39,2021-03-21,2024-03-15,Electroconvulsive Therapy,Unpredictable
+452,11,2023-03-30,2024-01-02,Isolation Therapy,Unchanged
+452,57,2021-09-23,2022-01-02,Aversion Therapy,Improving
+453,30,2023-02-27,2023-04-23,Isolation Therapy,Unchanged
+453,65,2024-09-21,2024-09-21,Psychosurgery,Deteriorating
+453,76,2020-07-20,2023-11-16,Psychosurgery,Unchanged
+453,50,2020-09-16,2023-06-05,Isolation Therapy,Deteriorating
+454,73,2020-05-01,2021-07-18,Psychosurgery,Unchanged
+455,63,2022-07-02,2023-06-09,Heavy Medication,Unpredictable
+456,79,2019-12-09,2021-05-25,Isolation Therapy,Deteriorating
+456,58,2023-11-29,2024-10-15,Psychosurgery,Unchanged
+456,22,2020-03-19,2020-12-05,Isolation Therapy,Improving
+456,11,2023-02-06,2023-04-08,Heavy Medication,Deteriorating
+456,54,2020-07-29,2022-08-08,Heavy Medication,Unchanged
+457,88,2023-05-06,2023-07-30,Cognitive Behavioral Therapy,Improving
+457,79,2022-02-03,2023-09-02,Cognitive Behavioral Therapy,Unchanged
+458,38,2021-05-24,2024-09-06,Cognitive Behavioral Therapy,Unchanged
+458,4,2022-08-26,2023-04-04,Heavy Medication,Deteriorating
+458,22,2020-11-23,2022-05-07,Electroconvulsive Therapy,Unpredictable
+459,60,2020-06-30,2022-06-03,Psychosurgery,Improving
+459,26,2020-07-07,2023-11-01,Cognitive Behavioral Therapy,Improving
+459,37,2022-08-09,2024-03-05,Heavy Medication,Deteriorating
+460,85,2021-07-07,2023-12-11,Electroconvulsive Therapy,Unpredictable
+460,44,2022-09-03,2023-01-03,Cognitive Behavioral Therapy,Unpredictable
+460,11,2022-12-21,2023-06-02,Psychosurgery,Unchanged
+461,98,2021-05-04,2022-12-14,Heavy Medication,Deteriorating
+461,93,2023-12-18,2024-03-04,Heavy Medication,Deteriorating
+461,48,2023-12-30,2024-09-21,Cognitive Behavioral Therapy,Unchanged
+461,75,2020-08-25,2020-12-04,Isolation Therapy,Improving
+461,35,2021-09-30,2022-03-27,Cognitive Behavioral Therapy,Unpredictable
+462,3,2020-03-31,2020-04-15,Heavy Medication,Unpredictable
+462,86,2024-03-21,2024-07-13,Isolation Therapy,Improving
+462,12,2021-07-13,2021-12-13,Psychosurgery,Unpredictable
+462,43,2020-12-27,2022-12-22,Psychosurgery,Deteriorating
+463,22,2020-03-23,2022-11-08,Heavy Medication,Deteriorating
+464,86,2023-01-02,2024-06-01,Heavy Medication,Unpredictable
+465,40,2023-12-15,2024-01-23,Heavy Medication,Improving
+466,24,2022-07-19,2023-11-02,Cognitive Behavioral Therapy,Improving
+467,55,2020-01-29,2022-01-20,Aversion Therapy,Improving
+467,15,2020-09-06,2021-04-19,Heavy Medication,Unchanged
+467,53,2021-10-02,2022-05-28,Psychosurgery,Improving
+468,14,2021-10-14,2021-11-17,Electroconvulsive Therapy,Unchanged
+468,35,2021-09-15,2024-09-13,Electroconvulsive Therapy,Unpredictable
+469,60,2020-03-19,2022-06-18,Electroconvulsive Therapy,Improving
+469,27,2023-06-21,2024-06-05,Heavy Medication,Improving
+470,9,2021-04-24,2022-12-01,Isolation Therapy,Improving
+470,71,2022-10-04,2023-02-16,Psychosurgery,Unpredictable
+470,37,2024-08-09,2024-10-13,Aversion Therapy,Unpredictable
+470,68,2023-02-25,2024-06-09,Cognitive Behavioral Therapy,Unpredictable
+471,40,2020-09-07,2023-01-20,Heavy Medication,Unpredictable
+471,89,2021-05-18,2023-10-19,Psychosurgery,Deteriorating
+472,45,2022-01-08,2024-07-15,Isolation Therapy,Unpredictable
+472,71,2020-04-23,2020-12-02,Electroconvulsive Therapy,Unpredictable
+472,32,2023-01-26,2024-10-18,Electroconvulsive Therapy,Unchanged
+472,80,2019-11-23,2020-06-06,Isolation Therapy,Unpredictable
+472,14,2024-09-03,2024-10-01,Isolation Therapy,Improving
+473,6,2020-09-29,2021-10-28,Aversion Therapy,Deteriorating
+473,24,2022-09-21,2024-01-18,Aversion Therapy,Unchanged
+474,54,2023-03-11,2024-02-21,Psychosurgery,Unchanged
+474,8,2020-02-28,2022-01-26,Cognitive Behavioral Therapy,Unchanged
+474,19,2020-06-23,2023-07-22,Psychosurgery,Improving
+474,39,2022-09-16,2024-09-03,Heavy Medication,Unpredictable
+475,73,2021-12-11,2023-07-24,Heavy Medication,Deteriorating
+475,3,2022-05-02,2024-06-05,Electroconvulsive Therapy,Deteriorating
+476,21,2021-01-13,2024-02-04,Cognitive Behavioral Therapy,Deteriorating
+476,53,2023-04-22,2023-05-22,Psychosurgery,Unchanged
+476,72,2023-07-29,2024-09-10,Psychosurgery,Deteriorating
+476,67,2022-07-20,2024-10-22,Heavy Medication,Deteriorating
+476,90,2020-07-22,2023-11-23,Heavy Medication,Unchanged
+477,29,2023-01-01,2023-01-05,Cognitive Behavioral Therapy,Improving
+478,22,2022-02-01,2023-09-18,Aversion Therapy,Unpredictable
+478,16,2022-05-03,2022-08-05,Electroconvulsive Therapy,Unchanged
+478,69,2022-08-16,2022-11-09,Aversion Therapy,Unchanged
+478,67,2022-11-22,2022-12-21,Electroconvulsive Therapy,Unchanged
+479,12,2021-02-17,2022-11-09,Electroconvulsive Therapy,Unchanged
+479,60,2024-03-28,2024-07-07,Psychosurgery,Unpredictable
+479,75,2019-12-26,2020-05-08,Aversion Therapy,Unchanged
+480,86,2020-04-12,2024-08-30,Electroconvulsive Therapy,Unchanged
+481,95,2020-01-18,2022-01-13,Aversion Therapy,Deteriorating
+481,39,2021-04-30,2022-03-07,Electroconvulsive Therapy,Unpredictable
+481,89,2021-06-14,2022-05-15,Cognitive Behavioral Therapy,Unchanged
+481,91,2022-06-18,2023-10-10,Aversion Therapy,Improving
+482,21,2020-11-26,2022-09-30,Aversion Therapy,Unpredictable
+483,78,2021-02-04,2024-02-02,Isolation Therapy,Deteriorating
+484,96,2022-09-18,2023-04-14,Electroconvulsive Therapy,Unpredictable
+485,89,2024-10-26,2024-10-27,Electroconvulsive Therapy,Unchanged
+485,20,2022-02-26,2024-07-03,Heavy Medication,Improving
+485,11,2021-04-09,2023-02-02,Aversion Therapy,Deteriorating
+485,89,2022-06-07,2022-12-08,Heavy Medication,Improving
+486,33,2024-01-06,2024-01-26,Cognitive Behavioral Therapy,Improving
+486,57,2023-12-20,2024-09-03,Isolation Therapy,Deteriorating
+486,99,2020-03-07,2020-03-21,Cognitive Behavioral Therapy,Unchanged
+486,72,2022-11-12,2024-09-12,Psychosurgery,Improving
+487,84,2020-08-07,2024-01-14,Cognitive Behavioral Therapy,Deteriorating
+487,94,2020-12-04,2024-01-07,Heavy Medication,Unchanged
+487,72,2020-09-08,2024-03-01,Heavy Medication,Unpredictable
+488,29,2022-05-18,2024-10-08,Psychosurgery,Improving
+488,66,2023-05-18,2023-11-16,Psychosurgery,Unchanged
+488,92,2023-06-07,2024-03-03,Aversion Therapy,Unpredictable
+488,21,2024-06-20,2024-08-16,Psychosurgery,Deteriorating
+488,55,2020-07-11,2022-09-18,Psychosurgery,Unchanged
+489,69,2020-07-12,2022-02-25,Cognitive Behavioral Therapy,Improving
+489,16,2022-11-17,2024-06-15,Heavy Medication,Improving
+489,50,2023-12-29,2024-07-24,Isolation Therapy,Improving
+490,6,2024-07-21,2024-10-21,Cognitive Behavioral Therapy,Unpredictable
+490,75,2024-10-23,2024-10-30,Heavy Medication,Unpredictable
+490,96,2024-07-24,2024-08-11,Aversion Therapy,Improving
+491,41,2022-01-28,2023-08-29,Psychosurgery,Deteriorating
+491,19,2021-05-04,2022-05-30,Heavy Medication,Deteriorating
+491,97,2023-10-24,2024-02-28,Isolation Therapy,Unchanged
+492,27,2021-11-18,2022-08-05,Heavy Medication,Unpredictable
+493,39,2020-05-25,2022-11-23,Aversion Therapy,Deteriorating
+493,15,2022-10-03,2024-03-17,Cognitive Behavioral Therapy,Unchanged
+493,78,2023-10-03,2024-01-03,Heavy Medication,Improving
+493,94,2021-11-21,2024-04-17,Isolation Therapy,Improving
+494,43,2021-02-28,2022-09-21,Heavy Medication,Unchanged
+494,3,2023-06-04,2023-07-10,Psychosurgery,Unpredictable
+494,24,2020-12-14,2023-01-25,Isolation Therapy,Improving
+494,76,2023-08-22,2023-12-27,Cognitive Behavioral Therapy,Unpredictable
+495,68,2023-10-19,2024-10-12,Psychosurgery,Unpredictable
+495,24,2024-03-18,2024-04-14,Psychosurgery,Deteriorating
+495,100,2023-07-15,2024-02-29,Cognitive Behavioral Therapy,Improving
+496,20,2022-03-09,2024-07-15,Heavy Medication,Unchanged
+496,82,2023-11-20,2024-08-26,Cognitive Behavioral Therapy,Unchanged
+497,9,2021-06-18,2024-09-23,Aversion Therapy,Unpredictable
+497,15,2021-06-28,2021-10-04,Cognitive Behavioral Therapy,Improving
+498,27,2022-10-26,2024-02-11,Aversion Therapy,Unpredictable
+498,92,2021-09-19,2022-03-21,Psychosurgery,Improving
+498,88,2023-10-31,2024-02-22,Psychosurgery,Deteriorating
+499,66,2022-09-11,2022-09-16,Heavy Medication,Improving
+499,83,2023-08-05,2024-11-01,Aversion Therapy,Deteriorating
+499,33,2021-06-12,2023-05-20,Aversion Therapy,Unchanged
+499,37,2023-07-31,2023-11-19,Isolation Therapy,Unchanged
+499,81,2022-01-21,2024-02-10,Electroconvulsive Therapy,Deteriorating
+500,22,2022-01-30,2022-06-28,Isolation Therapy,Unpredictable
+500,22,2022-10-30,2023-06-07,Isolation Therapy,Unchanged
+501,12,2022-05-16,2022-06-24,Electroconvulsive Therapy,Unpredictable
+501,56,2023-11-18,2024-03-02,Electroconvulsive Therapy,Unpredictable
+501,72,2020-06-24,2020-08-15,Heavy Medication,Deteriorating
+501,3,2020-03-18,2020-07-10,Cognitive Behavioral Therapy,Unpredictable
+501,1,2023-08-18,2024-08-07,Isolation Therapy,Unpredictable
+502,7,2021-11-01,2023-09-30,Electroconvulsive Therapy,Improving
+502,78,2023-11-26,2024-03-05,Cognitive Behavioral Therapy,Deteriorating
+502,19,2022-12-18,2024-02-08,Aversion Therapy,Unpredictable
+502,84,2021-03-12,2024-10-09,Heavy Medication,Deteriorating
+503,91,2023-07-19,2024-01-01,Isolation Therapy,Improving
+503,42,2023-12-25,2024-06-29,Aversion Therapy,Deteriorating
+503,13,2021-01-03,2023-07-10,Psychosurgery,Improving
+504,76,2020-05-17,2024-10-07,Psychosurgery,Improving
+505,16,2020-08-23,2022-07-19,Heavy Medication,Deteriorating
+505,29,2020-08-16,2024-08-09,Electroconvulsive Therapy,Unchanged
+506,36,2021-02-15,2023-08-26,Cognitive Behavioral Therapy,Improving
+506,1,2020-12-24,2021-04-07,Electroconvulsive Therapy,Deteriorating
+506,65,2022-08-19,2023-12-14,Cognitive Behavioral Therapy,Deteriorating
+506,65,2023-02-09,2023-07-28,Psychosurgery,Improving
+506,27,2021-07-22,2023-12-13,Isolation Therapy,Unchanged
+507,18,2022-11-28,2023-05-06,Aversion Therapy,Improving
+507,16,2022-08-02,2023-03-22,Psychosurgery,Deteriorating
+508,3,2021-11-24,2022-10-23,Cognitive Behavioral Therapy,Unchanged
+508,47,2024-04-16,2024-10-08,Aversion Therapy,Unchanged
+508,92,2024-07-01,2024-08-12,Aversion Therapy,Improving
+509,47,2020-03-23,2020-04-01,Heavy Medication,Deteriorating
+509,81,2020-12-05,2021-02-18,Psychosurgery,Deteriorating
+509,89,2024-02-05,2024-05-03,Electroconvulsive Therapy,Improving
+509,63,2023-07-30,2023-08-15,Cognitive Behavioral Therapy,Unchanged
+509,25,2020-05-01,2021-01-31,Heavy Medication,Deteriorating
+510,61,2021-06-16,2024-01-19,Heavy Medication,Improving
+510,73,2021-07-17,2022-10-24,Isolation Therapy,Unchanged
+511,94,2023-10-28,2023-12-13,Aversion Therapy,Unchanged
+511,67,2024-09-15,2024-10-20,Cognitive Behavioral Therapy,Improving
+511,65,2020-06-13,2022-02-27,Electroconvulsive Therapy,Unpredictable
+512,62,2021-06-28,2023-01-12,Psychosurgery,Improving
+512,4,2023-11-20,2024-07-13,Cognitive Behavioral Therapy,Unpredictable
+513,4,2021-05-27,2023-04-14,Electroconvulsive Therapy,Deteriorating
+514,71,2020-10-09,2021-09-13,Aversion Therapy,Deteriorating
+514,57,2024-06-09,2024-07-04,Isolation Therapy,Deteriorating
+514,23,2020-04-28,2023-10-16,Heavy Medication,Unchanged
+514,91,2022-07-09,2023-02-26,Aversion Therapy,Improving
+514,23,2023-07-18,2024-07-24,Psychosurgery,Improving
+515,44,2020-06-26,2023-11-12,Cognitive Behavioral Therapy,Unpredictable
+515,46,2022-08-25,2024-07-19,Electroconvulsive Therapy,Unchanged
+516,96,2022-11-05,2023-06-23,Heavy Medication,Unchanged
+517,4,2024-04-15,2024-05-12,Heavy Medication,Unpredictable
+517,2,2019-11-17,2020-07-07,Electroconvulsive Therapy,Improving
+518,4,2021-12-08,2023-04-14,Aversion Therapy,Unpredictable
+518,43,2024-07-15,2024-10-05,Isolation Therapy,Deteriorating
+518,6,2023-01-14,2024-10-30,Cognitive Behavioral Therapy,Deteriorating
+519,43,2021-06-12,2022-12-16,Electroconvulsive Therapy,Improving
+519,32,2022-08-26,2023-03-30,Electroconvulsive Therapy,Unchanged
+519,91,2023-11-02,2024-02-15,Aversion Therapy,Unchanged
+519,68,2023-10-15,2024-05-07,Heavy Medication,Deteriorating
+520,97,2020-02-17,2023-11-14,Isolation Therapy,Unpredictable
+520,57,2020-05-20,2021-10-26,Cognitive Behavioral Therapy,Deteriorating
+520,93,2023-02-06,2024-03-26,Electroconvulsive Therapy,Unpredictable
+520,79,2022-05-14,2023-02-18,Aversion Therapy,Unpredictable
+520,70,2024-05-25,2024-07-02,Isolation Therapy,Unchanged
+521,1,2024-04-17,2024-10-14,Isolation Therapy,Unpredictable
+522,71,2024-04-15,2024-05-29,Aversion Therapy,Unchanged
+522,14,2024-05-30,2024-10-11,Isolation Therapy,Deteriorating
+522,13,2024-08-07,2024-09-30,Electroconvulsive Therapy,Unchanged
+522,14,2022-03-25,2024-05-26,Heavy Medication,Improving
+523,93,2024-09-04,2024-09-30,Cognitive Behavioral Therapy,Unchanged
+524,90,2020-01-31,2023-10-11,Isolation Therapy,Unpredictable
+524,90,2024-05-16,2024-07-07,Cognitive Behavioral Therapy,Unpredictable
+524,47,2020-08-12,2022-04-14,Cognitive Behavioral Therapy,Unpredictable
+525,40,2022-09-25,2023-03-04,Heavy Medication,Deteriorating
+525,31,2022-08-14,2024-05-10,Aversion Therapy,Unpredictable
+525,87,2023-09-11,2024-09-19,Aversion Therapy,Improving
+526,1,2022-04-07,2024-03-09,Psychosurgery,Improving
+526,26,2020-09-15,2024-09-18,Isolation Therapy,Unpredictable
+526,71,2022-09-05,2022-12-03,Heavy Medication,Deteriorating
+526,8,2021-11-16,2022-09-18,Heavy Medication,Unchanged
+526,69,2024-04-25,2024-07-20,Heavy Medication,Deteriorating
+527,46,2021-02-25,2024-05-08,Heavy Medication,Unchanged
+527,29,2022-08-21,2023-08-19,Aversion Therapy,Unpredictable
+527,14,2023-05-01,2023-05-12,Psychosurgery,Deteriorating
+528,58,2020-06-20,2022-06-04,Psychosurgery,Unpredictable
+528,1,2022-02-10,2023-01-13,Heavy Medication,Unpredictable
+529,98,2020-08-27,2022-04-05,Aversion Therapy,Unpredictable
+530,21,2020-04-23,2023-09-08,Electroconvulsive Therapy,Unpredictable
+531,73,2020-04-08,2024-06-13,Cognitive Behavioral Therapy,Unpredictable
+531,58,2022-03-12,2022-11-26,Cognitive Behavioral Therapy,Unpredictable
+531,67,2024-03-06,2024-04-21,Aversion Therapy,Deteriorating
+531,74,2020-09-05,2023-03-16,Electroconvulsive Therapy,Improving
+531,77,2022-02-02,2023-03-15,Heavy Medication,Deteriorating
+532,44,2022-11-24,2024-01-10,Psychosurgery,Improving
+532,94,2020-06-29,2023-11-11,Psychosurgery,Unpredictable
+533,65,2022-03-28,2023-03-24,Aversion Therapy,Improving
+534,62,2024-02-28,2024-10-02,Electroconvulsive Therapy,Unpredictable
+534,66,2020-08-28,2024-06-24,Isolation Therapy,Unpredictable
+534,26,2023-02-26,2023-06-17,Cognitive Behavioral Therapy,Unpredictable
+534,43,2021-12-07,2024-01-04,Psychosurgery,Unchanged
+535,18,2022-01-14,2022-11-12,Psychosurgery,Deteriorating
+535,4,2023-08-15,2023-11-05,Electroconvulsive Therapy,Unpredictable
+535,25,2021-06-10,2022-07-08,Heavy Medication,Deteriorating
+535,35,2024-04-08,2024-04-08,Cognitive Behavioral Therapy,Improving
+536,46,2020-08-10,2022-01-29,Electroconvulsive Therapy,Deteriorating
+536,15,2020-02-08,2023-07-14,Psychosurgery,Unchanged
+536,66,2020-05-22,2024-06-19,Cognitive Behavioral Therapy,Improving
+537,56,2023-10-03,2023-10-30,Heavy Medication,Unpredictable
+537,11,2024-09-01,2024-10-10,Isolation Therapy,Deteriorating
+537,34,2020-11-22,2023-08-14,Heavy Medication,Deteriorating
+537,6,2020-11-17,2023-05-25,Isolation Therapy,Unpredictable
+537,36,2023-02-24,2024-09-22,Aversion Therapy,Improving
+538,2,2024-10-25,2024-11-01,Heavy Medication,Deteriorating
+538,13,2024-06-04,2024-06-07,Cognitive Behavioral Therapy,Unchanged
+538,38,2022-06-17,2024-08-23,Aversion Therapy,Improving
+538,95,2020-03-28,2021-12-28,Isolation Therapy,Improving
+539,61,2024-05-01,2024-09-10,Electroconvulsive Therapy,Unchanged
+540,96,2023-08-30,2024-08-23,Cognitive Behavioral Therapy,Unpredictable
+540,28,2020-05-17,2022-04-02,Isolation Therapy,Deteriorating
+541,27,2022-02-14,2023-10-16,Heavy Medication,Improving
+541,41,2023-01-10,2023-02-01,Aversion Therapy,Deteriorating
+542,9,2022-05-09,2023-03-22,Heavy Medication,Deteriorating
+543,70,2021-09-04,2023-04-13,Psychosurgery,Improving
+543,98,2020-08-23,2022-08-08,Electroconvulsive Therapy,Deteriorating
+544,42,2021-12-24,2024-01-20,Psychosurgery,Unpredictable
+545,16,2020-01-11,2024-11-03,Aversion Therapy,Improving
+545,79,2021-03-25,2023-09-19,Isolation Therapy,Improving
+546,65,2020-01-18,2020-10-09,Isolation Therapy,Unpredictable
+546,45,2021-09-23,2021-11-09,Psychosurgery,Deteriorating
+547,11,2021-11-05,2023-03-06,Aversion Therapy,Unchanged
+548,51,2023-04-09,2024-06-28,Electroconvulsive Therapy,Deteriorating
+549,87,2022-11-09,2023-07-21,Isolation Therapy,Improving
+549,48,2021-09-18,2023-04-28,Psychosurgery,Unchanged
+550,68,2021-01-25,2022-04-20,Cognitive Behavioral Therapy,Unchanged
+551,65,2024-07-17,2024-09-26,Psychosurgery,Unpredictable
+551,46,2021-02-06,2023-10-28,Heavy Medication,Improving
+551,52,2020-12-08,2022-11-30,Aversion Therapy,Unpredictable
+551,8,2023-08-12,2023-09-08,Isolation Therapy,Deteriorating
+552,13,2022-01-30,2023-09-09,Isolation Therapy,Deteriorating
+552,34,2024-05-19,2024-07-05,Psychosurgery,Unchanged
+553,88,2023-06-22,2024-08-01,Heavy Medication,Unpredictable
+553,44,2021-06-03,2021-07-16,Isolation Therapy,Unpredictable
+553,87,2021-11-17,2023-07-10,Psychosurgery,Deteriorating
+553,40,2020-05-03,2020-08-30,Electroconvulsive Therapy,Improving
+554,63,2021-01-17,2024-07-31,Heavy Medication,Improving
+554,22,2021-06-20,2023-03-13,Aversion Therapy,Unpredictable
+554,92,2024-07-07,2024-09-11,Cognitive Behavioral Therapy,Unpredictable
+554,3,2023-11-25,2024-03-13,Cognitive Behavioral Therapy,Unpredictable
+554,1,2021-09-24,2021-11-29,Heavy Medication,Unpredictable
+555,24,2019-11-30,2024-07-14,Aversion Therapy,Deteriorating
+556,35,2024-09-14,2024-10-07,Aversion Therapy,Unchanged
+556,79,2021-03-03,2024-03-03,Psychosurgery,Deteriorating
+557,27,2021-12-25,2022-07-02,Isolation Therapy,Unchanged
+557,78,2021-04-12,2024-09-28,Psychosurgery,Unchanged
+558,41,2024-01-18,2024-09-14,Cognitive Behavioral Therapy,Unpredictable
+559,72,2024-10-09,2024-10-28,Psychosurgery,Unchanged
+559,25,2023-04-01,2023-06-30,Isolation Therapy,Unpredictable
+559,55,2023-01-04,2023-09-22,Heavy Medication,Improving
+559,91,2021-07-06,2021-08-23,Electroconvulsive Therapy,Deteriorating
+560,79,2020-05-19,2024-06-05,Electroconvulsive Therapy,Deteriorating
+560,23,2022-02-17,2022-04-29,Aversion Therapy,Unpredictable
+560,47,2021-01-20,2021-02-18,Heavy Medication,Unchanged
+561,6,2023-12-11,2024-04-02,Aversion Therapy,Deteriorating
+561,2,2023-09-02,2024-09-01,Psychosurgery,Unpredictable
+562,94,2020-11-15,2021-10-11,Electroconvulsive Therapy,Unchanged
+563,85,2023-04-04,2024-09-30,Aversion Therapy,Unchanged
+564,11,2022-12-26,2024-04-13,Psychosurgery,Unchanged
+565,55,2024-03-24,2024-06-09,Cognitive Behavioral Therapy,Unchanged
+565,73,2020-06-17,2020-11-22,Cognitive Behavioral Therapy,Unpredictable
+565,65,2024-03-15,2024-08-16,Electroconvulsive Therapy,Unpredictable
+565,70,2024-06-03,2024-10-18,Aversion Therapy,Improving
+566,35,2021-03-01,2022-11-24,Psychosurgery,Deteriorating
+566,95,2020-03-06,2022-08-12,Cognitive Behavioral Therapy,Unpredictable
+566,78,2020-04-17,2023-06-02,Heavy Medication,Deteriorating
+566,11,2024-07-22,2024-10-07,Isolation Therapy,Unchanged
+566,32,2024-01-05,2024-05-11,Heavy Medication,Deteriorating
+567,43,2020-03-17,2023-02-02,Electroconvulsive Therapy,Deteriorating
+567,4,2021-03-08,2021-05-26,Psychosurgery,Deteriorating
+567,23,2020-12-04,2023-03-20,Psychosurgery,Deteriorating
+567,87,2021-12-22,2024-10-13,Psychosurgery,Unpredictable
+568,3,2024-07-21,2024-08-31,Heavy Medication,Unchanged
+568,59,2021-09-01,2022-02-23,Aversion Therapy,Unpredictable
+568,94,2020-02-18,2023-02-09,Heavy Medication,Unchanged
+568,72,2024-04-09,2024-07-03,Electroconvulsive Therapy,Unchanged
+568,75,2022-09-26,2023-01-01,Cognitive Behavioral Therapy,Unchanged
+569,59,2022-12-13,2023-06-24,Cognitive Behavioral Therapy,Unchanged
+569,4,2021-02-15,2023-01-22,Electroconvulsive Therapy,Deteriorating
+569,69,2024-05-17,2024-05-26,Psychosurgery,Improving
+569,77,2019-12-12,2020-07-29,Heavy Medication,Deteriorating
+569,40,2023-12-02,2024-09-23,Electroconvulsive Therapy,Unpredictable
+570,30,2022-05-23,2024-02-25,Heavy Medication,Deteriorating
+570,3,2024-04-22,2024-06-17,Heavy Medication,Unchanged
+570,3,2024-03-03,2024-10-23,Cognitive Behavioral Therapy,Deteriorating
+570,74,2022-03-26,2023-03-28,Electroconvulsive Therapy,Unpredictable
+571,61,2024-09-03,2024-10-07,Psychosurgery,Improving
+571,14,2022-12-12,2024-05-03,Psychosurgery,Unchanged
+571,86,2022-01-19,2023-02-23,Heavy Medication,Unchanged
+571,10,2020-11-13,2023-05-06,Electroconvulsive Therapy,Unpredictable
+572,35,2023-09-29,2024-07-20,Isolation Therapy,Unpredictable
+572,8,2022-09-08,2023-01-01,Electroconvulsive Therapy,Improving
+572,19,2022-11-27,2024-02-10,Cognitive Behavioral Therapy,Unchanged
+572,14,2022-06-15,2024-09-13,Electroconvulsive Therapy,Unpredictable
+572,48,2023-03-09,2024-01-11,Cognitive Behavioral Therapy,Deteriorating
+573,76,2024-07-27,2024-10-03,Heavy Medication,Unpredictable
+573,1,2023-01-31,2023-05-23,Heavy Medication,Unchanged
+573,76,2024-08-10,2024-08-15,Electroconvulsive Therapy,Unchanged
+573,42,2022-01-17,2022-02-21,Aversion Therapy,Deteriorating
+573,100,2022-12-05,2023-09-19,Cognitive Behavioral Therapy,Unpredictable
+574,62,2022-04-03,2024-06-06,Isolation Therapy,Improving
+575,5,2022-09-13,2023-04-08,Heavy Medication,Improving
+575,27,2021-09-17,2024-03-28,Heavy Medication,Unchanged
+576,38,2022-05-14,2024-05-15,Isolation Therapy,Unpredictable
+576,72,2023-02-26,2024-10-14,Aversion Therapy,Improving
+577,11,2023-02-25,2024-04-06,Isolation Therapy,Unpredictable
+577,92,2022-07-30,2023-05-28,Cognitive Behavioral Therapy,Deteriorating
+577,54,2020-08-14,2024-01-14,Psychosurgery,Deteriorating
+577,73,2022-04-06,2023-05-08,Electroconvulsive Therapy,Deteriorating
+577,68,2020-02-11,2023-11-13,Cognitive Behavioral Therapy,Unpredictable
+578,84,2021-09-02,2023-03-05,Psychosurgery,Unchanged
+578,67,2024-08-03,2024-09-30,Psychosurgery,Improving
+578,36,2019-12-15,2023-01-21,Cognitive Behavioral Therapy,Unchanged
+578,66,2021-02-13,2021-11-02,Heavy Medication,Unchanged
+578,30,2021-07-16,2021-12-05,Psychosurgery,Improving
+579,66,2024-05-09,2024-05-25,Psychosurgery,Unpredictable
+579,57,2023-06-16,2023-06-25,Aversion Therapy,Improving
+579,21,2019-12-02,2022-08-21,Electroconvulsive Therapy,Improving
+580,58,2022-07-04,2023-02-17,Cognitive Behavioral Therapy,Deteriorating
+580,41,2022-10-10,2024-04-01,Psychosurgery,Unchanged
+580,80,2021-11-14,2022-07-17,Psychosurgery,Deteriorating
+581,41,2022-11-23,2023-06-06,Isolation Therapy,Unpredictable
+582,47,2022-06-01,2023-11-27,Cognitive Behavioral Therapy,Unpredictable
+582,83,2022-09-22,2023-03-25,Aversion Therapy,Deteriorating
+582,26,2021-10-07,2022-02-26,Electroconvulsive Therapy,Deteriorating
+582,96,2024-10-27,2024-10-28,Aversion Therapy,Deteriorating
+583,68,2022-06-16,2022-08-12,Heavy Medication,Deteriorating
+584,47,2021-01-15,2021-05-28,Psychosurgery,Improving
+584,49,2021-12-12,2023-04-04,Psychosurgery,Unchanged
+584,40,2023-01-28,2023-10-27,Cognitive Behavioral Therapy,Improving
+584,53,2022-12-26,2023-11-06,Heavy Medication,Unpredictable
+585,71,2024-03-10,2024-06-07,Aversion Therapy,Unchanged
+585,22,2021-01-07,2024-06-06,Cognitive Behavioral Therapy,Deteriorating
+586,17,2024-10-29,2024-11-03,Aversion Therapy,Deteriorating
+587,18,2022-04-17,2023-03-31,Heavy Medication,Unpredictable
+587,70,2021-11-18,2024-06-30,Cognitive Behavioral Therapy,Unchanged
+587,2,2022-03-25,2022-07-31,Cognitive Behavioral Therapy,Improving
+588,52,2019-11-05,2021-05-08,Heavy Medication,Improving
+588,54,2020-01-19,2023-07-20,Electroconvulsive Therapy,Unchanged
+588,74,2022-07-16,2023-01-24,Electroconvulsive Therapy,Unpredictable
+589,1,2022-05-11,2024-02-26,Psychosurgery,Unpredictable
+589,99,2020-06-14,2022-08-28,Heavy Medication,Improving
+590,33,2021-03-29,2022-03-13,Aversion Therapy,Deteriorating
+590,79,2024-04-23,2024-07-12,Aversion Therapy,Unchanged
+590,61,2023-11-15,2024-09-08,Isolation Therapy,Deteriorating
+590,3,2021-03-28,2024-06-09,Cognitive Behavioral Therapy,Unpredictable
+590,76,2022-01-29,2022-05-28,Psychosurgery,Deteriorating
+591,46,2022-11-06,2024-01-19,Aversion Therapy,Deteriorating
+591,62,2023-06-20,2024-03-26,Psychosurgery,Deteriorating
+592,67,2022-07-04,2023-11-06,Cognitive Behavioral Therapy,Unchanged
+592,39,2021-07-15,2022-02-16,Psychosurgery,Deteriorating
+593,49,2021-08-11,2024-03-05,Psychosurgery,Unchanged
+593,84,2023-03-24,2023-11-11,Aversion Therapy,Improving
+593,8,2020-09-06,2021-10-10,Heavy Medication,Unchanged
+593,84,2023-06-23,2024-10-18,Psychosurgery,Unchanged
+594,16,2020-03-31,2020-04-09,Electroconvulsive Therapy,Improving
+595,90,2022-05-03,2022-10-05,Isolation Therapy,Improving
+596,18,2020-06-08,2023-10-06,Heavy Medication,Unpredictable
+597,66,2024-05-26,2024-08-12,Aversion Therapy,Deteriorating
+598,46,2023-11-25,2024-08-24,Heavy Medication,Unchanged
+598,35,2022-08-30,2024-10-06,Cognitive Behavioral Therapy,Unpredictable
+598,7,2024-02-13,2024-05-26,Electroconvulsive Therapy,Unpredictable
+598,96,2022-11-27,2023-07-21,Electroconvulsive Therapy,Unpredictable
+598,54,2020-07-02,2023-05-24,Cognitive Behavioral Therapy,Unpredictable
+599,45,2022-11-16,2022-12-27,Psychosurgery,Unpredictable
+600,74,2023-12-25,2024-10-31,Psychosurgery,Improving
+600,77,2020-02-14,2024-06-21,Heavy Medication,Improving
+600,41,2020-02-21,2020-12-20,Heavy Medication,Deteriorating
+600,12,2023-06-04,2023-09-03,Heavy Medication,Improving
+600,64,2021-10-29,2023-05-17,Aversion Therapy,Deteriorating
+601,29,2022-12-28,2024-04-15,Psychosurgery,Deteriorating
+601,92,2023-05-11,2023-08-18,Isolation Therapy,Unchanged
+601,39,2021-11-08,2024-07-12,Psychosurgery,Unchanged
+601,36,2019-11-12,2023-09-25,Psychosurgery,Unpredictable
+602,48,2023-04-23,2024-10-11,Aversion Therapy,Unpredictable
+602,94,2022-10-21,2023-07-31,Aversion Therapy,Unpredictable
+602,6,2023-06-28,2024-01-30,Isolation Therapy,Unchanged
+602,2,2019-11-15,2021-01-30,Isolation Therapy,Unpredictable
+602,91,2019-11-27,2023-01-30,Psychosurgery,Improving
+603,93,2024-10-01,2024-10-23,Cognitive Behavioral Therapy,Unchanged
+603,3,2020-11-28,2021-05-10,Aversion Therapy,Improving
+603,12,2023-02-01,2023-05-02,Electroconvulsive Therapy,Deteriorating
+604,75,2022-01-11,2023-05-18,Aversion Therapy,Unpredictable
+605,88,2024-03-04,2024-03-12,Electroconvulsive Therapy,Improving
+605,33,2021-01-13,2022-07-02,Electroconvulsive Therapy,Unpredictable
+605,91,2024-04-01,2024-05-14,Psychosurgery,Improving
+605,39,2021-10-12,2023-04-05,Isolation Therapy,Unpredictable
+606,20,2024-03-08,2024-04-06,Electroconvulsive Therapy,Improving
+607,22,2020-11-24,2020-12-03,Electroconvulsive Therapy,Improving
+607,44,2022-05-28,2024-05-06,Electroconvulsive Therapy,Unpredictable
+607,90,2023-12-03,2024-10-08,Aversion Therapy,Unchanged
+608,47,2023-08-29,2024-05-24,Heavy Medication,Deteriorating
+608,11,2021-12-30,2022-01-28,Heavy Medication,Unpredictable
+608,28,2020-07-18,2020-09-17,Electroconvulsive Therapy,Unchanged
+608,40,2021-01-24,2024-08-28,Aversion Therapy,Unchanged
+608,97,2024-05-07,2024-11-02,Electroconvulsive Therapy,Unpredictable
+609,51,2024-06-24,2024-10-04,Aversion Therapy,Unchanged
+609,29,2024-10-18,2024-10-29,Isolation Therapy,Deteriorating
+610,60,2022-04-21,2023-09-07,Psychosurgery,Deteriorating
+610,45,2023-10-21,2024-07-20,Isolation Therapy,Unchanged
+610,99,2022-12-11,2024-04-16,Heavy Medication,Unpredictable
+610,75,2022-12-13,2023-10-11,Heavy Medication,Improving
+610,98,2022-11-29,2023-11-20,Aversion Therapy,Unpredictable
+611,37,2021-02-22,2024-04-18,Isolation Therapy,Improving
+611,27,2020-08-22,2021-04-08,Cognitive Behavioral Therapy,Unpredictable
+611,100,2023-02-24,2023-12-24,Isolation Therapy,Deteriorating
+611,68,2020-12-22,2024-08-17,Isolation Therapy,Unpredictable
+612,82,2023-06-06,2024-07-05,Heavy Medication,Unchanged
+612,79,2023-02-21,2024-01-05,Electroconvulsive Therapy,Deteriorating
+612,56,2021-12-13,2022-10-25,Heavy Medication,Deteriorating
+612,30,2023-12-14,2024-04-30,Psychosurgery,Improving
+613,51,2023-07-29,2024-09-02,Isolation Therapy,Unpredictable
+614,42,2021-07-06,2024-04-25,Heavy Medication,Unpredictable
+614,8,2020-08-20,2022-01-02,Isolation Therapy,Unchanged
+614,97,2020-10-26,2021-04-04,Heavy Medication,Unchanged
+614,76,2021-01-10,2021-01-22,Heavy Medication,Improving
+614,24,2023-06-08,2024-09-15,Aversion Therapy,Deteriorating
+615,21,2023-11-22,2024-04-15,Cognitive Behavioral Therapy,Improving
+615,64,2024-07-12,2024-10-27,Electroconvulsive Therapy,Unchanged
+615,64,2020-01-30,2020-04-27,Cognitive Behavioral Therapy,Unpredictable
+615,48,2020-06-01,2024-04-24,Psychosurgery,Deteriorating
+615,51,2022-01-17,2023-04-02,Electroconvulsive Therapy,Deteriorating
+616,41,2021-12-26,2023-04-23,Electroconvulsive Therapy,Unchanged
+616,28,2021-12-12,2022-10-22,Electroconvulsive Therapy,Improving
+617,74,2024-07-20,2024-09-29,Isolation Therapy,Improving
+618,91,2020-05-25,2022-10-22,Aversion Therapy,Improving
+619,18,2020-04-04,2020-04-11,Heavy Medication,Improving
+620,33,2023-08-09,2024-02-07,Electroconvulsive Therapy,Improving
+620,38,2023-04-25,2024-10-03,Isolation Therapy,Improving
+620,6,2023-01-12,2024-07-24,Psychosurgery,Unchanged
+620,99,2020-06-17,2022-12-02,Isolation Therapy,Unchanged
+621,11,2021-04-28,2023-03-29,Psychosurgery,Unchanged
+621,64,2020-02-03,2023-08-11,Psychosurgery,Unchanged
+621,33,2021-12-17,2023-08-25,Psychosurgery,Unchanged
+621,19,2021-03-23,2021-05-30,Isolation Therapy,Unchanged
+622,12,2021-04-26,2021-10-11,Aversion Therapy,Unpredictable
+622,20,2022-08-21,2023-08-26,Heavy Medication,Deteriorating
+622,3,2021-04-19,2023-10-21,Psychosurgery,Unchanged
+622,36,2022-12-17,2023-06-28,Electroconvulsive Therapy,Improving
+623,11,2020-01-04,2020-09-21,Heavy Medication,Unpredictable
+623,63,2020-04-03,2024-02-16,Psychosurgery,Unpredictable
+623,82,2023-07-19,2024-02-26,Psychosurgery,Improving
+624,93,2024-09-26,2024-09-27,Aversion Therapy,Deteriorating
+624,72,2020-09-01,2023-11-06,Isolation Therapy,Unpredictable
+624,23,2021-11-13,2022-04-02,Aversion Therapy,Deteriorating
+624,55,2023-09-06,2023-10-21,Aversion Therapy,Unpredictable
+625,30,2019-12-10,2023-12-20,Psychosurgery,Deteriorating
+625,68,2021-02-11,2023-02-16,Aversion Therapy,Improving
+625,54,2021-10-10,2023-04-16,Heavy Medication,Unpredictable
+626,65,2020-08-15,2024-05-14,Isolation Therapy,Improving
+626,75,2020-06-20,2021-10-09,Aversion Therapy,Unchanged
+627,58,2023-02-17,2024-06-21,Isolation Therapy,Unchanged
+627,21,2024-04-24,2024-06-22,Psychosurgery,Deteriorating
+627,19,2023-06-16,2024-03-16,Cognitive Behavioral Therapy,Deteriorating
+627,60,2022-08-31,2024-10-29,Heavy Medication,Improving
+628,30,2022-07-29,2023-04-06,Psychosurgery,Improving
+628,32,2024-01-25,2024-10-20,Aversion Therapy,Improving
+628,52,2024-06-03,2024-08-23,Psychosurgery,Improving
+629,74,2020-09-27,2023-06-16,Aversion Therapy,Unpredictable
+629,6,2020-05-25,2024-10-08,Isolation Therapy,Unpredictable
+630,49,2021-12-02,2024-01-09,Heavy Medication,Unchanged
+630,25,2024-06-24,2024-08-14,Electroconvulsive Therapy,Unchanged
+630,36,2022-09-26,2023-10-19,Psychosurgery,Deteriorating
+630,13,2021-12-06,2022-08-20,Psychosurgery,Improving
+630,100,2023-03-07,2024-07-01,Heavy Medication,Deteriorating
+631,69,2020-10-05,2021-04-13,Heavy Medication,Unchanged
+632,32,2022-08-08,2024-07-30,Isolation Therapy,Unchanged
+632,36,2020-06-11,2021-05-14,Cognitive Behavioral Therapy,Unchanged
+632,69,2020-11-15,2023-04-29,Psychosurgery,Improving
+632,24,2022-02-07,2023-09-14,Isolation Therapy,Unchanged
+633,16,2024-01-27,2024-07-24,Psychosurgery,Unchanged
+633,54,2023-04-02,2024-03-01,Cognitive Behavioral Therapy,Improving
+633,33,2024-09-21,2024-09-27,Psychosurgery,Unchanged
+633,66,2021-01-02,2021-09-02,Isolation Therapy,Unpredictable
+634,28,2024-01-28,2024-08-29,Psychosurgery,Deteriorating
+634,30,2021-08-11,2022-09-25,Psychosurgery,Unchanged
+634,82,2020-03-21,2023-05-10,Electroconvulsive Therapy,Unpredictable
+634,14,2021-04-03,2021-05-03,Psychosurgery,Unchanged
+635,42,2023-11-26,2024-08-11,Isolation Therapy,Improving
+635,16,2024-06-22,2024-07-16,Cognitive Behavioral Therapy,Improving
+636,7,2024-04-05,2024-07-08,Isolation Therapy,Deteriorating
+636,64,2021-08-14,2023-01-31,Aversion Therapy,Unpredictable
+636,44,2024-03-24,2024-09-17,Isolation Therapy,Unchanged
+636,79,2024-10-31,2024-11-03,Isolation Therapy,Unpredictable
+637,84,2020-09-06,2024-01-24,Aversion Therapy,Unpredictable
+637,72,2021-07-21,2021-08-05,Psychosurgery,Deteriorating
+637,2,2024-04-25,2024-06-26,Isolation Therapy,Unchanged
+637,59,2023-01-01,2023-09-04,Cognitive Behavioral Therapy,Unpredictable
+638,52,2022-03-16,2022-10-31,Isolation Therapy,Unchanged
+638,100,2022-09-19,2024-01-17,Aversion Therapy,Improving
+638,100,2020-04-27,2022-11-04,Isolation Therapy,Deteriorating
+638,43,2024-05-02,2024-10-26,Cognitive Behavioral Therapy,Deteriorating
+639,14,2021-06-15,2021-08-22,Electroconvulsive Therapy,Deteriorating
+639,42,2020-11-06,2022-11-07,Electroconvulsive Therapy,Deteriorating
+639,88,2021-08-29,2023-12-08,Electroconvulsive Therapy,Deteriorating
+639,95,2024-06-21,2024-07-22,Heavy Medication,Improving
+639,62,2021-06-29,2023-04-14,Psychosurgery,Unpredictable
+640,95,2021-10-14,2023-12-26,Cognitive Behavioral Therapy,Unpredictable
+640,19,2021-02-10,2024-09-15,Electroconvulsive Therapy,Deteriorating
+641,23,2021-03-06,2024-09-07,Electroconvulsive Therapy,Unchanged
+641,57,2024-05-14,2024-07-25,Psychosurgery,Unchanged
+642,4,2021-07-25,2024-04-14,Aversion Therapy,Unpredictable
+642,42,2024-07-27,2024-10-30,Psychosurgery,Improving
+642,98,2020-09-23,2023-04-13,Aversion Therapy,Improving
+643,30,2021-04-12,2022-01-18,Aversion Therapy,Unpredictable
+643,1,2020-04-03,2020-10-07,Psychosurgery,Deteriorating
+643,89,2020-09-26,2024-05-02,Heavy Medication,Unchanged
+643,32,2021-01-08,2023-01-16,Heavy Medication,Deteriorating
+644,26,2023-03-29,2023-12-04,Psychosurgery,Deteriorating
+644,69,2020-06-27,2022-02-11,Aversion Therapy,Improving
+645,100,2019-12-29,2020-05-08,Isolation Therapy,Unchanged
+645,17,2021-10-31,2023-05-16,Isolation Therapy,Deteriorating
+645,9,2023-01-14,2024-10-18,Heavy Medication,Unchanged
+645,14,2023-02-03,2024-02-06,Cognitive Behavioral Therapy,Unchanged
+646,30,2019-11-05,2020-03-17,Isolation Therapy,Deteriorating
+646,88,2022-09-17,2024-07-06,Isolation Therapy,Unpredictable
+646,15,2021-07-05,2024-03-22,Isolation Therapy,Deteriorating
+646,89,2022-03-04,2022-06-28,Isolation Therapy,Deteriorating
+647,17,2021-09-27,2021-10-13,Psychosurgery,Unchanged
+647,7,2024-09-10,2024-09-30,Cognitive Behavioral Therapy,Unpredictable
+648,43,2020-07-25,2023-10-27,Heavy Medication,Improving
+648,22,2021-11-12,2023-07-02,Cognitive Behavioral Therapy,Unpredictable
+648,41,2021-05-28,2021-06-18,Heavy Medication,Unchanged
+648,85,2024-03-04,2024-07-29,Electroconvulsive Therapy,Deteriorating
+648,20,2020-07-19,2020-09-11,Electroconvulsive Therapy,Unpredictable
+649,14,2021-12-14,2022-10-23,Psychosurgery,Deteriorating
+649,46,2020-08-25,2022-10-31,Psychosurgery,Unpredictable
+649,96,2024-03-21,2024-05-01,Isolation Therapy,Improving
+650,16,2020-07-06,2024-04-07,Psychosurgery,Unchanged
+651,76,2021-04-09,2024-07-05,Isolation Therapy,Unchanged
+651,10,2024-10-11,2024-10-27,Cognitive Behavioral Therapy,Unchanged
+651,65,2022-07-27,2024-07-14,Isolation Therapy,Improving
+651,11,2021-01-05,2023-11-26,Isolation Therapy,Deteriorating
+651,82,2021-06-21,2021-08-05,Heavy Medication,Deteriorating
+652,57,2022-12-21,2023-08-09,Cognitive Behavioral Therapy,Unchanged
+653,17,2022-11-29,2024-01-15,Cognitive Behavioral Therapy,Unpredictable
+654,50,2022-08-12,2023-01-03,Heavy Medication,Unchanged
+654,54,2020-02-16,2021-02-28,Aversion Therapy,Unchanged
+655,88,2023-09-09,2024-04-02,Heavy Medication,Unpredictable
+655,6,2021-08-05,2023-11-08,Isolation Therapy,Deteriorating
+655,60,2023-11-27,2024-04-17,Aversion Therapy,Improving
+655,77,2021-10-10,2024-08-18,Isolation Therapy,Deteriorating
+656,80,2022-06-17,2022-12-18,Cognitive Behavioral Therapy,Improving
+657,14,2024-09-17,2024-10-18,Aversion Therapy,Unpredictable
+657,17,2021-03-28,2022-10-20,Electroconvulsive Therapy,Unchanged
+657,78,2021-04-01,2023-11-28,Heavy Medication,Deteriorating
+658,20,2022-12-31,2023-11-01,Cognitive Behavioral Therapy,Improving
+658,63,2020-12-11,2021-03-28,Isolation Therapy,Unchanged
+658,13,2022-11-12,2023-07-06,Cognitive Behavioral Therapy,Unpredictable
+658,62,2021-08-05,2022-05-15,Aversion Therapy,Deteriorating
+658,100,2022-08-17,2022-12-22,Cognitive Behavioral Therapy,Unpredictable
+659,48,2020-08-15,2022-03-16,Aversion Therapy,Unpredictable
+659,23,2024-08-03,2024-09-10,Aversion Therapy,Deteriorating
+659,10,2024-08-05,2024-09-24,Isolation Therapy,Deteriorating
+660,95,2021-08-31,2024-02-12,Psychosurgery,Deteriorating
+660,52,2024-02-09,2024-03-29,Isolation Therapy,Unpredictable
+660,58,2022-10-12,2023-09-26,Psychosurgery,Unchanged
+660,29,2020-03-23,2022-03-22,Electroconvulsive Therapy,Improving
+660,27,2020-02-01,2021-08-20,Isolation Therapy,Deteriorating
+661,16,2021-07-19,2024-08-04,Cognitive Behavioral Therapy,Unchanged
+661,16,2022-06-08,2023-04-07,Electroconvulsive Therapy,Unpredictable
+661,49,2020-11-01,2022-01-25,Cognitive Behavioral Therapy,Improving
+661,95,2024-01-11,2024-06-28,Isolation Therapy,Improving
+662,95,2021-10-05,2021-12-12,Isolation Therapy,Unpredictable
+662,34,2021-02-23,2021-04-11,Isolation Therapy,Unpredictable
+662,91,2024-10-16,2024-10-26,Heavy Medication,Improving
+663,86,2023-12-29,2024-03-04,Heavy Medication,Deteriorating
+663,82,2024-04-18,2024-09-22,Psychosurgery,Unpredictable
+663,85,2023-08-10,2024-10-05,Psychosurgery,Unpredictable
+664,24,2022-01-18,2024-07-02,Aversion Therapy,Unchanged
+664,73,2021-06-17,2023-10-25,Cognitive Behavioral Therapy,Improving
+664,89,2021-04-21,2024-03-09,Electroconvulsive Therapy,Unchanged
+665,20,2022-09-09,2024-05-12,Electroconvulsive Therapy,Unpredictable
+665,99,2020-01-30,2024-05-23,Psychosurgery,Improving
+665,55,2024-01-01,2024-02-20,Psychosurgery,Deteriorating
+666,18,2022-05-24,2024-04-09,Psychosurgery,Deteriorating
+667,73,2023-10-25,2024-05-12,Heavy Medication,Unpredictable
+667,37,2022-02-10,2024-08-02,Aversion Therapy,Deteriorating
+668,8,2020-04-24,2022-06-02,Electroconvulsive Therapy,Deteriorating
+668,41,2021-01-17,2022-08-12,Heavy Medication,Improving
+668,32,2020-12-02,2022-04-01,Aversion Therapy,Unpredictable
+668,92,2021-08-26,2022-06-12,Isolation Therapy,Unchanged
+669,62,2023-10-09,2024-02-28,Heavy Medication,Improving
+669,13,2022-04-26,2022-07-07,Cognitive Behavioral Therapy,Unpredictable
+669,14,2020-09-27,2022-01-03,Psychosurgery,Improving
+670,62,2024-10-31,2024-10-31,Psychosurgery,Unpredictable
+670,16,2020-01-13,2024-08-18,Heavy Medication,Improving
+670,7,2023-07-25,2024-05-21,Cognitive Behavioral Therapy,Unpredictable
+670,65,2023-10-01,2024-09-15,Cognitive Behavioral Therapy,Deteriorating
+670,50,2020-12-07,2021-01-18,Heavy Medication,Deteriorating
+671,86,2021-02-26,2022-03-02,Aversion Therapy,Unchanged
+671,16,2020-04-04,2022-05-07,Isolation Therapy,Improving
+671,4,2020-04-25,2024-04-30,Isolation Therapy,Unpredictable
+671,46,2021-01-06,2021-05-02,Heavy Medication,Unpredictable
+671,65,2020-10-08,2023-07-23,Heavy Medication,Improving
+672,98,2022-06-15,2023-07-23,Psychosurgery,Unchanged
+672,85,2023-10-23,2024-06-14,Electroconvulsive Therapy,Unpredictable
+672,60,2022-01-01,2024-06-03,Psychosurgery,Improving
+672,18,2023-06-19,2024-01-14,Cognitive Behavioral Therapy,Unchanged
+673,45,2021-05-26,2023-08-28,Aversion Therapy,Unchanged
+673,18,2021-03-12,2021-09-13,Cognitive Behavioral Therapy,Unpredictable
+673,80,2021-10-18,2023-06-23,Heavy Medication,Unpredictable
+674,2,2022-12-20,2023-02-22,Isolation Therapy,Unpredictable
+674,97,2024-10-26,2024-11-03,Aversion Therapy,Unpredictable
+675,11,2023-12-18,2023-12-24,Isolation Therapy,Deteriorating
+676,26,2020-05-07,2024-06-08,Heavy Medication,Improving
+676,26,2020-03-02,2023-04-04,Psychosurgery,Deteriorating
+676,16,2022-03-14,2023-12-26,Electroconvulsive Therapy,Improving
+676,31,2024-07-22,2024-10-03,Psychosurgery,Unpredictable
+676,97,2022-09-16,2023-07-15,Heavy Medication,Unpredictable
+677,99,2023-07-26,2024-05-27,Cognitive Behavioral Therapy,Deteriorating
+677,15,2020-01-07,2020-05-09,Electroconvulsive Therapy,Unpredictable
+677,82,2022-12-03,2023-04-04,Aversion Therapy,Unchanged
+677,63,2023-10-11,2024-10-17,Electroconvulsive Therapy,Unpredictable
+677,62,2024-03-21,2024-03-29,Psychosurgery,Improving
+678,18,2023-08-04,2024-04-11,Aversion Therapy,Unchanged
+678,83,2022-10-02,2024-01-24,Heavy Medication,Deteriorating
+679,51,2022-09-25,2023-10-11,Isolation Therapy,Unpredictable
+679,78,2022-11-12,2022-12-11,Isolation Therapy,Unchanged
+679,17,2021-06-19,2021-08-23,Cognitive Behavioral Therapy,Improving
+680,27,2022-08-07,2023-04-25,Heavy Medication,Deteriorating
+681,19,2022-04-19,2024-05-03,Aversion Therapy,Unchanged
+681,13,2024-08-26,2024-09-18,Heavy Medication,Unpredictable
+682,30,2024-08-07,2024-08-25,Heavy Medication,Unchanged
+682,97,2022-11-21,2024-05-25,Isolation Therapy,Deteriorating
+683,13,2020-02-10,2020-07-17,Electroconvulsive Therapy,Unchanged
+683,29,2023-12-24,2024-09-09,Cognitive Behavioral Therapy,Unpredictable
+683,72,2020-12-03,2021-07-31,Isolation Therapy,Improving
+683,56,2020-10-31,2020-12-27,Aversion Therapy,Unchanged
+684,9,2024-06-03,2024-09-29,Electroconvulsive Therapy,Unpredictable
+684,78,2024-06-14,2024-06-21,Cognitive Behavioral Therapy,Unpredictable
+684,92,2024-03-12,2024-06-16,Aversion Therapy,Unpredictable
+684,42,2023-08-13,2024-03-25,Aversion Therapy,Unchanged
+685,69,2021-04-02,2024-03-25,Isolation Therapy,Improving
+685,45,2021-05-29,2022-01-28,Cognitive Behavioral Therapy,Deteriorating
+685,96,2021-08-22,2023-08-08,Cognitive Behavioral Therapy,Deteriorating
+686,6,2021-08-06,2023-10-30,Cognitive Behavioral Therapy,Improving
+686,31,2020-09-07,2023-11-20,Heavy Medication,Unchanged
+686,33,2020-07-01,2022-03-29,Isolation Therapy,Improving
+686,74,2024-10-19,2024-10-25,Heavy Medication,Unchanged
+686,3,2021-01-26,2023-11-10,Cognitive Behavioral Therapy,Improving
+687,3,2022-10-06,2023-09-17,Psychosurgery,Unpredictable
+687,93,2023-09-03,2023-12-12,Electroconvulsive Therapy,Unpredictable
+687,47,2023-06-18,2024-04-08,Aversion Therapy,Improving
+687,2,2021-06-14,2023-05-14,Isolation Therapy,Improving
+688,19,2020-09-25,2023-09-18,Electroconvulsive Therapy,Deteriorating
+688,98,2023-03-24,2024-01-05,Isolation Therapy,Deteriorating
+689,26,2022-03-24,2022-08-26,Isolation Therapy,Improving
+689,61,2022-01-18,2024-07-01,Heavy Medication,Unpredictable
+689,10,2022-11-09,2022-11-27,Cognitive Behavioral Therapy,Improving
+689,23,2021-07-01,2021-10-13,Isolation Therapy,Unchanged
+690,41,2021-06-14,2023-03-29,Electroconvulsive Therapy,Deteriorating
+690,19,2023-08-16,2024-02-05,Heavy Medication,Improving
+691,79,2023-02-01,2023-08-31,Cognitive Behavioral Therapy,Improving
+691,95,2022-01-19,2023-04-25,Electroconvulsive Therapy,Improving
+691,42,2023-10-20,2024-06-06,Heavy Medication,Unpredictable
+691,15,2024-02-08,2024-07-02,Isolation Therapy,Deteriorating
+692,26,2022-09-03,2024-02-01,Isolation Therapy,Unpredictable
+692,27,2021-10-04,2023-07-29,Aversion Therapy,Deteriorating
+692,88,2024-05-25,2024-07-18,Aversion Therapy,Improving
+692,14,2024-07-27,2024-10-04,Psychosurgery,Deteriorating
+692,21,2020-02-12,2024-07-01,Electroconvulsive Therapy,Unchanged
+693,89,2021-08-07,2022-12-25,Isolation Therapy,Unpredictable
+693,21,2021-10-21,2024-07-20,Cognitive Behavioral Therapy,Improving
+693,29,2023-06-25,2023-07-25,Aversion Therapy,Improving
+694,97,2024-10-19,2024-10-24,Isolation Therapy,Deteriorating
+694,74,2023-09-19,2023-10-30,Aversion Therapy,Deteriorating
+694,40,2024-06-02,2024-10-05,Cognitive Behavioral Therapy,Unchanged
+694,21,2023-03-21,2024-08-21,Aversion Therapy,Unpredictable
+694,45,2022-04-09,2023-01-21,Electroconvulsive Therapy,Unchanged
+695,63,2020-09-16,2024-04-23,Psychosurgery,Improving
+695,68,2021-11-28,2023-01-24,Electroconvulsive Therapy,Unchanged
+696,38,2020-09-01,2022-09-17,Aversion Therapy,Unchanged
+696,50,2021-06-03,2023-03-24,Isolation Therapy,Improving
+696,24,2023-06-11,2024-07-23,Psychosurgery,Deteriorating
+697,76,2022-02-08,2023-01-19,Heavy Medication,Improving
+697,76,2021-11-26,2023-06-16,Electroconvulsive Therapy,Improving
+698,77,2022-12-18,2023-02-20,Electroconvulsive Therapy,Unpredictable
+698,52,2022-06-12,2023-09-07,Isolation Therapy,Unpredictable
+699,19,2022-01-28,2024-04-19,Psychosurgery,Deteriorating
+699,21,2021-11-26,2022-12-19,Aversion Therapy,Unpredictable
+700,33,2020-10-15,2022-02-08,Aversion Therapy,Unchanged
+700,75,2020-01-31,2024-03-16,Electroconvulsive Therapy,Unpredictable
+700,43,2024-08-22,2024-09-22,Isolation Therapy,Unpredictable
+701,29,2020-01-17,2021-01-17,Cognitive Behavioral Therapy,Unchanged
+701,100,2023-03-17,2024-06-09,Heavy Medication,Unpredictable
+701,32,2022-03-31,2024-07-01,Heavy Medication,Deteriorating
+701,90,2020-11-15,2024-05-31,Heavy Medication,Deteriorating
+701,91,2023-03-30,2023-09-30,Electroconvulsive Therapy,Improving
+702,25,2020-09-25,2021-12-24,Heavy Medication,Improving
+702,88,2022-11-02,2024-04-20,Electroconvulsive Therapy,Unpredictable
+702,48,2023-07-16,2024-07-30,Psychosurgery,Deteriorating
+703,66,2019-11-19,2019-12-29,Isolation Therapy,Deteriorating
+703,14,2019-12-30,2020-10-10,Heavy Medication,Deteriorating
+703,54,2023-02-03,2023-12-24,Psychosurgery,Deteriorating
+703,14,2021-01-08,2022-01-29,Aversion Therapy,Unchanged
+704,40,2024-08-30,2024-10-30,Isolation Therapy,Unpredictable
+704,68,2020-09-27,2023-07-12,Cognitive Behavioral Therapy,Unpredictable
+704,52,2020-08-17,2020-12-18,Aversion Therapy,Unchanged
+704,3,2024-01-08,2024-03-14,Cognitive Behavioral Therapy,Deteriorating
+704,95,2023-03-10,2024-07-31,Psychosurgery,Unpredictable
+705,36,2024-08-14,2024-09-20,Psychosurgery,Improving
+705,40,2023-04-28,2023-05-20,Isolation Therapy,Deteriorating
+705,78,2021-09-24,2023-05-03,Aversion Therapy,Deteriorating
+705,66,2020-06-07,2024-10-14,Electroconvulsive Therapy,Deteriorating
+706,73,2020-11-03,2024-05-11,Electroconvulsive Therapy,Improving
+706,90,2023-05-13,2024-07-11,Cognitive Behavioral Therapy,Deteriorating
+707,10,2022-08-20,2022-12-12,Electroconvulsive Therapy,Unchanged
+707,6,2024-06-02,2024-10-04,Isolation Therapy,Unpredictable
+707,31,2021-02-10,2021-04-05,Isolation Therapy,Unpredictable
+707,95,2023-02-02,2023-06-30,Isolation Therapy,Deteriorating
+707,41,2022-09-10,2023-09-09,Heavy Medication,Unchanged
+708,49,2019-12-30,2020-10-24,Aversion Therapy,Improving
+709,6,2024-04-20,2024-06-22,Cognitive Behavioral Therapy,Improving
+709,29,2022-11-27,2024-01-12,Aversion Therapy,Deteriorating
+709,47,2024-08-25,2024-11-03,Electroconvulsive Therapy,Unchanged
+709,19,2020-04-08,2024-08-09,Cognitive Behavioral Therapy,Deteriorating
+709,7,2021-04-13,2023-11-13,Aversion Therapy,Unchanged
+710,87,2020-02-29,2023-07-05,Heavy Medication,Deteriorating
+710,72,2023-12-15,2024-09-15,Electroconvulsive Therapy,Unchanged
+711,96,2022-06-09,2023-12-21,Heavy Medication,Unchanged
+711,74,2022-02-13,2023-08-23,Aversion Therapy,Unpredictable
+711,67,2020-08-01,2022-06-15,Cognitive Behavioral Therapy,Unchanged
+711,54,2022-03-28,2022-09-22,Cognitive Behavioral Therapy,Unchanged
+711,35,2021-02-13,2022-10-07,Aversion Therapy,Unpredictable
+712,53,2020-08-25,2022-06-28,Psychosurgery,Deteriorating
+713,19,2022-12-04,2022-12-09,Isolation Therapy,Improving
+714,88,2023-03-13,2023-10-14,Cognitive Behavioral Therapy,Unpredictable
+715,56,2024-04-17,2024-06-23,Electroconvulsive Therapy,Unchanged
+715,28,2021-08-23,2023-11-06,Psychosurgery,Unpredictable
+715,62,2021-04-15,2024-10-24,Heavy Medication,Unpredictable
+715,43,2024-05-03,2024-06-08,Heavy Medication,Unpredictable
+716,50,2022-03-06,2024-02-18,Isolation Therapy,Unpredictable
+716,47,2022-03-17,2023-09-14,Cognitive Behavioral Therapy,Unchanged
+716,56,2020-08-30,2020-11-30,Heavy Medication,Unchanged
+717,84,2023-07-14,2024-09-30,Heavy Medication,Unpredictable
+717,60,2020-03-24,2024-09-10,Heavy Medication,Deteriorating
+717,31,2020-03-11,2022-10-21,Electroconvulsive Therapy,Unchanged
+718,17,2020-01-26,2021-03-17,Aversion Therapy,Improving
+718,48,2020-10-23,2021-04-03,Electroconvulsive Therapy,Unpredictable
+718,72,2023-08-11,2023-10-24,Electroconvulsive Therapy,Deteriorating
+719,19,2022-07-12,2024-10-02,Isolation Therapy,Unpredictable
+719,9,2021-05-11,2024-04-11,Isolation Therapy,Unchanged
+720,61,2024-04-28,2024-07-27,Aversion Therapy,Improving
+720,94,2022-01-10,2023-12-31,Electroconvulsive Therapy,Deteriorating
+721,38,2022-05-24,2023-05-13,Psychosurgery,Deteriorating
+721,70,2021-09-27,2022-05-12,Electroconvulsive Therapy,Improving
+721,58,2023-10-06,2023-12-15,Heavy Medication,Unpredictable
+721,1,2023-09-06,2024-03-30,Heavy Medication,Unpredictable
+722,82,2023-03-11,2023-07-09,Cognitive Behavioral Therapy,Unchanged
+722,53,2023-05-22,2024-10-07,Isolation Therapy,Unpredictable
+722,66,2021-09-03,2024-10-16,Aversion Therapy,Unpredictable
+723,11,2021-12-04,2024-02-21,Electroconvulsive Therapy,Deteriorating
+723,74,2021-05-28,2023-01-30,Psychosurgery,Unchanged
+724,34,2020-04-07,2024-06-28,Aversion Therapy,Deteriorating
+724,55,2022-09-17,2024-06-18,Isolation Therapy,Unchanged
+724,29,2024-08-17,2024-09-26,Cognitive Behavioral Therapy,Unchanged
+725,43,2023-10-14,2024-03-16,Aversion Therapy,Unchanged
+725,37,2022-04-25,2023-09-15,Heavy Medication,Improving
+725,39,2024-01-08,2024-04-19,Heavy Medication,Unpredictable
+725,62,2022-12-15,2024-07-05,Electroconvulsive Therapy,Unchanged
+726,27,2023-02-11,2023-06-29,Isolation Therapy,Deteriorating
+726,31,2022-02-10,2022-11-01,Cognitive Behavioral Therapy,Deteriorating
+726,37,2023-12-02,2024-03-18,Aversion Therapy,Improving
+726,81,2024-07-05,2024-09-17,Isolation Therapy,Unpredictable
+726,82,2024-09-24,2024-10-08,Psychosurgery,Deteriorating
+727,46,2024-10-31,2024-11-03,Psychosurgery,Unpredictable
+727,76,2024-01-30,2024-08-19,Electroconvulsive Therapy,Unchanged
+728,94,2022-03-14,2022-06-14,Psychosurgery,Unchanged
+728,93,2021-02-02,2023-06-02,Isolation Therapy,Deteriorating
+728,3,2021-09-14,2023-11-29,Cognitive Behavioral Therapy,Unpredictable
+728,4,2023-04-01,2023-05-13,Electroconvulsive Therapy,Unpredictable
+728,56,2021-11-28,2022-05-02,Cognitive Behavioral Therapy,Unpredictable
+729,13,2022-08-04,2022-09-20,Electroconvulsive Therapy,Unpredictable
+730,63,2024-08-04,2024-10-21,Psychosurgery,Improving
+731,51,2020-01-05,2023-05-02,Heavy Medication,Improving
+731,66,2020-08-11,2023-02-23,Electroconvulsive Therapy,Unchanged
+731,60,2024-06-23,2024-09-22,Heavy Medication,Deteriorating
+732,92,2024-09-18,2024-09-24,Heavy Medication,Unpredictable
+732,63,2020-08-18,2023-05-23,Cognitive Behavioral Therapy,Improving
+732,9,2020-03-03,2023-01-07,Psychosurgery,Deteriorating
+733,74,2023-11-16,2023-11-29,Psychosurgery,Unchanged
+733,44,2021-09-29,2024-06-26,Aversion Therapy,Improving
+734,62,2023-02-07,2024-06-11,Isolation Therapy,Improving
+734,88,2020-12-28,2023-12-07,Isolation Therapy,Unchanged
+734,9,2020-11-17,2021-06-28,Heavy Medication,Improving
+734,1,2021-09-28,2023-05-07,Cognitive Behavioral Therapy,Unchanged
+735,12,2024-06-27,2024-09-14,Electroconvulsive Therapy,Deteriorating
+735,13,2022-11-27,2022-12-20,Psychosurgery,Unchanged
+735,38,2022-07-09,2023-04-04,Electroconvulsive Therapy,Unchanged
+735,96,2020-05-16,2021-03-21,Psychosurgery,Improving
+735,33,2024-09-13,2024-10-12,Psychosurgery,Improving
+736,49,2019-11-21,2020-01-08,Cognitive Behavioral Therapy,Deteriorating
+737,82,2020-02-06,2021-10-19,Aversion Therapy,Unchanged
+738,13,2024-02-25,2024-03-03,Cognitive Behavioral Therapy,Unchanged
+738,37,2020-07-31,2022-12-08,Cognitive Behavioral Therapy,Unpredictable
+738,11,2023-12-10,2024-01-16,Cognitive Behavioral Therapy,Deteriorating
+739,52,2022-10-17,2024-05-22,Aversion Therapy,Unpredictable
+739,98,2020-05-18,2023-03-09,Aversion Therapy,Deteriorating
+739,54,2020-10-29,2021-02-26,Cognitive Behavioral Therapy,Unchanged
+740,35,2021-08-22,2023-11-05,Electroconvulsive Therapy,Unpredictable
+741,67,2022-06-11,2023-10-14,Aversion Therapy,Deteriorating
+741,40,2023-01-03,2023-10-30,Heavy Medication,Unpredictable
+741,39,2022-01-25,2023-02-18,Aversion Therapy,Unpredictable
+741,83,2022-12-10,2024-07-09,Cognitive Behavioral Therapy,Improving
+741,88,2021-06-11,2024-09-23,Isolation Therapy,Unpredictable
+742,62,2024-06-28,2024-08-29,Heavy Medication,Unpredictable
+742,56,2022-09-13,2023-10-14,Isolation Therapy,Unpredictable
+742,37,2024-07-24,2024-09-18,Cognitive Behavioral Therapy,Improving
+742,38,2020-04-20,2022-08-20,Heavy Medication,Unchanged
+742,45,2020-08-25,2022-08-17,Isolation Therapy,Unchanged
+743,25,2020-11-25,2021-09-04,Heavy Medication,Improving
+743,10,2020-08-06,2022-10-02,Heavy Medication,Unchanged
+743,43,2021-04-13,2022-06-25,Isolation Therapy,Deteriorating
+743,27,2024-08-27,2024-08-31,Isolation Therapy,Improving
+744,60,2020-01-09,2024-03-09,Isolation Therapy,Unpredictable
+744,32,2023-08-21,2023-08-27,Aversion Therapy,Deteriorating
+744,94,2020-02-12,2023-09-27,Psychosurgery,Improving
+745,90,2023-05-12,2024-04-07,Electroconvulsive Therapy,Unpredictable
+745,94,2022-12-01,2024-08-07,Isolation Therapy,Unpredictable
+745,75,2021-08-16,2023-01-04,Heavy Medication,Improving
+746,66,2022-12-20,2024-10-30,Aversion Therapy,Unpredictable
+746,33,2020-08-15,2021-04-03,Electroconvulsive Therapy,Improving
+746,13,2020-03-02,2023-11-09,Electroconvulsive Therapy,Improving
+746,79,2022-01-19,2023-09-02,Cognitive Behavioral Therapy,Deteriorating
+747,19,2023-10-19,2023-12-21,Psychosurgery,Deteriorating
+747,32,2024-10-22,2024-10-30,Aversion Therapy,Improving
+747,69,2023-08-22,2024-03-08,Aversion Therapy,Improving
+748,62,2021-07-27,2024-05-06,Electroconvulsive Therapy,Unpredictable
+749,22,2022-02-08,2024-02-18,Aversion Therapy,Unpredictable
+749,24,2020-06-19,2022-05-16,Psychosurgery,Unpredictable
+749,43,2020-07-08,2024-08-22,Electroconvulsive Therapy,Deteriorating
+749,84,2021-05-05,2022-06-07,Cognitive Behavioral Therapy,Deteriorating
+750,6,2020-12-29,2022-04-06,Isolation Therapy,Deteriorating
+751,82,2020-01-08,2023-01-23,Aversion Therapy,Unpredictable
+751,63,2023-06-04,2024-04-25,Aversion Therapy,Unchanged
+752,79,2020-08-24,2022-05-04,Aversion Therapy,Unchanged
+752,40,2024-01-25,2024-04-02,Cognitive Behavioral Therapy,Deteriorating
+752,75,2023-09-21,2024-09-25,Aversion Therapy,Unchanged
+752,51,2020-02-02,2021-07-29,Heavy Medication,Unchanged
+753,58,2023-08-28,2023-11-25,Cognitive Behavioral Therapy,Deteriorating
+753,59,2020-09-01,2024-06-13,Electroconvulsive Therapy,Improving
+753,68,2021-02-13,2024-03-28,Cognitive Behavioral Therapy,Improving
+753,86,2023-03-03,2024-07-16,Aversion Therapy,Unchanged
+753,13,2020-10-15,2021-02-07,Cognitive Behavioral Therapy,Improving
+754,23,2023-07-07,2023-09-29,Psychosurgery,Deteriorating
+755,42,2022-01-20,2022-05-15,Aversion Therapy,Improving
+755,76,2023-03-27,2023-10-18,Electroconvulsive Therapy,Improving
+755,5,2019-11-10,2024-04-16,Aversion Therapy,Unpredictable
+755,15,2021-01-28,2022-11-07,Electroconvulsive Therapy,Unpredictable
+755,33,2023-04-20,2023-11-25,Aversion Therapy,Deteriorating
+756,22,2024-07-03,2024-09-06,Psychosurgery,Unchanged
+757,58,2024-04-12,2024-09-26,Isolation Therapy,Unpredictable
+757,52,2022-08-10,2024-09-24,Cognitive Behavioral Therapy,Deteriorating
+757,100,2024-04-09,2024-10-30,Aversion Therapy,Deteriorating
+757,38,2020-11-11,2021-04-15,Aversion Therapy,Deteriorating
+757,34,2023-10-31,2024-09-10,Aversion Therapy,Unchanged
+758,71,2021-03-09,2023-01-29,Cognitive Behavioral Therapy,Deteriorating
+758,57,2021-01-08,2021-08-10,Isolation Therapy,Improving
+759,97,2020-05-28,2023-01-25,Isolation Therapy,Unchanged
+759,25,2021-07-10,2021-12-17,Electroconvulsive Therapy,Unchanged
+759,25,2024-02-11,2024-05-30,Isolation Therapy,Unchanged
+759,41,2024-04-17,2024-05-13,Cognitive Behavioral Therapy,Improving
+760,18,2020-01-17,2021-09-28,Heavy Medication,Unchanged
+760,14,2022-07-15,2022-11-21,Heavy Medication,Improving
+760,22,2020-03-01,2022-11-14,Psychosurgery,Improving
+761,45,2023-01-31,2023-07-21,Psychosurgery,Unchanged
+761,99,2021-02-04,2022-10-18,Cognitive Behavioral Therapy,Unpredictable
+761,24,2020-08-20,2023-05-26,Heavy Medication,Unchanged
+761,95,2021-01-22,2021-06-14,Electroconvulsive Therapy,Improving
+761,96,2020-03-14,2021-08-12,Electroconvulsive Therapy,Improving
+762,52,2021-04-08,2021-07-27,Heavy Medication,Unchanged
+762,77,2024-07-01,2024-10-28,Aversion Therapy,Improving
+762,39,2022-12-21,2024-05-29,Isolation Therapy,Unpredictable
+762,46,2022-08-05,2024-02-27,Electroconvulsive Therapy,Improving
+762,43,2023-03-11,2023-05-20,Electroconvulsive Therapy,Unchanged
+763,7,2019-11-25,2022-12-31,Aversion Therapy,Improving
+763,27,2022-06-16,2022-07-02,Aversion Therapy,Deteriorating
+763,33,2024-06-21,2024-10-04,Electroconvulsive Therapy,Unpredictable
+763,47,2021-12-18,2023-02-26,Heavy Medication,Unchanged
+764,35,2020-05-15,2021-12-02,Aversion Therapy,Unchanged
+764,75,2023-06-18,2023-06-25,Isolation Therapy,Improving
+764,82,2024-08-23,2024-10-21,Cognitive Behavioral Therapy,Unpredictable
+765,70,2023-04-09,2023-12-29,Electroconvulsive Therapy,Deteriorating
+765,35,2021-02-14,2023-03-08,Cognitive Behavioral Therapy,Unpredictable
+765,73,2022-04-27,2024-06-30,Electroconvulsive Therapy,Deteriorating
+766,27,2023-01-02,2024-05-26,Heavy Medication,Unpredictable
+766,13,2020-12-15,2022-01-31,Heavy Medication,Unpredictable
+766,44,2020-08-01,2024-06-02,Psychosurgery,Unpredictable
+766,36,2020-11-26,2023-02-26,Cognitive Behavioral Therapy,Improving
+767,53,2024-03-23,2024-10-19,Cognitive Behavioral Therapy,Deteriorating
+767,27,2024-05-26,2024-07-16,Electroconvulsive Therapy,Deteriorating
+767,72,2022-11-02,2023-10-28,Aversion Therapy,Improving
+767,8,2021-06-17,2023-02-15,Heavy Medication,Unchanged
+768,99,2023-05-08,2024-07-20,Psychosurgery,Unpredictable
+769,42,2022-07-26,2024-10-09,Isolation Therapy,Improving
+769,7,2022-06-21,2023-10-22,Heavy Medication,Improving
+769,39,2024-09-27,2024-10-21,Electroconvulsive Therapy,Deteriorating
+769,70,2024-09-06,2024-11-03,Psychosurgery,Improving
+769,34,2024-09-22,2024-09-22,Cognitive Behavioral Therapy,Improving
+770,27,2024-03-23,2024-08-17,Heavy Medication,Unpredictable
+771,19,2020-08-14,2021-04-25,Psychosurgery,Unchanged
+771,16,2021-08-21,2023-04-10,Psychosurgery,Deteriorating
+772,25,2019-11-05,2022-04-13,Heavy Medication,Deteriorating
+773,43,2022-10-24,2024-06-30,Aversion Therapy,Unchanged
+773,90,2021-05-10,2022-06-05,Heavy Medication,Improving
+773,36,2021-12-08,2023-09-26,Isolation Therapy,Unchanged
+774,35,2024-10-30,2024-11-01,Heavy Medication,Unchanged
+775,34,2021-08-01,2022-03-25,Electroconvulsive Therapy,Deteriorating
+775,34,2024-08-05,2024-08-28,Cognitive Behavioral Therapy,Deteriorating
+775,10,2020-07-26,2024-06-07,Psychosurgery,Unpredictable
+775,15,2020-02-26,2024-05-23,Heavy Medication,Improving
+775,29,2020-05-19,2023-10-01,Psychosurgery,Unchanged
+776,99,2020-04-07,2023-09-30,Electroconvulsive Therapy,Unchanged
+776,93,2024-08-22,2024-10-22,Cognitive Behavioral Therapy,Unchanged
+776,49,2021-04-28,2024-10-16,Electroconvulsive Therapy,Deteriorating
+776,17,2020-11-14,2020-12-07,Electroconvulsive Therapy,Improving
+777,62,2021-02-09,2022-01-27,Aversion Therapy,Unchanged
+777,2,2020-11-10,2021-04-21,Psychosurgery,Deteriorating
+778,45,2020-04-11,2020-11-27,Electroconvulsive Therapy,Unchanged
+778,85,2020-02-10,2024-03-25,Aversion Therapy,Improving
+779,6,2023-08-24,2024-01-10,Psychosurgery,Deteriorating
+779,3,2021-04-23,2022-03-15,Aversion Therapy,Unchanged
+779,21,2024-01-08,2024-11-01,Isolation Therapy,Deteriorating
+779,92,2021-10-19,2022-02-20,Cognitive Behavioral Therapy,Improving
+780,72,2024-05-01,2024-09-12,Aversion Therapy,Deteriorating
+781,10,2022-11-09,2023-07-07,Aversion Therapy,Deteriorating
+781,66,2022-01-03,2022-12-22,Aversion Therapy,Unpredictable
+781,23,2020-11-24,2024-06-12,Cognitive Behavioral Therapy,Deteriorating
+782,93,2021-12-01,2024-07-17,Aversion Therapy,Unpredictable
+782,68,2022-05-13,2023-01-11,Isolation Therapy,Deteriorating
+783,15,2022-04-07,2024-05-02,Cognitive Behavioral Therapy,Improving
+784,73,2023-02-26,2023-03-17,Psychosurgery,Improving
+784,28,2022-01-11,2023-10-12,Electroconvulsive Therapy,Unchanged
+784,38,2024-07-23,2024-10-24,Electroconvulsive Therapy,Unpredictable
+784,25,2022-01-16,2023-04-07,Cognitive Behavioral Therapy,Deteriorating
+785,60,2023-08-17,2024-06-19,Aversion Therapy,Deteriorating
+785,38,2022-05-04,2022-09-06,Aversion Therapy,Deteriorating
+785,8,2024-07-14,2024-07-24,Isolation Therapy,Deteriorating
+786,27,2021-12-30,2023-06-08,Aversion Therapy,Unpredictable
+786,77,2023-05-29,2024-11-01,Psychosurgery,Improving
+786,2,2023-05-08,2023-10-03,Isolation Therapy,Improving
+786,22,2020-06-01,2020-10-07,Aversion Therapy,Deteriorating
+787,82,2020-05-09,2023-04-17,Psychosurgery,Improving
+787,10,2020-08-18,2024-10-01,Electroconvulsive Therapy,Unpredictable
+787,76,2022-03-07,2023-07-04,Cognitive Behavioral Therapy,Unpredictable
+788,42,2024-07-10,2024-07-31,Aversion Therapy,Unpredictable
+788,13,2020-05-05,2023-03-10,Psychosurgery,Unchanged
+788,81,2020-07-14,2023-08-24,Electroconvulsive Therapy,Unchanged
+788,32,2024-06-08,2024-06-24,Heavy Medication,Deteriorating
+788,87,2020-02-12,2020-05-16,Heavy Medication,Deteriorating
+789,32,2020-12-21,2022-11-19,Aversion Therapy,Unpredictable
+789,86,2022-11-24,2024-10-23,Psychosurgery,Improving
+789,68,2021-08-06,2023-10-28,Cognitive Behavioral Therapy,Unchanged
+789,26,2022-04-15,2022-10-19,Heavy Medication,Improving
+790,45,2022-02-13,2022-12-27,Isolation Therapy,Improving
+790,52,2020-02-19,2023-05-26,Psychosurgery,Unpredictable
+790,53,2023-05-13,2023-12-06,Isolation Therapy,Deteriorating
+791,62,2021-03-03,2022-11-02,Psychosurgery,Unchanged
+791,86,2021-12-23,2022-07-17,Heavy Medication,Deteriorating
+791,82,2021-12-07,2024-02-02,Aversion Therapy,Unchanged
+792,92,2024-06-14,2024-08-30,Psychosurgery,Unpredictable
+792,94,2020-07-15,2023-05-19,Electroconvulsive Therapy,Improving
+792,43,2024-08-08,2024-08-10,Aversion Therapy,Unchanged
+793,97,2020-08-07,2022-12-06,Isolation Therapy,Deteriorating
+793,25,2022-02-04,2023-06-21,Electroconvulsive Therapy,Unchanged
+793,89,2019-11-17,2022-02-19,Isolation Therapy,Improving
+793,20,2024-01-29,2024-07-21,Psychosurgery,Unchanged
+793,33,2023-11-20,2024-05-03,Cognitive Behavioral Therapy,Unpredictable
+794,69,2023-05-16,2024-01-11,Aversion Therapy,Improving
+794,80,2020-10-07,2021-08-24,Heavy Medication,Deteriorating
+794,71,2023-02-23,2024-02-11,Electroconvulsive Therapy,Unchanged
+795,19,2024-10-27,2024-11-01,Isolation Therapy,Deteriorating
+795,21,2022-05-31,2022-11-17,Cognitive Behavioral Therapy,Deteriorating
+795,89,2022-11-30,2023-09-22,Cognitive Behavioral Therapy,Unchanged
+795,72,2021-05-18,2022-01-27,Isolation Therapy,Unchanged
+795,75,2024-07-05,2024-07-21,Heavy Medication,Unchanged
+796,16,2023-02-08,2024-01-23,Isolation Therapy,Improving
+796,10,2020-09-17,2022-08-20,Isolation Therapy,Unpredictable
+796,94,2020-02-19,2024-02-17,Heavy Medication,Unpredictable
+796,20,2019-11-15,2021-02-10,Heavy Medication,Unpredictable
+796,90,2021-03-23,2022-08-23,Isolation Therapy,Unpredictable
+797,69,2022-08-02,2024-09-02,Isolation Therapy,Unpredictable
+797,11,2021-07-21,2023-03-17,Psychosurgery,Improving
+797,57,2022-11-22,2024-04-12,Aversion Therapy,Unchanged
+798,25,2020-10-16,2022-09-07,Cognitive Behavioral Therapy,Unchanged
+798,41,2022-01-31,2024-01-27,Electroconvulsive Therapy,Improving
+799,84,2022-10-08,2024-09-16,Psychosurgery,Unpredictable
+799,82,2021-12-17,2023-10-24,Aversion Therapy,Deteriorating
+799,86,2021-12-07,2024-07-27,Heavy Medication,Unchanged
+799,98,2022-01-25,2022-06-15,Aversion Therapy,Improving
+800,7,2020-07-04,2022-01-25,Psychosurgery,Improving
+800,12,2022-11-01,2023-04-01,Heavy Medication,Unpredictable
+800,32,2020-02-10,2023-03-12,Heavy Medication,Improving
+801,32,2021-12-20,2023-03-26,Electroconvulsive Therapy,Improving
+801,47,2020-07-28,2021-02-08,Cognitive Behavioral Therapy,Improving
+801,86,2019-11-04,2022-07-04,Psychosurgery,Deteriorating
+801,89,2020-08-21,2021-12-03,Electroconvulsive Therapy,Improving
+802,50,2021-01-15,2022-11-12,Aversion Therapy,Unchanged
+802,8,2022-08-01,2023-06-20,Psychosurgery,Unchanged
+802,73,2020-03-22,2024-10-12,Heavy Medication,Improving
+802,18,2023-09-04,2023-12-14,Isolation Therapy,Unchanged
+802,73,2024-07-15,2024-07-29,Isolation Therapy,Unpredictable
+803,29,2020-04-01,2021-02-13,Electroconvulsive Therapy,Unpredictable
+803,32,2020-02-06,2023-12-04,Aversion Therapy,Unpredictable
+803,82,2020-10-19,2021-09-13,Psychosurgery,Unchanged
+803,38,2021-12-15,2022-01-08,Psychosurgery,Unpredictable
+804,44,2022-11-07,2024-02-05,Psychosurgery,Deteriorating
+804,65,2020-10-29,2023-06-12,Psychosurgery,Improving
+805,94,2023-01-27,2023-04-21,Cognitive Behavioral Therapy,Unchanged
+805,11,2022-10-17,2022-12-18,Heavy Medication,Unchanged
+806,64,2022-06-20,2023-11-18,Cognitive Behavioral Therapy,Unpredictable
+807,79,2023-06-18,2024-02-04,Aversion Therapy,Unpredictable
+808,62,2022-10-07,2023-01-15,Cognitive Behavioral Therapy,Deteriorating
+808,51,2023-04-17,2023-10-20,Heavy Medication,Unpredictable
+808,80,2023-04-21,2024-02-25,Electroconvulsive Therapy,Improving
+808,79,2021-10-25,2024-07-17,Psychosurgery,Unpredictable
+809,78,2023-02-04,2024-07-27,Cognitive Behavioral Therapy,Deteriorating
+810,16,2023-04-25,2024-06-14,Electroconvulsive Therapy,Deteriorating
+810,95,2023-06-29,2023-08-04,Aversion Therapy,Unpredictable
+810,1,2021-01-30,2023-09-09,Isolation Therapy,Unchanged
+810,22,2020-10-10,2023-05-13,Electroconvulsive Therapy,Unchanged
+811,5,2024-04-14,2024-06-15,Cognitive Behavioral Therapy,Unchanged
+811,12,2021-08-24,2023-09-14,Psychosurgery,Unchanged
+811,36,2021-09-15,2023-12-09,Psychosurgery,Improving
+811,35,2020-06-03,2024-02-11,Electroconvulsive Therapy,Unpredictable
+811,85,2019-12-08,2023-05-12,Heavy Medication,Deteriorating
+812,88,2024-06-16,2024-08-11,Cognitive Behavioral Therapy,Unpredictable
+812,41,2020-07-05,2024-10-23,Electroconvulsive Therapy,Unpredictable
+812,74,2022-11-30,2024-01-13,Aversion Therapy,Improving
+813,77,2023-01-28,2024-01-19,Electroconvulsive Therapy,Improving
+814,28,2021-04-27,2024-10-18,Aversion Therapy,Unpredictable
+814,46,2023-07-26,2024-01-31,Psychosurgery,Deteriorating
+814,65,2022-01-16,2023-04-28,Electroconvulsive Therapy,Unpredictable
+815,37,2020-05-31,2021-11-26,Heavy Medication,Unpredictable
+815,9,2021-11-17,2022-08-02,Isolation Therapy,Deteriorating
+815,67,2023-10-12,2024-03-15,Electroconvulsive Therapy,Deteriorating
+815,33,2022-08-26,2024-08-16,Psychosurgery,Unchanged
+815,59,2022-06-27,2024-01-19,Cognitive Behavioral Therapy,Unchanged
+816,43,2022-04-03,2023-12-09,Cognitive Behavioral Therapy,Unchanged
+816,88,2023-06-01,2024-06-14,Psychosurgery,Improving
+816,98,2020-01-21,2023-11-15,Cognitive Behavioral Therapy,Unchanged
+816,86,2024-06-30,2024-07-23,Psychosurgery,Unchanged
+817,67,2019-12-13,2022-04-04,Electroconvulsive Therapy,Deteriorating
+817,27,2022-10-06,2024-02-07,Isolation Therapy,Unchanged
+817,67,2022-04-22,2024-08-11,Cognitive Behavioral Therapy,Unpredictable
+817,7,2020-09-06,2020-11-05,Electroconvulsive Therapy,Unchanged
+818,73,2021-06-13,2024-03-23,Heavy Medication,Deteriorating
+818,71,2021-07-15,2022-08-02,Aversion Therapy,Unchanged
+818,21,2020-04-20,2020-06-13,Heavy Medication,Improving
+819,86,2022-08-24,2024-01-02,Isolation Therapy,Improving
+819,32,2021-12-11,2023-02-23,Isolation Therapy,Improving
+819,88,2024-02-15,2024-05-15,Heavy Medication,Improving
+819,15,2024-05-27,2024-07-05,Aversion Therapy,Improving
+819,12,2024-02-22,2024-04-19,Isolation Therapy,Unchanged
+820,1,2021-08-17,2024-06-15,Heavy Medication,Improving
+820,11,2024-09-03,2024-09-19,Isolation Therapy,Deteriorating
+820,85,2022-04-25,2024-05-10,Isolation Therapy,Deteriorating
+821,48,2023-10-02,2024-06-24,Isolation Therapy,Unpredictable
+821,86,2022-03-05,2022-12-24,Psychosurgery,Improving
+822,99,2020-05-17,2020-12-16,Aversion Therapy,Unchanged
+822,96,2023-07-23,2024-07-02,Cognitive Behavioral Therapy,Improving
+823,29,2022-07-09,2024-03-26,Heavy Medication,Unchanged
+823,70,2021-03-05,2023-10-07,Heavy Medication,Unchanged
+823,87,2024-06-24,2024-10-17,Heavy Medication,Unpredictable
+824,52,2020-03-10,2021-10-15,Heavy Medication,Deteriorating
+824,41,2023-08-19,2023-10-19,Isolation Therapy,Unpredictable
+824,42,2020-01-16,2022-12-19,Isolation Therapy,Unpredictable
+824,18,2023-06-24,2024-08-24,Aversion Therapy,Improving
+825,52,2019-11-26,2023-07-26,Heavy Medication,Unchanged
+826,16,2020-08-03,2023-09-24,Electroconvulsive Therapy,Deteriorating
+826,9,2020-07-29,2022-12-17,Heavy Medication,Unpredictable
+826,100,2020-05-24,2024-02-27,Electroconvulsive Therapy,Unchanged
+826,57,2022-04-25,2023-02-01,Cognitive Behavioral Therapy,Unchanged
+827,32,2024-06-04,2024-08-14,Aversion Therapy,Deteriorating
+827,94,2021-01-02,2022-04-04,Heavy Medication,Improving
+827,54,2022-10-28,2023-05-29,Isolation Therapy,Deteriorating
+827,74,2021-03-26,2024-08-17,Cognitive Behavioral Therapy,Improving
+828,2,2020-10-25,2022-07-30,Electroconvulsive Therapy,Improving
+828,27,2022-06-11,2022-10-05,Aversion Therapy,Deteriorating
+828,56,2023-06-19,2024-04-22,Cognitive Behavioral Therapy,Improving
+828,16,2020-10-06,2021-12-09,Aversion Therapy,Improving
+828,69,2020-11-09,2022-12-15,Cognitive Behavioral Therapy,Deteriorating
+829,59,2021-07-17,2024-09-12,Isolation Therapy,Unpredictable
+829,54,2023-11-03,2024-01-30,Psychosurgery,Unpredictable
+830,15,2024-03-15,2024-08-20,Psychosurgery,Unchanged
+831,42,2023-06-30,2023-07-03,Psychosurgery,Improving
+831,1,2020-01-20,2021-04-28,Heavy Medication,Improving
+831,85,2020-06-21,2023-05-15,Psychosurgery,Unpredictable
+831,54,2023-10-04,2024-02-14,Cognitive Behavioral Therapy,Deteriorating
+832,92,2019-12-21,2023-11-17,Heavy Medication,Unpredictable
+832,43,2022-03-07,2024-02-19,Psychosurgery,Deteriorating
+832,31,2022-04-23,2023-03-02,Aversion Therapy,Deteriorating
+832,68,2020-11-28,2022-08-27,Aversion Therapy,Unpredictable
+832,67,2024-06-03,2024-10-07,Psychosurgery,Improving
+833,78,2022-12-12,2024-01-01,Aversion Therapy,Improving
+833,85,2022-02-07,2022-11-17,Aversion Therapy,Improving
+833,17,2021-03-19,2021-09-24,Cognitive Behavioral Therapy,Deteriorating
+833,56,2024-10-11,2024-10-15,Heavy Medication,Deteriorating
+833,85,2020-12-18,2023-10-07,Electroconvulsive Therapy,Improving
+834,18,2020-08-26,2023-04-24,Cognitive Behavioral Therapy,Improving
+834,69,2022-12-24,2023-01-13,Aversion Therapy,Improving
+834,88,2021-03-09,2022-07-19,Isolation Therapy,Deteriorating
+835,85,2022-04-23,2023-10-20,Psychosurgery,Improving
+835,23,2024-01-26,2024-08-30,Aversion Therapy,Unchanged
+835,47,2019-11-20,2022-03-23,Cognitive Behavioral Therapy,Improving
+835,48,2023-02-15,2024-10-29,Psychosurgery,Unchanged
+836,50,2020-08-12,2021-08-24,Isolation Therapy,Unpredictable
+836,60,2020-12-21,2021-01-08,Isolation Therapy,Improving
+836,77,2021-08-22,2022-09-10,Psychosurgery,Deteriorating
+837,19,2021-03-07,2023-11-10,Aversion Therapy,Unpredictable
+838,83,2024-04-25,2024-08-13,Cognitive Behavioral Therapy,Unchanged
+838,94,2023-09-20,2023-12-20,Isolation Therapy,Unpredictable
+839,73,2020-09-05,2021-08-30,Isolation Therapy,Deteriorating
+839,35,2019-11-04,2022-10-17,Psychosurgery,Unchanged
+839,63,2020-06-13,2020-11-03,Cognitive Behavioral Therapy,Unchanged
+839,70,2020-06-17,2021-04-06,Cognitive Behavioral Therapy,Deteriorating
+840,47,2020-09-23,2023-04-16,Isolation Therapy,Deteriorating
+840,5,2020-07-10,2023-07-31,Isolation Therapy,Unchanged
+840,64,2023-06-17,2024-09-10,Heavy Medication,Unchanged
+840,19,2022-03-18,2023-08-08,Isolation Therapy,Unchanged
+841,69,2024-04-09,2024-07-15,Cognitive Behavioral Therapy,Unchanged
+841,7,2023-11-24,2024-10-24,Aversion Therapy,Unchanged
+841,46,2024-04-28,2024-08-04,Heavy Medication,Unchanged
+841,7,2023-01-18,2024-03-26,Heavy Medication,Unchanged
+842,4,2021-07-21,2024-08-22,Electroconvulsive Therapy,Unchanged
+843,87,2020-05-04,2024-01-01,Isolation Therapy,Unchanged
+843,33,2024-02-19,2024-04-11,Psychosurgery,Unpredictable
+843,37,2023-02-09,2024-03-25,Isolation Therapy,Improving
+843,43,2023-04-22,2024-05-04,Electroconvulsive Therapy,Unchanged
+843,32,2024-03-14,2024-11-01,Isolation Therapy,Unpredictable
+844,25,2019-12-31,2023-03-28,Cognitive Behavioral Therapy,Unchanged
+844,62,2023-07-01,2024-07-05,Electroconvulsive Therapy,Unchanged
+845,14,2022-04-11,2023-10-18,Cognitive Behavioral Therapy,Improving
+845,19,2023-05-29,2024-04-23,Cognitive Behavioral Therapy,Deteriorating
+845,87,2023-01-16,2023-10-18,Electroconvulsive Therapy,Unpredictable
+845,9,2022-02-19,2022-03-26,Heavy Medication,Unpredictable
+845,12,2020-06-08,2023-03-23,Psychosurgery,Unchanged
+846,62,2023-04-11,2024-02-01,Heavy Medication,Unchanged
+846,38,2020-07-17,2024-02-04,Aversion Therapy,Improving
+846,65,2022-08-12,2023-08-20,Aversion Therapy,Improving
+846,83,2021-04-28,2024-07-25,Heavy Medication,Deteriorating
+847,78,2021-07-09,2021-11-18,Cognitive Behavioral Therapy,Unchanged
+847,62,2020-03-18,2021-08-30,Cognitive Behavioral Therapy,Unpredictable
+847,60,2022-03-30,2022-08-22,Psychosurgery,Improving
+847,2,2023-09-23,2024-02-08,Aversion Therapy,Unchanged
+847,55,2022-06-18,2023-03-05,Electroconvulsive Therapy,Unpredictable
+848,49,2022-04-26,2022-10-04,Heavy Medication,Improving
+848,64,2024-01-20,2024-09-05,Psychosurgery,Unchanged
+849,78,2023-09-26,2024-04-06,Isolation Therapy,Deteriorating
+849,29,2022-09-14,2024-03-27,Aversion Therapy,Unpredictable
+849,84,2022-01-17,2022-09-07,Electroconvulsive Therapy,Unchanged
+850,24,2023-05-06,2024-01-23,Isolation Therapy,Unpredictable
+850,75,2024-10-23,2024-10-24,Heavy Medication,Deteriorating
+851,38,2024-06-14,2024-06-29,Psychosurgery,Unpredictable
+851,50,2024-01-23,2024-01-31,Aversion Therapy,Improving
+851,69,2024-04-07,2024-07-14,Electroconvulsive Therapy,Unpredictable
+851,61,2024-08-27,2024-09-02,Cognitive Behavioral Therapy,Unchanged
+852,40,2020-07-02,2023-07-15,Aversion Therapy,Improving
+852,17,2022-01-08,2024-06-07,Cognitive Behavioral Therapy,Unpredictable
+852,42,2021-08-06,2023-02-12,Heavy Medication,Unpredictable
+852,27,2020-08-29,2023-04-17,Cognitive Behavioral Therapy,Deteriorating
+852,46,2021-02-23,2024-06-02,Cognitive Behavioral Therapy,Unpredictable
+853,16,2022-05-10,2024-06-19,Isolation Therapy,Unchanged
+853,96,2021-02-05,2023-08-26,Electroconvulsive Therapy,Unchanged
+853,53,2020-12-31,2022-03-10,Heavy Medication,Improving
+853,2,2020-07-02,2024-04-30,Heavy Medication,Unchanged
+854,33,2021-09-11,2024-10-03,Isolation Therapy,Deteriorating
+854,65,2024-08-06,2024-09-18,Cognitive Behavioral Therapy,Unchanged
+854,35,2021-11-12,2023-09-18,Cognitive Behavioral Therapy,Improving
+854,85,2024-01-29,2024-08-14,Cognitive Behavioral Therapy,Unchanged
+854,94,2021-08-27,2021-09-29,Isolation Therapy,Unpredictable
+855,53,2024-07-22,2024-11-02,Electroconvulsive Therapy,Deteriorating
+856,24,2023-09-27,2024-05-19,Aversion Therapy,Unchanged
+857,69,2023-03-08,2024-10-02,Heavy Medication,Improving
+857,28,2021-10-29,2022-05-03,Cognitive Behavioral Therapy,Unpredictable
+858,65,2023-12-05,2024-02-01,Cognitive Behavioral Therapy,Unchanged
+858,66,2020-10-10,2021-06-04,Electroconvulsive Therapy,Deteriorating
+858,5,2023-03-04,2023-07-02,Psychosurgery,Unchanged
+859,81,2019-12-19,2022-06-17,Cognitive Behavioral Therapy,Deteriorating
+859,31,2021-08-27,2023-01-28,Cognitive Behavioral Therapy,Unpredictable
+859,50,2020-08-16,2022-06-15,Aversion Therapy,Deteriorating
+859,28,2023-05-11,2024-07-21,Electroconvulsive Therapy,Unchanged
+860,19,2023-09-17,2024-09-19,Aversion Therapy,Unchanged
+860,97,2022-04-02,2024-09-29,Cognitive Behavioral Therapy,Unchanged
+860,67,2020-12-07,2021-06-01,Isolation Therapy,Unchanged
+860,63,2022-11-27,2023-10-31,Isolation Therapy,Improving
+861,12,2021-04-04,2023-04-24,Isolation Therapy,Unchanged
+861,72,2021-07-14,2023-08-29,Heavy Medication,Unchanged
+861,81,2020-02-18,2021-01-31,Cognitive Behavioral Therapy,Deteriorating
+862,60,2023-05-17,2023-05-23,Cognitive Behavioral Therapy,Unchanged
+862,97,2021-06-14,2024-10-08,Cognitive Behavioral Therapy,Unpredictable
+862,77,2021-08-04,2022-06-24,Psychosurgery,Unpredictable
+862,7,2022-06-29,2023-07-17,Isolation Therapy,Improving
+863,19,2022-06-11,2023-02-24,Heavy Medication,Unpredictable
+864,89,2022-10-13,2024-09-10,Heavy Medication,Deteriorating
+864,89,2021-07-26,2024-06-27,Aversion Therapy,Improving
+864,78,2022-03-12,2023-11-07,Isolation Therapy,Improving
+864,20,2020-02-04,2021-07-27,Psychosurgery,Improving
+865,7,2020-09-24,2023-09-05,Cognitive Behavioral Therapy,Deteriorating
+865,80,2023-11-22,2023-12-11,Heavy Medication,Unchanged
+865,74,2024-10-21,2024-10-22,Electroconvulsive Therapy,Unpredictable
+865,34,2023-11-20,2023-11-26,Isolation Therapy,Improving
+865,24,2023-08-27,2024-02-16,Electroconvulsive Therapy,Improving
+866,70,2019-12-07,2023-07-31,Psychosurgery,Deteriorating
+866,18,2020-12-18,2021-01-13,Aversion Therapy,Deteriorating
+866,59,2019-12-15,2024-05-25,Isolation Therapy,Unchanged
+866,3,2020-07-15,2023-12-11,Heavy Medication,Unpredictable
+867,13,2024-07-27,2024-08-26,Isolation Therapy,Deteriorating
+867,31,2021-04-11,2023-03-30,Electroconvulsive Therapy,Deteriorating
+867,82,2020-07-26,2021-03-18,Psychosurgery,Unchanged
+867,13,2021-04-06,2021-11-23,Isolation Therapy,Deteriorating
+868,70,2020-04-01,2021-12-29,Psychosurgery,Unpredictable
+869,77,2020-08-06,2023-11-23,Isolation Therapy,Improving
+869,61,2023-12-19,2024-10-19,Isolation Therapy,Unpredictable
+869,6,2022-04-09,2024-03-10,Isolation Therapy,Improving
+870,84,2021-03-14,2023-12-28,Heavy Medication,Deteriorating
+871,3,2024-05-23,2024-08-26,Cognitive Behavioral Therapy,Unchanged
+871,8,2023-09-22,2024-05-31,Cognitive Behavioral Therapy,Unchanged
+871,47,2024-06-07,2024-09-05,Isolation Therapy,Unchanged
+872,1,2023-10-07,2024-01-09,Electroconvulsive Therapy,Improving
+873,68,2024-02-07,2024-07-31,Heavy Medication,Unchanged
+873,69,2021-08-30,2023-09-18,Aversion Therapy,Improving
+873,88,2024-05-27,2024-07-27,Isolation Therapy,Improving
+873,2,2024-04-15,2024-06-20,Heavy Medication,Unchanged
+873,15,2022-01-10,2023-02-16,Electroconvulsive Therapy,Deteriorating
+874,13,2024-09-11,2024-09-18,Electroconvulsive Therapy,Unpredictable
+874,22,2020-12-21,2023-04-09,Electroconvulsive Therapy,Unpredictable
+874,17,2021-04-30,2022-02-28,Cognitive Behavioral Therapy,Unchanged
+874,15,2023-02-11,2024-08-05,Isolation Therapy,Improving
+875,77,2023-09-13,2024-04-08,Aversion Therapy,Unpredictable
+876,3,2020-11-10,2021-12-18,Cognitive Behavioral Therapy,Unpredictable
+876,54,2024-01-08,2024-05-15,Heavy Medication,Unpredictable
+876,51,2024-11-01,2024-11-02,Cognitive Behavioral Therapy,Unchanged
+877,72,2020-02-05,2024-10-19,Aversion Therapy,Unpredictable
+878,69,2024-03-17,2024-06-15,Heavy Medication,Deteriorating
+878,12,2022-05-04,2024-02-16,Electroconvulsive Therapy,Improving
+878,2,2023-11-19,2024-04-08,Heavy Medication,Unpredictable
+879,4,2022-05-31,2023-07-25,Cognitive Behavioral Therapy,Unchanged
+879,76,2021-04-05,2024-08-20,Isolation Therapy,Unchanged
+880,92,2020-05-08,2024-04-18,Electroconvulsive Therapy,Improving
+880,9,2024-06-01,2024-10-22,Electroconvulsive Therapy,Unchanged
+880,52,2024-02-26,2024-08-26,Psychosurgery,Improving
+880,86,2020-05-08,2020-09-27,Cognitive Behavioral Therapy,Improving
+881,75,2023-03-20,2024-07-08,Electroconvulsive Therapy,Unchanged
+881,49,2021-05-06,2021-07-28,Cognitive Behavioral Therapy,Deteriorating
+881,21,2021-07-29,2022-07-28,Isolation Therapy,Unchanged
+881,73,2021-12-15,2022-02-01,Psychosurgery,Deteriorating
+882,54,2020-03-27,2024-02-25,Psychosurgery,Deteriorating
+882,24,2022-06-20,2022-10-10,Electroconvulsive Therapy,Unchanged
+882,3,2020-11-24,2022-07-25,Aversion Therapy,Unchanged
+883,27,2022-12-28,2024-10-06,Isolation Therapy,Unchanged
+883,82,2023-10-04,2024-05-29,Isolation Therapy,Deteriorating
+884,46,2021-09-04,2022-10-27,Heavy Medication,Deteriorating
+884,43,2020-01-04,2022-06-03,Psychosurgery,Unpredictable
+884,91,2020-05-26,2022-08-28,Cognitive Behavioral Therapy,Deteriorating
+884,68,2022-09-05,2024-05-07,Aversion Therapy,Unpredictable
+884,83,2021-02-25,2023-10-20,Heavy Medication,Improving
+885,5,2021-11-26,2024-10-13,Heavy Medication,Unchanged
+885,23,2023-03-04,2023-08-21,Aversion Therapy,Deteriorating
+885,95,2020-07-10,2022-01-15,Isolation Therapy,Unchanged
+885,89,2020-10-14,2021-03-07,Electroconvulsive Therapy,Unpredictable
+885,15,2022-11-19,2023-09-10,Heavy Medication,Unchanged
+886,50,2024-08-24,2024-09-23,Heavy Medication,Deteriorating
+886,81,2022-01-01,2024-10-10,Electroconvulsive Therapy,Unpredictable
+887,8,2022-01-15,2022-08-03,Psychosurgery,Unchanged
+888,86,2021-07-18,2024-03-08,Electroconvulsive Therapy,Unchanged
+889,91,2023-06-18,2024-03-06,Electroconvulsive Therapy,Unchanged
+889,10,2023-02-09,2023-07-28,Isolation Therapy,Unchanged
+890,90,2020-12-17,2024-01-30,Electroconvulsive Therapy,Deteriorating
+890,53,2020-07-31,2021-05-24,Isolation Therapy,Deteriorating
+890,12,2020-03-05,2022-01-13,Isolation Therapy,Unchanged
+891,40,2024-09-22,2024-10-12,Electroconvulsive Therapy,Improving
+891,55,2022-03-05,2022-04-16,Isolation Therapy,Improving
+892,80,2022-01-30,2024-04-14,Aversion Therapy,Unpredictable
+893,99,2021-01-16,2024-02-05,Aversion Therapy,Unchanged
+893,19,2021-03-12,2022-12-23,Electroconvulsive Therapy,Unchanged
+894,19,2023-08-26,2024-09-01,Psychosurgery,Improving
+894,10,2020-05-23,2023-09-25,Heavy Medication,Unchanged
+894,38,2020-11-02,2023-09-13,Electroconvulsive Therapy,Unpredictable
+894,32,2023-09-04,2023-12-27,Isolation Therapy,Deteriorating
+894,41,2023-07-30,2024-05-24,Electroconvulsive Therapy,Unpredictable
+895,30,2019-12-22,2024-04-06,Electroconvulsive Therapy,Improving
+895,95,2020-06-08,2022-03-11,Isolation Therapy,Improving
+896,92,2020-03-15,2023-04-14,Aversion Therapy,Unchanged
+896,18,2024-03-07,2024-06-24,Aversion Therapy,Improving
+896,54,2024-07-04,2024-10-22,Isolation Therapy,Unchanged
+896,8,2024-04-29,2024-10-31,Cognitive Behavioral Therapy,Unchanged
+896,96,2020-05-16,2021-04-13,Heavy Medication,Improving
+897,60,2020-01-29,2022-11-09,Cognitive Behavioral Therapy,Deteriorating
+897,73,2022-03-21,2024-05-04,Electroconvulsive Therapy,Improving
+897,87,2020-06-18,2020-11-21,Psychosurgery,Deteriorating
+898,56,2021-05-06,2022-05-06,Aversion Therapy,Unpredictable
+899,10,2024-03-05,2024-04-15,Electroconvulsive Therapy,Deteriorating
+899,87,2022-01-07,2023-08-24,Heavy Medication,Deteriorating
+900,59,2022-02-23,2024-03-20,Psychosurgery,Unchanged
+900,82,2020-04-21,2022-06-13,Heavy Medication,Deteriorating
+900,23,2022-01-11,2024-06-01,Heavy Medication,Improving
+900,43,2023-04-23,2024-09-01,Isolation Therapy,Deteriorating
+901,68,2022-11-19,2022-11-20,Cognitive Behavioral Therapy,Deteriorating
+902,70,2024-07-25,2024-10-05,Isolation Therapy,Unchanged
+902,84,2022-07-26,2022-11-10,Aversion Therapy,Unchanged
+903,76,2020-08-27,2023-03-20,Psychosurgery,Deteriorating
+903,84,2022-04-20,2023-04-02,Psychosurgery,Unpredictable
+903,88,2023-06-10,2023-10-04,Aversion Therapy,Improving
+903,85,2021-11-15,2024-08-06,Aversion Therapy,Improving
+903,74,2024-10-23,2024-11-03,Cognitive Behavioral Therapy,Unchanged
+904,12,2023-01-01,2024-05-14,Cognitive Behavioral Therapy,Improving
+904,4,2024-06-26,2024-09-23,Isolation Therapy,Deteriorating
+905,30,2022-07-05,2023-06-09,Electroconvulsive Therapy,Unchanged
+905,86,2021-04-28,2021-05-22,Psychosurgery,Improving
+905,92,2023-06-07,2023-09-12,Electroconvulsive Therapy,Improving
+905,17,2020-08-20,2022-03-27,Isolation Therapy,Deteriorating
+906,82,2023-07-22,2023-11-18,Psychosurgery,Improving
+907,90,2022-12-18,2023-09-26,Isolation Therapy,Unchanged
+908,90,2023-04-02,2024-02-21,Cognitive Behavioral Therapy,Unchanged
+908,68,2021-12-18,2024-08-04,Aversion Therapy,Improving
+908,71,2021-09-13,2023-04-10,Psychosurgery,Unpredictable
+909,15,2024-09-23,2024-10-19,Cognitive Behavioral Therapy,Deteriorating
+909,45,2021-09-21,2022-08-06,Aversion Therapy,Deteriorating
+909,23,2022-11-04,2023-03-22,Cognitive Behavioral Therapy,Improving
+910,10,2024-02-19,2024-06-01,Aversion Therapy,Deteriorating
+910,78,2024-07-16,2024-10-24,Psychosurgery,Unpredictable
+910,2,2020-08-04,2023-02-28,Cognitive Behavioral Therapy,Deteriorating
+911,73,2020-10-19,2023-05-06,Psychosurgery,Improving
+911,59,2023-11-17,2023-12-28,Aversion Therapy,Unpredictable
+911,100,2020-08-27,2021-01-09,Electroconvulsive Therapy,Improving
+912,23,2024-09-17,2024-10-02,Electroconvulsive Therapy,Deteriorating
+912,1,2021-07-17,2023-06-19,Electroconvulsive Therapy,Improving
+912,56,2020-04-04,2021-08-27,Electroconvulsive Therapy,Improving
+912,47,2020-01-27,2023-08-31,Aversion Therapy,Unpredictable
+913,42,2023-10-24,2023-12-23,Cognitive Behavioral Therapy,Improving
+913,24,2022-10-27,2023-06-24,Aversion Therapy,Improving
+914,64,2023-06-21,2023-11-19,Aversion Therapy,Deteriorating
+914,76,2023-06-04,2024-02-28,Aversion Therapy,Unchanged
+915,33,2024-07-11,2024-10-20,Aversion Therapy,Deteriorating
+915,92,2021-03-22,2022-05-15,Electroconvulsive Therapy,Improving
+915,67,2022-07-20,2023-08-11,Cognitive Behavioral Therapy,Improving
+915,86,2024-04-04,2024-10-14,Isolation Therapy,Unpredictable
+915,85,2023-08-24,2024-05-24,Heavy Medication,Improving
+916,47,2020-06-23,2020-08-07,Heavy Medication,Improving
+916,49,2020-02-24,2020-06-05,Cognitive Behavioral Therapy,Deteriorating
+916,33,2022-07-15,2024-06-17,Aversion Therapy,Unchanged
+916,72,2020-10-05,2023-07-03,Heavy Medication,Improving
+916,86,2023-04-06,2023-11-25,Psychosurgery,Improving
+917,48,2024-11-02,2024-11-02,Aversion Therapy,Improving
+917,97,2020-04-16,2021-04-05,Aversion Therapy,Improving
+917,93,2022-09-11,2023-01-10,Aversion Therapy,Deteriorating
+917,89,2023-05-05,2023-06-27,Electroconvulsive Therapy,Unpredictable
+918,54,2022-11-20,2023-08-02,Psychosurgery,Unpredictable
+918,50,2020-10-04,2022-08-22,Cognitive Behavioral Therapy,Improving
+919,29,2024-03-03,2024-05-25,Electroconvulsive Therapy,Unchanged
+919,7,2023-10-01,2024-05-13,Electroconvulsive Therapy,Unchanged
+920,39,2022-03-05,2022-07-16,Heavy Medication,Improving
+921,38,2020-08-24,2021-03-28,Electroconvulsive Therapy,Deteriorating
+921,33,2024-10-24,2024-10-28,Aversion Therapy,Unchanged
+922,98,2024-01-26,2024-07-31,Cognitive Behavioral Therapy,Deteriorating
+923,88,2023-05-25,2024-06-21,Aversion Therapy,Unpredictable
+923,79,2022-12-05,2024-08-07,Isolation Therapy,Improving
+924,77,2023-11-02,2024-11-03,Cognitive Behavioral Therapy,Improving
+925,28,2019-12-29,2020-09-28,Heavy Medication,Improving
+925,69,2020-08-13,2022-03-25,Heavy Medication,Unpredictable
+925,11,2022-02-12,2022-05-06,Cognitive Behavioral Therapy,Unpredictable
+925,74,2023-08-05,2023-11-06,Electroconvulsive Therapy,Deteriorating
+925,97,2022-06-23,2023-04-10,Isolation Therapy,Improving
+926,14,2021-02-14,2022-11-25,Isolation Therapy,Unpredictable
+926,9,2022-01-12,2022-12-24,Cognitive Behavioral Therapy,Deteriorating
+926,12,2023-12-24,2024-08-19,Cognitive Behavioral Therapy,Improving
+927,69,2023-07-29,2023-08-17,Heavy Medication,Unchanged
+928,36,2021-10-12,2023-04-04,Isolation Therapy,Deteriorating
+928,25,2022-07-20,2022-08-21,Psychosurgery,Unpredictable
+929,49,2022-03-15,2024-04-26,Cognitive Behavioral Therapy,Unpredictable
+929,42,2023-08-15,2024-03-13,Aversion Therapy,Deteriorating
+929,13,2022-01-09,2023-09-08,Isolation Therapy,Unchanged
+929,95,2019-11-28,2019-12-23,Psychosurgery,Improving
+930,10,2021-09-11,2021-12-19,Electroconvulsive Therapy,Unchanged
+931,49,2022-02-08,2024-02-10,Cognitive Behavioral Therapy,Deteriorating
+931,87,2021-02-13,2022-02-23,Isolation Therapy,Unchanged
+931,99,2020-06-17,2023-04-12,Psychosurgery,Improving
+932,95,2021-08-10,2023-10-20,Isolation Therapy,Deteriorating
+933,40,2024-08-20,2024-09-20,Aversion Therapy,Deteriorating
+933,14,2024-01-17,2024-01-26,Cognitive Behavioral Therapy,Unpredictable
+933,3,2021-01-31,2022-03-22,Heavy Medication,Unchanged
+933,57,2021-03-20,2022-06-05,Electroconvulsive Therapy,Deteriorating
+933,100,2024-05-28,2024-11-03,Electroconvulsive Therapy,Unpredictable
+934,21,2024-06-11,2024-10-06,Psychosurgery,Improving
+934,100,2023-05-14,2024-09-04,Psychosurgery,Unpredictable
+935,34,2021-01-22,2021-05-02,Psychosurgery,Deteriorating
+935,66,2019-12-01,2023-10-18,Cognitive Behavioral Therapy,Deteriorating
+935,33,2020-03-27,2020-11-17,Aversion Therapy,Improving
+935,85,2022-11-29,2023-05-27,Heavy Medication,Unchanged
+936,18,2022-04-25,2024-03-28,Isolation Therapy,Unchanged
+937,99,2024-08-09,2024-08-29,Aversion Therapy,Unpredictable
+937,20,2020-05-20,2022-09-20,Cognitive Behavioral Therapy,Deteriorating
+938,67,2024-10-13,2024-10-20,Isolation Therapy,Improving
+938,41,2023-11-28,2024-05-13,Psychosurgery,Unpredictable
+938,56,2022-12-03,2023-07-19,Cognitive Behavioral Therapy,Unpredictable
+939,6,2023-05-04,2024-07-07,Cognitive Behavioral Therapy,Unpredictable
+940,20,2024-02-08,2024-03-06,Heavy Medication,Unpredictable
+941,38,2022-05-14,2022-12-04,Psychosurgery,Improving
+942,92,2024-07-20,2024-08-26,Aversion Therapy,Unchanged
+942,46,2022-06-07,2024-03-16,Aversion Therapy,Deteriorating
+942,36,2024-03-21,2024-04-15,Aversion Therapy,Unpredictable
+942,66,2022-11-30,2024-06-28,Isolation Therapy,Improving
+943,70,2023-08-22,2024-08-01,Electroconvulsive Therapy,Unchanged
+943,14,2024-04-07,2024-08-30,Isolation Therapy,Improving
+944,27,2023-07-08,2024-06-20,Electroconvulsive Therapy,Unpredictable
+944,35,2019-11-27,2020-11-06,Cognitive Behavioral Therapy,Unpredictable
+944,49,2024-10-16,2024-10-17,Cognitive Behavioral Therapy,Unpredictable
+945,35,2023-06-28,2023-11-12,Psychosurgery,Deteriorating
+945,13,2020-02-28,2020-03-06,Electroconvulsive Therapy,Deteriorating
+945,38,2023-12-16,2024-08-25,Psychosurgery,Unchanged
+946,76,2020-10-14,2023-09-15,Isolation Therapy,Deteriorating
+947,69,2024-01-14,2024-06-07,Cognitive Behavioral Therapy,Improving
+947,66,2021-02-08,2021-10-04,Heavy Medication,Deteriorating
+947,75,2022-07-08,2024-05-11,Heavy Medication,Unchanged
+948,24,2020-06-18,2024-03-02,Heavy Medication,Deteriorating
+948,67,2024-06-04,2024-07-29,Aversion Therapy,Unchanged
+948,86,2021-06-29,2021-10-04,Cognitive Behavioral Therapy,Unchanged
+948,90,2021-06-07,2021-09-03,Aversion Therapy,Improving
+949,52,2022-07-04,2023-12-15,Aversion Therapy,Improving
+950,95,2020-10-13,2024-03-11,Aversion Therapy,Unpredictable
+951,5,2021-01-20,2024-10-18,Electroconvulsive Therapy,Unchanged
+952,75,2023-11-17,2024-07-19,Electroconvulsive Therapy,Deteriorating
+952,24,2021-10-20,2022-05-25,Isolation Therapy,Unpredictable
+952,25,2023-10-18,2024-08-10,Psychosurgery,Unchanged
+952,17,2024-09-06,2024-10-29,Cognitive Behavioral Therapy,Deteriorating
+952,25,2022-07-26,2022-11-08,Cognitive Behavioral Therapy,Deteriorating
+953,89,2020-03-20,2021-09-22,Isolation Therapy,Deteriorating
+953,22,2022-12-04,2023-08-18,Aversion Therapy,Improving
+954,88,2022-04-30,2024-04-07,Electroconvulsive Therapy,Deteriorating
+954,68,2020-02-21,2023-08-06,Isolation Therapy,Deteriorating
+954,27,2020-11-17,2021-03-31,Electroconvulsive Therapy,Improving
+954,11,2023-05-29,2023-06-20,Electroconvulsive Therapy,Improving
+955,41,2021-04-26,2024-04-04,Psychosurgery,Deteriorating
+955,46,2021-06-24,2023-04-09,Heavy Medication,Improving
+955,100,2024-10-20,2024-10-21,Cognitive Behavioral Therapy,Unchanged
+955,55,2024-02-18,2024-08-04,Isolation Therapy,Improving
+956,37,2023-12-04,2024-10-29,Electroconvulsive Therapy,Deteriorating
+956,46,2023-04-27,2024-01-14,Isolation Therapy,Unchanged
+956,46,2024-05-13,2024-09-05,Electroconvulsive Therapy,Deteriorating
+957,83,2023-09-02,2023-09-17,Electroconvulsive Therapy,Unchanged
+958,57,2024-03-14,2024-05-04,Cognitive Behavioral Therapy,Unchanged
+958,44,2020-09-18,2023-05-13,Isolation Therapy,Improving
+958,93,2020-06-28,2021-09-13,Isolation Therapy,Deteriorating
+958,58,2022-10-07,2023-07-19,Aversion Therapy,Deteriorating
+958,36,2020-02-27,2020-04-29,Cognitive Behavioral Therapy,Unpredictable
+959,52,2023-09-11,2024-05-23,Cognitive Behavioral Therapy,Deteriorating
+959,78,2019-12-31,2020-10-24,Heavy Medication,Unchanged
+959,32,2021-07-05,2023-01-16,Cognitive Behavioral Therapy,Unchanged
+960,69,2022-03-08,2022-07-08,Electroconvulsive Therapy,Unchanged
+960,91,2024-03-16,2024-08-14,Aversion Therapy,Deteriorating
+960,13,2022-12-12,2023-12-24,Isolation Therapy,Deteriorating
+960,46,2021-02-11,2023-04-23,Psychosurgery,Unpredictable
+960,37,2021-04-16,2022-05-09,Heavy Medication,Unpredictable
+961,97,2024-10-22,2024-10-23,Aversion Therapy,Unchanged
+961,61,2022-06-23,2024-09-06,Cognitive Behavioral Therapy,Deteriorating
+961,93,2022-12-29,2023-11-08,Electroconvulsive Therapy,Unpredictable
+961,70,2020-11-07,2024-09-25,Heavy Medication,Unchanged
+962,44,2023-05-01,2024-05-17,Psychosurgery,Unpredictable
+962,16,2021-11-26,2023-06-13,Psychosurgery,Unchanged
+963,6,2021-08-10,2024-07-26,Aversion Therapy,Deteriorating
+963,10,2022-04-18,2024-07-30,Heavy Medication,Improving
+963,71,2021-11-10,2023-08-08,Psychosurgery,Unchanged
+963,66,2020-12-24,2022-08-07,Psychosurgery,Unchanged
+964,33,2024-01-23,2024-02-01,Psychosurgery,Unpredictable
+964,99,2021-03-22,2024-05-12,Cognitive Behavioral Therapy,Deteriorating
+964,45,2022-07-27,2022-10-28,Heavy Medication,Improving
+964,32,2021-06-30,2022-08-11,Aversion Therapy,Deteriorating
+964,100,2020-05-02,2021-10-12,Electroconvulsive Therapy,Unpredictable
+965,78,2022-05-06,2024-09-09,Cognitive Behavioral Therapy,Unpredictable
+965,99,2024-08-12,2024-09-29,Electroconvulsive Therapy,Deteriorating
+965,55,2020-08-21,2021-09-05,Psychosurgery,Unchanged
+965,88,2024-06-17,2024-10-14,Aversion Therapy,Deteriorating
+965,56,2024-05-13,2024-09-27,Cognitive Behavioral Therapy,Improving
+966,62,2022-01-25,2022-05-31,Isolation Therapy,Improving
+966,62,2021-05-28,2022-01-07,Electroconvulsive Therapy,Unpredictable
+966,30,2019-12-04,2022-06-17,Heavy Medication,Unpredictable
+966,49,2022-08-25,2022-11-21,Heavy Medication,Unpredictable
+967,43,2020-02-07,2021-07-15,Psychosurgery,Improving
+967,59,2019-11-20,2021-10-02,Isolation Therapy,Improving
+967,9,2021-12-29,2023-10-06,Electroconvulsive Therapy,Unchanged
+967,36,2020-07-16,2023-02-09,Cognitive Behavioral Therapy,Unpredictable
+967,15,2021-09-25,2023-07-13,Cognitive Behavioral Therapy,Improving
+968,9,2023-06-06,2024-01-01,Isolation Therapy,Unpredictable
+968,89,2020-06-27,2021-09-03,Isolation Therapy,Unchanged
+968,85,2023-10-12,2024-07-23,Heavy Medication,Unpredictable
+968,54,2024-03-30,2024-06-29,Heavy Medication,Deteriorating
+969,31,2020-11-16,2021-10-30,Electroconvulsive Therapy,Deteriorating
+969,4,2023-08-27,2024-10-17,Isolation Therapy,Deteriorating
+969,78,2021-02-11,2021-03-28,Isolation Therapy,Unchanged
+969,93,2021-03-19,2022-09-12,Isolation Therapy,Unpredictable
+970,39,2021-02-04,2022-12-19,Heavy Medication,Deteriorating
+970,45,2020-12-11,2021-07-14,Psychosurgery,Unchanged
+970,4,2020-10-15,2023-03-23,Cognitive Behavioral Therapy,Improving
+970,50,2024-01-02,2024-09-07,Isolation Therapy,Deteriorating
+970,59,2024-10-21,2024-10-28,Isolation Therapy,Deteriorating
+971,24,2023-10-27,2024-05-06,Psychosurgery,Unchanged
+971,37,2020-02-06,2020-11-29,Isolation Therapy,Deteriorating
+971,76,2024-07-18,2024-07-27,Psychosurgery,Deteriorating
+971,72,2020-09-11,2023-09-30,Cognitive Behavioral Therapy,Deteriorating
+971,40,2021-11-29,2022-01-11,Psychosurgery,Deteriorating
+972,43,2020-06-17,2020-07-23,Psychosurgery,Unpredictable
+972,100,2024-05-29,2024-09-15,Heavy Medication,Unpredictable
+972,6,2021-11-20,2023-03-28,Isolation Therapy,Unchanged
+972,56,2021-07-14,2022-07-16,Electroconvulsive Therapy,Unpredictable
+972,82,2022-05-18,2024-08-31,Psychosurgery,Improving
+973,51,2020-06-28,2024-01-02,Cognitive Behavioral Therapy,Deteriorating
+973,7,2020-11-19,2022-09-21,Electroconvulsive Therapy,Unchanged
+973,83,2021-05-22,2021-09-01,Heavy Medication,Improving
+974,100,2020-06-07,2021-01-29,Isolation Therapy,Improving
+974,70,2024-05-14,2024-08-31,Cognitive Behavioral Therapy,Improving
+974,40,2022-03-10,2022-09-06,Isolation Therapy,Deteriorating
+975,38,2020-03-11,2021-07-02,Isolation Therapy,Improving
+975,91,2023-04-19,2024-02-24,Aversion Therapy,Improving
+975,65,2022-08-13,2023-03-31,Cognitive Behavioral Therapy,Unchanged
+976,29,2022-07-15,2024-04-15,Psychosurgery,Unchanged
+976,53,2023-09-16,2023-12-03,Isolation Therapy,Unpredictable
+976,37,2022-12-20,2024-08-01,Psychosurgery,Improving
+976,26,2022-12-03,2024-06-14,Heavy Medication,Improving
+976,86,2021-07-22,2024-02-09,Electroconvulsive Therapy,Improving
+977,43,2022-10-27,2023-07-16,Cognitive Behavioral Therapy,Unchanged
+977,9,2021-06-24,2024-03-10,Cognitive Behavioral Therapy,Deteriorating
+977,78,2020-06-05,2022-03-07,Isolation Therapy,Unchanged
+977,16,2020-09-03,2022-10-22,Psychosurgery,Unpredictable
+977,14,2023-12-09,2024-03-07,Heavy Medication,Improving
+978,6,2022-10-09,2023-02-28,Aversion Therapy,Improving
+978,10,2024-05-06,2024-09-20,Psychosurgery,Improving
+979,45,2023-12-31,2024-08-02,Psychosurgery,Deteriorating
+980,39,2024-07-16,2024-08-14,Electroconvulsive Therapy,Unpredictable
+980,51,2021-11-03,2022-12-15,Isolation Therapy,Unchanged
+980,79,2023-12-07,2024-05-14,Cognitive Behavioral Therapy,Deteriorating
+981,24,2024-08-24,2024-10-19,Cognitive Behavioral Therapy,Unchanged
+981,85,2022-07-24,2023-09-17,Psychosurgery,Unpredictable
+981,65,2022-08-16,2024-04-23,Psychosurgery,Unchanged
+981,30,2022-05-01,2024-05-16,Heavy Medication,Unchanged
+981,42,2023-04-30,2024-06-02,Aversion Therapy,Unpredictable
+982,12,2022-11-03,2024-09-28,Aversion Therapy,Deteriorating
+982,15,2022-03-19,2022-07-06,Heavy Medication,Unpredictable
+982,70,2022-07-08,2024-09-25,Cognitive Behavioral Therapy,Improving
+982,9,2024-05-23,2024-09-27,Psychosurgery,Unpredictable
+982,98,2020-02-15,2020-03-31,Aversion Therapy,Improving
+983,98,2022-12-28,2024-04-28,Electroconvulsive Therapy,Unchanged
+984,78,2020-11-12,2023-07-29,Electroconvulsive Therapy,Unchanged
+984,40,2020-06-14,2024-02-03,Electroconvulsive Therapy,Unpredictable
+984,52,2024-04-21,2024-05-23,Isolation Therapy,Unpredictable
+985,84,2024-05-19,2024-08-18,Aversion Therapy,Unpredictable
+986,4,2024-08-18,2024-08-19,Psychosurgery,Unpredictable
+987,72,2024-08-12,2024-10-26,Isolation Therapy,Improving
+987,29,2021-11-24,2023-07-18,Aversion Therapy,Unchanged
+987,31,2024-04-12,2024-06-10,Psychosurgery,Unchanged
+987,55,2023-07-07,2024-09-06,Cognitive Behavioral Therapy,Improving
+988,60,2024-06-10,2024-07-09,Electroconvulsive Therapy,Unchanged
+988,69,2021-08-10,2024-07-10,Psychosurgery,Improving
+988,91,2024-10-09,2024-10-17,Aversion Therapy,Deteriorating
+989,66,2020-07-02,2021-12-18,Heavy Medication,Improving
+989,70,2020-06-29,2024-09-21,Psychosurgery,Deteriorating
+990,37,2022-09-14,2023-08-05,Isolation Therapy,Unchanged
+990,73,2022-02-23,2024-10-12,Isolation Therapy,Improving
+990,10,2021-07-28,2022-08-16,Cognitive Behavioral Therapy,Improving
+990,47,2021-08-02,2024-05-10,Isolation Therapy,Unchanged
+990,15,2023-07-05,2023-08-21,Electroconvulsive Therapy,Improving
+991,64,2023-05-24,2024-05-07,Psychosurgery,Unpredictable
+991,62,2020-11-11,2024-01-26,Isolation Therapy,Unpredictable
+991,4,2023-03-09,2023-11-09,Electroconvulsive Therapy,Deteriorating
+991,44,2021-07-12,2023-03-01,Psychosurgery,Unpredictable
+992,92,2021-10-14,2022-09-26,Electroconvulsive Therapy,Improving
+992,71,2022-05-30,2024-06-26,Isolation Therapy,Unpredictable
+992,73,2020-07-18,2021-11-25,Cognitive Behavioral Therapy,Unchanged
+992,60,2024-07-16,2024-07-30,Cognitive Behavioral Therapy,Deteriorating
+993,85,2020-04-01,2021-04-02,Heavy Medication,Unpredictable
+994,34,2022-03-31,2022-10-15,Aversion Therapy,Deteriorating
+994,94,2020-11-20,2021-12-04,Isolation Therapy,Improving
+995,95,2024-10-11,2024-11-01,Psychosurgery,Deteriorating
+996,78,2022-12-04,2024-01-19,Cognitive Behavioral Therapy,Improving
+996,95,2020-04-26,2021-03-17,Electroconvulsive Therapy,Unchanged
+996,10,2021-12-26,2023-03-02,Isolation Therapy,Unpredictable
+997,75,2021-08-26,2021-11-04,Aversion Therapy,Unchanged
+998,62,2024-04-07,2024-06-12,Aversion Therapy,Unchanged
+998,68,2023-04-29,2024-02-29,Isolation Therapy,Deteriorating
+998,47,2023-06-30,2024-08-29,Heavy Medication,Unchanged
+998,39,2020-04-08,2023-02-26,Electroconvulsive Therapy,Improving
+998,1,2022-02-14,2023-10-01,Electroconvulsive Therapy,Unchanged
+999,57,2023-12-21,2024-07-26,Isolation Therapy,Unchanged
+1000,83,2024-06-08,2024-09-08,Psychosurgery,Deteriorating
+1000,70,2022-05-20,2022-11-23,Aversion Therapy,Unchanged
+1000,16,2020-03-31,2024-05-14,Electroconvulsive Therapy,Improving
+1000,58,2022-06-02,2022-06-25,Psychosurgery,Unchanged
